@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media only screen and ( max-width:1200px) {
+
+
+
+}
+
+@media only screen and ( max-width:960px) {
+.callback_inner .form-group input.code { width:50%;  }
+
+}
+
+@media only screen and ( max-width:768px) {
+
+
+.logo{margin: 0px 50px;}
+.logo a img { width:100% !important;}
+/*top social media css start*/
+.top_bg { text-align:center; }
+.phone { text-align:center;font-size:17px; margin-top:6px; }
+/*top social media css end*/
+
+.history .right_box {padding: 20px;}
+
+.counter i { margin-top:40px;}
+
+.callback { margin-top:20px;}
+
+.bot3 { margin-top:15px;}
+	
+.footer { text-align:center; }
+.powered_by { text-align:center;}
+
+.product_box h2:after {  bottom:-85px;}
+.product_box h2:before {  top:100px; }
+
+}
+
+@media only screen and ( max-width:480px) {
+
+
+}
+
+@media only screen and ( max-width:320px) {
+
+
+
+}
+
