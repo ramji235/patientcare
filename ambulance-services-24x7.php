@@ -1,14 +1,14 @@
 <!doctype html>
 <html>
 <head>
-<title>Ambulance Services 24X7</title>
+<title>Ambulance Transport Enquiries | Careright Home Health Care</title>
 
 <!-- Mirrored from carerighthomehealthcares.com/about-us by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Aug 2025 10:04:00 GMT -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Learn more about Careright Home Health Care Pvt. Ltd., our mission, and our commitment to providing quality home nursing, attendant services, and patient care." />
-<meta name="keywords" content="about us, home health care, nursing services, patient care, elder care" />
-<link rel="canonical" href="about-us.html" />
+<meta name="description" content="Contact Careright to enquire about ambulance transport availability. Share pickup and destination details, mobility needs, timing, and any transport instructions." />
+<meta name="keywords" content="ambulance transport enquiry, patient transport service, medical transport, ambulance availability, hospital transfer transport" />
+<link rel="canonical" href="ambulance-services-24x7.php" />
 <meta name="google-site-verification" content="FxrmckzPcTYaL7gXPNcvhWAGROvqhvdqNZlgs4IRA2k" />
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <meta charset="utf-8">
@@ -142,93 +142,89 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
 <!--header div end-->
 
 
-<!--breadcump div start-->     
-<section class="page-title-section">
+<!--breadcump div start-->
+<section class="ambulance-care-title">
     <div class="container">
-        <h1>Ambulance Services 24X7</h1>
+        <span>CARERIGHT HOME HEALTH CARE · PATIENT TRANSPORT ENQUIRIES</span>
+        <h1>Planning medical transport?</h1>
         <ol class="breadcrumb">
           <li><a href="index.php">Home</a></li>
-          <li class="active">Ambulance Services 24X7</li>
+          <li><a href="services.php">Services</a></li>
+          <li class="active">Ambulance Transport</li>
         </ol>
     </div>
 </section>
 <!--breadcump div end-->
 
-
-<a name="about"></a>
-<!-- welcome div start -->
-<div class="content">
+<main class="ambulance-care">
     <div class="container">
-        <div class="row">
-        	<div class="col-md-8 col-sm-8 col-xs-12">
-            <!--weldiv start-->
-            <div class="wel">
-                <h1 style="font-size:25px;"><strong style="color:#0066CC;">24x7 Ambulance Services</strong><span></span></h1>
-                <div class="text"><p>When urgent medical transport is needed, contact our team to check ambulance availability and arrange pickup. Please share the patient's location, condition, and a callback number so the appropriate transport can be coordinated.</p></div>
-            
-                <div class="page-detail-content">
-                    <h2>Understanding the support</h2>
-                    <p>Families considering ambulance transport can begin by describing planned patient transport and clear pickup coordination. The suitable arrangement depends on the individual, the household routine, confirmed availability, and any relevant professional guidance.</p>
-                    <h2>Planning daily routines</h2>
-                    <p>A useful discussion identifies pickup and destination details, mobility needs, and requested travel time. Explain which activities are most important, when help is needed, and what the person receiving care prefers to do independently.</p>
-                    <h2>Preparing for care</h2>
-                    <p>Before support begins, gather discharge papers, referral details, and the responsible family contact. Keeping current information together makes family handovers clearer and helps the care team understand the arrangements already in place.</p>
-                    <h2>Home and access arrangements</h2>
-                    <p>Planning should also take account of building access, stairs, parking, and arrangements at both addresses. Mention practical constraints early, including access, timing, the household's daily routine, and any equipment that affects the service.</p>
-                    <h2>Family communication</h2>
-                    <p>Agree with family members on who will accompany the patient and meet the vehicle. A clear point of contact and consistent handover can reduce confusion when schedules change or practical questions arise.</p>
-                    <h2>Respectful, personal support</h2>
-                    <p>Support should respect the person's dignity, privacy, and choices. Discuss communication preferences, familiar routines, and how assistance can be offered without taking away independence.</p>
-                    <h2>Working with healthcare professionals</h2>
-                    <p>Keep clinical responsibilities clear: life-threatening emergencies require local emergency services immediately. If health needs change or new symptoms appear, contact the treating professional rather than relying on a routine service discussion.</p>
-                    <h2>Reviewing the care arrangement</h2>
-                    <p>Review the arrangement regularly, especially whether timing, destination, or mobility needs have changed. Families can share practical feedback with the coordinator and consult the relevant professional when care instructions need reassessment.</p>
-                    <h2>Questions to discuss</h2>
-                    <p>Before confirming a service, ask about vehicle availability, travel timing, access, and patient assistance. Discussing duties, hours, communication, and availability in advance helps everyone understand what is and is not included.</p>
-                    <h2>Getting started</h2>
-                    <p>To get started with ambulance transport, share pickup and destination, patient mobility, requested time, and callback number. The team can use those details to discuss the request, explain possible availability, and outline the next step without assuming a booking.</p>
+        <section class="ambulance-care__hero">
+            <div class="ambulance-care__copy">
+                <span class="ambulance-care__eyebrow">PLANNED PATIENT TRANSPORT · DETAILS MATTER</span>
+                <h2>Help us understand the journey and support needed.</h2>
+                <p>For a transport enquiry, share the pickup and destination, requested timing, mobility and transfer needs, and a callback number. The team can discuss the request and confirm whether a suitable vehicle and service are available.</p>
+                <div class="ambulance-care__actions">
+                    <a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> Call to ask about availability</a>
+                    <a href="contact.php">Send a general enquiry <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
                 </div>
-</div>
+                <div class="ambulance-care__availability"><i class="fa fa-info-circle" aria-hidden="true"></i><span>Transport is subject to confirmation. A call or enquiry does not confirm a dispatch or booking.</span></div>
             </div>
-            <div class="col-md-4 col-sm-4 col-xs-12">
-            <!--callback form div start-->
-            <div class="callback">
-                <img src="images/abo.jpg" style="width:91%;">
-            </div>	
-            <!--callback form div end-->
+            <div class="ambulance-care__visual">
+                <img src="images/patient-transport-ambulance.svg" alt="Illustration of an ambulance prepared for a planned patient transport journey">
+                <div class="ambulance-care__visual-tag"><i class="fa fa-map-marker" aria-hidden="true"></i><span>PICKUP · ROUTE<br>· DESTINATION</span></div>
             </div>
-        </div>
-    </div>
-</div>
+        </section>
 
-<!-- Statistics Section Start -->
-<div class="content">
-    <div class="container">
-        <div class="row">
-        	<div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-handshake-o" aria-hidden="true"></i> 1000+</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Services Delivered<br><br></p>
-                </div>
+        <section class="ambulance-care__intro">
+            <div><span>FOR TRANSPORT REQUESTS</span><h2>Clear pickup details help the team assess your request.</h2></div>
+            <p>Tell us whether this is a planned transfer, a hospital discharge journey, or travel to an appointment. Vehicle type, crew, travel arrangements, and availability depend on the patient's needs and must be confirmed with the provider.</p>
+        </section>
+
+        <section class="ambulance-care__needs" aria-label="Details to share for an ambulance transport enquiry">
+            <article>
+                <span class="ambulance-care__need-icon"><i class="fa fa-map-signs" aria-hidden="true"></i></span>
+                <small>JOURNEY DETAILS</small>
+                <h3>Pickup and destination</h3>
+                <p>Share both addresses, preferred date and time, and building access or parking details.</p>
+            </article>
+            <article>
+                <span class="ambulance-care__need-icon ambulance-care__need-icon--patient"><i class="fa fa-wheelchair" aria-hidden="true"></i></span>
+                <small>PATIENT SUPPORT</small>
+                <h3>Mobility and assistance</h3>
+                <p>Explain whether the person can walk, needs transfer assistance, or uses mobility equipment.</p>
+            </article>
+            <article>
+                <span class="ambulance-care__need-icon ambulance-care__need-icon--plan"><i class="fa fa-file-text-o" aria-hidden="true"></i></span>
+                <small>CARE INSTRUCTIONS</small>
+                <h3>Relevant transport guidance</h3>
+                <p>Share any transport-related instructions from the treating team and who will accompany the patient.</p>
+            </article>
+        </section>
+
+        <section class="ambulance-care__checklist">
+            <div class="ambulance-care__checklist-heading">
+                <span>BEFORE YOU CALL ABOUT A PLANNED TRIP</span>
+                <h2>Have the practical details ready.</h2>
+                <p>Keep the information concise; do not send medical records or sensitive documents through a general enquiry.</p>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-thumbs-up" aria-hidden="true"></i> 10+ Yrs</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Of Exeperience In Nursing Care<br><br></p>
-                </div>
+            <div class="ambulance-care__checklist-items">
+                <article><b>01</b><div><h3>Where and when?</h3><p>Pickup point, destination, requested time, and a reliable callback number.</p></div></article>
+                <article><b>02</b><div><h3>What assistance is needed?</h3><p>Mobility, stairs or lift access, transfer support, and relevant equipment.</p></div></article>
+                <article><b>03</b><div><h3>What should be confirmed?</h3><p>Vehicle suitability, availability, travel arrangements, charges, and any support included.</p></div></article>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-star" aria-hidden="true"></i> 100%</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Satisfaction Rate<br><br></p>
-                </div>
-            </div>
-        </div>
+        </section>
+
+        <aside class="ambulance-care__emergency">
+            <span><i class="fa fa-exclamation" aria-hidden="true"></i></span>
+            <div><strong>Medical emergency? Do not wait for a website enquiry or routine callback.</strong><p>If someone may be in immediate danger or needs urgent medical attention, call your local emergency services now and follow the dispatcher’s instructions. This page and the contact number above are for service enquiries and availability checks; they are not a substitute for emergency dispatch.</p></div>
+        </aside>
+
+        <section class="ambulance-care__contact">
+            <div><span>PLANNED AMBULANCE TRANSPORT ENQUIRIES</span><h2>Call to discuss a journey and check availability.</h2><p>Have the pickup, destination, requested timing, patient mobility needs, and callback number ready. Please wait for direct confirmation before relying on a transport arrangement.</p></div>
+            <a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> +91 7668066607</a>
+        </section>
     </div>
-</div>
-<!-- Statistics Section End -->
+</main>
 
 
 <!--bot links div start-->  

@@ -1,14 +1,14 @@
 <!doctype html>
 <html>
 <head>
-<title>About Us | Careright Home Health Care Pvt. Ltd.</title>
+<title>Home Nursing Services in Model Town | Careright</title>
 
 <!-- Mirrored from carerighthomehealthcares.com/about-us by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Aug 2025 10:04:00 GMT -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Learn more about Careright Home Health Care Pvt. Ltd., our mission, and our commitment to providing quality home nursing, attendant services, and patient care." />
-<meta name="keywords" content="about us, home health care, nursing services, patient care, elder care" />
-<link rel="canonical" href="about-us.html" />
+<meta name="description" content="Enquire about home nursing services in Model Town, North Delhi. Contact Careright to discuss your family's care needs and local availability." />
+<meta name="keywords" content="home nursing Model Town, nursing services Model Town, home care North Delhi, Careright Home Health Care" />
+<link rel="canonical" href="home-care-nursing-services-model-town.php" />
 <meta name="google-site-verification" content="FxrmckzPcTYaL7gXPNcvhWAGROvqhvdqNZlgs4IRA2k" />
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <meta charset="utf-8">
@@ -145,9 +145,10 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
 <!--breadcump div start-->     
 <section class="page-title-section">
     <div class="container">
-        <h1>Model Town</h1>
+        <h1>Home Nursing in Model Town</h1>
         <ol class="breadcrumb">
           <li><a href="index.php">Home</a></li>
+          <li><a href="services.php">Services</a></li>
           <li class="active">Model Town</li>
         </ol>
     </div>
@@ -155,80 +156,84 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
 <!--breadcump div end-->
 
 
-<a name="about"></a>
-<!-- welcome div start -->
-<div class="content">
+<main class="model-town-nursing">
     <div class="container">
-        <div class="row">
-        	<div class="col-md-8 col-sm-8 col-xs-12">
-            <!--weldiv start-->
-            <div class="wel">
-                <h1 style="font-size:25px;"><strong style="color:#0066CC;">Home Nursing Services in Model Town</strong><span></span></h1>
-                <div class="text"><p>Families in Model Town can contact us to plan nursing support for a patient at home. Tell us which care tasks have been advised, how often support is needed, and the patient's locality so we can discuss availability.</p></div>
-            
-                <div class="page-detail-content">
-                    <h2>Understanding the support</h2>
-                    <p>Families considering home nursing in Model Town can begin by describing recovery and ongoing care. The suitable arrangement depends on the individual, the household routine, confirmed availability, and any relevant professional guidance.</p>
-                    <h2>Planning daily routines</h2>
-                    <p>A useful discussion identifies the clinician-advised nursing tasks and preferred visit hours. Explain which activities are most important, when help is needed, and what the person receiving care prefers to do independently.</p>
-                    <h2>Preparing for care</h2>
-                    <p>Before support begins, gather discharge notes, current prescriptions, and clinician contact details. Keeping current information together makes family handovers clearer and helps the care team understand the arrangements already in place.</p>
-                    <h2>Home and access arrangements</h2>
-                    <p>Planning should also take account of the patient's routine, home access, and any equipment already in use. Mention practical constraints early, including access, timing, the household's daily routine, and any equipment that affects the service.</p>
-                    <h2>Family communication</h2>
-                    <p>Agree with family members on the family contact who can receive updates and answer practical questions. A clear point of contact and consistent handover can reduce confusion when schedules change or practical questions arise.</p>
-                    <h2>Respectful, personal support</h2>
-                    <p>Support should respect the person's dignity, privacy, and choices. Discuss communication preferences, familiar routines, and how assistance can be offered without taking away independence.</p>
-                    <h2>Working with healthcare professionals</h2>
-                    <p>Keep clinical responsibilities clear: medical decisions and treatment changes remain with qualified clinicians. If health needs change or new symptoms appear, contact the treating professional rather than relying on a routine service discussion.</p>
-                    <h2>Reviewing the care arrangement</h2>
-                    <p>Review the arrangement regularly, especially whether the agreed schedule and daily support still meet the family's needs. Families can share practical feedback with the coordinator and consult the relevant professional when care instructions need reassessment.</p>
-                    <h2>Questions to discuss</h2>
-                    <p>Before confirming a service, ask about local availability, proposed duties, timing, and handover arrangements. Discussing duties, hours, communication, and availability in advance helps everyone understand what is and is not included.</p>
-                    <h2>Getting started</h2>
-                    <p>To get started with home nursing in Model Town, share the patient's neighbourhood, support needs, preferred schedule, and callback number. The team can use those details to discuss the request, explain possible availability, and outline the next step without assuming a booking.</p>
+        <section class="model-town-nursing__intro">
+            <div class="model-town-nursing__story">
+                <span class="model-town-nursing__eyebrow">CARERIGHT HOME HEALTH CARE <i></i> MODEL TOWN, NORTH DELHI</span>
+                <h2>A thoughtful conversation is a good place to begin.</h2>
+                <p>When a loved one needs nursing support at home, families often have questions about the kind of help to ask for, timing, and what to prepare. Careright welcomes enquiries from Model Town and can discuss your family's requirements and ask about local availability.</p>
+                <div class="model-town-nursing__story-links">
+                    <a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> +91 7668066607</a>
+                    <a href="contact.php">Contact our team <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
                 </div>
-</div>
             </div>
-            <div class="col-md-4 col-sm-4 col-xs-12">
-            <!--callback form div start-->
-            <div class="callback">
-                <img src="images/abo.jpg" style="width:91%;">
-            </div>	
-            <!--callback form div end-->
-            </div>
-        </div>
-    </div>
-</div>
+            <aside class="model-town-nursing__enquiry-card">
+                <div class="model-town-nursing__enquiry-top">
+                    <span class="model-town-nursing__pin"><i class="fa fa-map-marker" aria-hidden="true"></i></span>
+                    <span>LOCAL ENQUIRY</span>
+                </div>
+                <h3>Home nursing in Model Town</h3>
+                <p>Share a few details so your enquiry can be discussed clearly.</p>
+                <ul>
+                    <li><i class="fa fa-check" aria-hidden="true"></i> Patient's area or nearby landmark</li>
+                    <li><i class="fa fa-check" aria-hidden="true"></i> Support and preferred schedule</li>
+                    <li><i class="fa fa-check" aria-hidden="true"></i> Relevant care instructions</li>
+                    <li><i class="fa fa-check" aria-hidden="true"></i> Family contact for follow-up</li>
+                </ul>
+                <a href="tel:7668066607">Call to make an enquiry <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+            </aside>
+        </section>
 
-<!-- Statistics Section Start -->
-<div class="content">
-    <div class="container">
-        <div class="row">
-        	<div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-handshake-o" aria-hidden="true"></i> 1000+</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Services Delivered<br><br></p>
-                </div>
+        <section class="model-town-nursing__image-strip">
+            <img src="images/HOME NURSING SERVICE.png" alt="Nurse supporting a patient at home">
+            <div><span>HOME NURSING SUPPORT</span><strong>Care discussions centred on the person and their routine.</strong></div>
+        </section>
+
+        <section class="model-town-nursing__planning">
+            <div class="model-town-nursing__planning-heading">
+                <span>PLANNING YOUR ENQUIRY</span>
+                <h2>What would be helpful to discuss?</h2>
+                <p>Every situation is different. These topics can help your family prepare for a practical conversation with our team.</p>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-thumbs-up" aria-hidden="true"></i> 10+ Yrs</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Of Exeperience In Nursing Care<br><br></p>
-                </div>
+            <div class="model-town-nursing__topics">
+                <article>
+                    <span>01 / NEEDS</span>
+                    <h3>The support being considered</h3>
+                    <p>Describe the type of home nursing you are enquiring about, including whether the need follows a hospital stay or relates to ongoing care.</p>
+                </article>
+                <article>
+                    <span>02 / ROUTINE</span>
+                    <h3>Timing and home routine</h3>
+                    <p>Share preferred days or hours and any practical details about the household routine that may be useful to discuss.</p>
+                </article>
+                <article>
+                    <span>03 / GUIDANCE</span>
+                    <h3>Instructions from the care team</h3>
+                    <p>If available, keep relevant discharge information or instructions from the treating healthcare professional nearby when making your enquiry.</p>
+                </article>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-star" aria-hidden="true"></i> 100%</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Satisfaction Rate<br><br></p>
-                </div>
+        </section>
+
+        <section class="model-town-nursing__note">
+            <span class="model-town-nursing__note-icon"><i class="fa fa-user-md" aria-hidden="true"></i></span>
+            <div>
+                <h3>Clinical decisions remain with the treating professional</h3>
+                <p>Diagnosis, treatment choices, and changes in medical care should be guided by the patient's qualified healthcare professional. Contact them if the patient's condition or care needs change.</p>
             </div>
-        </div>
+            <a href="home-nursing-service.php">About home nursing <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+        </section>
+
+        <section class="model-town-nursing__closing">
+            <div>
+                <span>MODEL TOWN · NORTH DELHI</span>
+                <h2>Talk with Careright about home nursing.</h2>
+                <p>Ask about your requirements, proposed support, and local availability before deciding on an arrangement.</p>
+            </div>
+            <a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> Call +91 7668066607</a>
+        </section>
     </div>
-</div>
-<!-- Statistics Section End -->
+</main>
 
 
 <!--bot links div start-->  

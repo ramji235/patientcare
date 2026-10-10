@@ -164,29 +164,21 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
             <!--weldiv start-->
             <div class="wel">
                 <h1 style="font-size:25px;"><strong style="color:#0066CC;">Careright Home Health Care Pvt. Ltd.</strong><span></span></h1>
-                <div class="text"><p>Careright Home Health Care Pvt. Ltd. works with families to arrange dependable care in the comfort of home. Our services bring together nursing, patient-care attendants, elder care, dementia support, baby and mother care, and physiotherapy.</p><p>We believe good home care starts with listening. We take time to understand each client's needs, daily routine, and family preferences, then discuss suitable support options. Our aim is to provide considerate, reliable assistance while respecting every person's dignity and independence.</p><p>Care at home is coordinated with the family and, where clinical support is needed, the patient's healthcare professionals. Contact us to learn more about our approach or discuss a care requirement.</p></div>
+                <div class="text"><p>Careright Home Health Care Pvt. Ltd. connects individuals and families with home-care support in familiar surroundings. Based in Shakarpur, New Delhi, we bring together a range of care services to help families explore support that suits their needs.</p><p>We believe care should be thoughtful, respectful, and centred on the person receiving it. We listen to families, learn about their requirements, and help them understand the services they can enquire about.</p><p>Our goal is to make it easier for families to discuss care at home with a team that values clear communication, dignity, and personal preferences.</p></div>
             
                 <div class="page-detail-content">
-                    <h2>Understanding the support</h2>
-                    <p>Families considering Careright home health care can begin by describing practical support options for care in familiar surroundings. The suitable arrangement depends on the individual, the household routine, confirmed availability, and any relevant professional guidance.</p>
-                    <h2>Planning daily routines</h2>
-                    <p>A useful discussion identifies nursing, attendant assistance, elder support, and other home-care needs. Explain which activities are most important, when help is needed, and what the person receiving care prefers to do independently.</p>
-                    <h2>Preparing for care</h2>
-                    <p>Before support begins, gather the person's routine, preferences, locality, and type of assistance sought. Keeping current information together makes family handovers clearer and helps the care team understand the arrangements already in place.</p>
-                    <h2>Home and access arrangements</h2>
-                    <p>Planning should also take account of the information a family may wish to prepare before discussing care. Mention practical constraints early, including access, timing, the household's daily routine, and any equipment that affects the service.</p>
-                    <h2>Family communication</h2>
-                    <p>Agree with family members on how the person receiving care can be included in decisions. A clear point of contact and consistent handover can reduce confusion when schedules change or practical questions arise.</p>
-                    <h2>Respectful, personal support</h2>
-                    <p>Support should respect the person's dignity, privacy, and choices. Discuss communication preferences, familiar routines, and how assistance can be offered without taking away independence.</p>
-                    <h2>Working with healthcare professionals</h2>
-                    <p>Keep clinical responsibilities clear: clinical decisions remain with the patient's qualified healthcare professionals. If health needs change or new symptoms appear, contact the treating professional rather than relying on a routine service discussion.</p>
-                    <h2>Reviewing the care arrangement</h2>
-                    <p>Review the arrangement regularly, especially whether the support arrangement continues to suit the household. Families can share practical feedback with the coordinator and consult the relevant professional when care instructions need reassessment.</p>
-                    <h2>Questions to discuss</h2>
-                    <p>Before confirming a service, ask about service duties, availability, timing, and communication arrangements. Discussing duties, hours, communication, and availability in advance helps everyone understand what is and is not included.</p>
-                    <h2>Getting started</h2>
-                    <p>To get started with Careright home health care, share your question, the service you are considering, and a callback number. The team can use those details to discuss the request, explain possible availability, and outline the next step without assuming a booking.</p>
+                    <h2>Who we are</h2>
+                    <p>Careright Home Health Care Pvt. Ltd. is a home-care provider based in Shakarpur, New Delhi. We work with families looking for support for a loved one at home and aim to make it straightforward to enquire about the care they need.</p>
+                    <h2>Care that feels personal</h2>
+                    <p>Every person and household is different. We value listening to the individual and their family, understanding their preferences, and communicating clearly while discussing suitable home-care options.</p>
+                    <h2>Our care services</h2>
+                    <p>Our services include home nursing, patient-care attendants, elder care, dementia care, baby and mother care, and physiotherapy. Families can contact us to ask about a specific service and its availability for their area and needs.</p>
+                    <h2>Our approach</h2>
+                    <p>We believe home care should respect each person's dignity, privacy, and independence. We encourage open communication with families so expectations and support requirements can be discussed clearly.</p>
+                    <h2>Supporting families in Delhi NCR</h2>
+                    <p>From our New Delhi base, families can get in touch to enquire about home-care support in Delhi NCR. Service availability may depend on the location and the care required.</p>
+                    <h2>Get in touch with us</h2>
+                    <p>To learn more about Careright or discuss a home-care enquiry, call us on <a href="tel:7668066607">+91 7668066607</a> or email <a href="mailto:carerighthomehealthcare@gmail.com">carerighthomehealthcare@gmail.com</a>. You can also visit us at U-68-A, Upadhyay Block, Shakarpur, New Delhi-110092.</p>
                 </div>
 </div>
             </div>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 760" role="img" aria-labelledby="title desc">
+  <title id="title">Attendant support during a walk at home</title>
+  <desc id="desc">A home care attendant walks beside an older adult using a cane in a calm living room.</desc>
+  <rect width="900" height="760" fill="#f2e9dc"/>
+  <path d="M0 0h900v520H0z" fill="#fbf8f0"/>
+  <path d="M85 74h270v278H85z" fill="#d8e8df"/>
+  <path d="M105 94h230v238H105z" fill="#bdd7ca"/>
+  <path d="M220 94v238m-115-119h230" stroke="#f8f4e9" stroke-width="13"/>
+  <path d="M0 520h900v240H0z" fill="#e4d4bf"/>
+  <path d="M0 651h900" stroke="#d4c0a7" stroke-width="5"/>
+  <ellipse cx="468" cy="672" rx="310" ry="35" fill="#c8b49e" opacity=".44"/>
+  <path d="M102 463h286c22 0 39 18 39 40v134H80V485c0-12 10-22 22-22z" fill="#b66f50"/>
+  <path d="M114 424h264c20 0 36 16 36 36v34H80v-34c0-20 14-36 34-36z" fill="#cf8b67"/>
+  <path d="M114 632v69m274-69v69" stroke="#775341" stroke-width="17" stroke-linecap="round"/>
+  <path d="M511 394c-7-52 23-94 74-99 48-4 81 27 82 80l-3 37c-14 31-41 48-76 46-42-2-67-24-77-64z" fill="#d89a72"/>
+  <path d="M509 388c-5-60 30-104 83-104 53 0 82 35 75 87-28-6-51-23-66-45-19 29-47 47-92 62z" fill="#5c473a"/>
+  <path d="M512 431c15-17 38-26 68-24 42 2 70 18 82 51l39 142-189 1-23-111c-4-22 4-44 23-59z" fill="#6e9a84"/>
+  <path d="M548 451c-21 30-32 70-35 119m107-112c28 26 43 57 49 92" fill="none" stroke="#d3916c" stroke-width="19" stroke-linecap="round"/>
+  <path d="M569 598c-2 28-6 54-15 80m98-80c14 26 24 51 32 78" fill="none" stroke="#475d69" stroke-width="24" stroke-linecap="round"/>
+  <path d="M531 683h35m107 0h38" stroke="#3d474a" stroke-width="14" stroke-linecap="round"/>
+  <path d="M654 460c28-5 54-4 78 4" fill="none" stroke="#d3916c" stroke-width="17" stroke-linecap="round"/>
+  <path d="M735 445v217m-10 0h20" fill="none" stroke="#78624f" stroke-width="10" stroke-linecap="round"/>
+  <path d="M310 372c1-46 30-78 71-78 44 0 73 34 68 82l-5 38c-14 30-40 47-76 45-34-2-55-20-64-55z" fill="#bd805e"/>
+  <path d="M310 373c-1-59 30-96 77-96 47 0 72 32 67 83-22-5-44-19-59-40-18 25-47 42-85 53z" fill="#6c5547"/>
+  <path d="M306 421c17-17 40-25 70-24 45 2 71 20 79 54l23 145-183 0-13-120c-3-23 6-42 24-55z" fill="#d7a17c"/>
+  <path d="M350 445c-18 30-27 67-26 111m94-107c24 27 37 59 39 94" fill="none" stroke="#b97858" stroke-width="18" stroke-linecap="round"/>
+  <path d="M327 594c-2 29-3 56-1 83m98-83c7 29 15 55 27 81" fill="none" stroke="#6d7b86" stroke-width="23" stroke-linecap="round"/>
+  <path d="M309 684h37m106 0h36" stroke="#4c5358" stroke-width="14" stroke-linecap="round"/>
+  <path d="M443 465c18 11 33 26 43 45" fill="none" stroke="#bd805e" stroke-width="16" stroke-linecap="round"/>
+  <path d="M484 478v184m-10 0h20" fill="none" stroke="#8c745f" stroke-width="9" stroke-linecap="round"/>
+  <path d="M706 230c0-29 23-52 52-52s52 23 52 52-23 52-52 52-52-23-52-52z" fill="#fff" opacity=".94"/>
+  <path d="m733 231 16 15 31-34" fill="none" stroke="#75977c" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M39 496c21-61 56-86 98-83 10 38 8 75-11 106z" fill="#89a37d"/>
+  <path d="M85 529v117m0-69-32-35m32 64 32-39" stroke="#68826b" stroke-width="8" stroke-linecap="round"/>
+  <path d="M43 646h86l-10 46H53z" fill="#c58b68"/>
+  <path d="M807 484h47v163h-47z" fill="#d4b48f"/>
+  <path d="M797 484h67v14h-67z" fill="#b8906b"/>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 740" role="img" aria-labelledby="title desc">
+  <title id="title">Alzheimer's care and familiar support at home</title>
+  <desc id="desc">An older woman and caregiver share a reassuring conversation beside family photographs and familiar objects at home.</desc>
+  <rect width="900" height="740" fill="#e9e5d8"/>
+  <path d="M0 0h900v492H0z" fill="#f5f0e5"/>
+  <path d="M0 492h900v248H0z" fill="#c9b9a1"/>
+  <path d="M80 73h238v220H80z" fill="#d6e3d9"/>
+  <path d="M98 91h202v184H98z" fill="#bed2c6"/>
+  <path d="M199 91v184M98 183h202" stroke="#faf5e9" stroke-width="11"/>
+  <path d="M0 637h900" stroke="#b19e84" stroke-width="5"/>
+  <ellipse cx="456" cy="660" rx="313" ry="29" fill="#74624f" opacity=".18"/>
+  <path d="M181 449h508v159H181z" fill="#997b60"/>
+  <path d="M199 425h471c17 0 30 13 30 30v37H183v-36c0-18 14-31 31-31z" fill="#b39474"/>
+  <path d="M203 484h481v91H203z" fill="#e3d6c1"/>
+  <path d="M222 574v62m432-62v62" stroke="#725e4b" stroke-width="14" stroke-linecap="round"/>
+  <path d="M226 451h104v92H226z" rx="11" fill="#e6e4d7"/>
+  <path d="M531 451h117v92H531z" rx="11" fill="#d5e0d2"/>
+  <path d="M333 373c-1-42 22-69 61-69 38 0 58 26 54 64l-3 34c-11 23-32 36-61 35-32-2-49-21-51-51z" fill="#c78c6c"/>
+  <path d="M332 372c-1-46 21-75 60-75 37 0 58 26 56 61-19-2-36-15-48-35-14 23-36 40-68 49z" fill="#d8d4c9"/>
+  <path d="M317 431c17-17 42-24 73-22 43 2 68 21 75 52l13 64H294l-1-55c0-17 8-30 24-39z" fill="#85927a"/>
+  <path d="M372 467c32 17 61 28 93 34" fill="none" stroke="#c78c6c" stroke-width="15" stroke-linecap="round"/>
+  <path d="M574 345c-3-44 19-70 58-70 38 1 58 27 54 65l-4 32c-11 23-31 35-59 34-30-1-46-20-49-49z" fill="#e0aa82"/>
+  <path d="M572 344c2-47 26-75 62-74 36 1 56 24 54 59-18-2-35-14-46-32-13 23-36 39-70 47z" fill="#55463f"/>
+  <path d="M550 401c15-17 38-26 68-25 40 2 63 20 71 51l15 81H528l-3-65c-1-18 7-33 25-42z" fill="#b57862"/>
+  <path d="M570 428c-15 18-24 37-28 60m77-55c17 15 28 33 33 53" fill="none" stroke="#e0aa82" stroke-width="14" stroke-linecap="round"/>
+  <path d="M548 511c1 34-1 68-5 105m96-103c9 33 21 62 36 92" fill="none" stroke="#64717a" stroke-width="20" stroke-linecap="round"/>
+  <path d="M527 618h39m104 0h36" stroke="#49565a" stroke-width="12" stroke-linecap="round"/>
+  <path d="M570 417c-25 13-48 30-67 52" fill="none" stroke="#e0aa82" stroke-width="13" stroke-linecap="round"/>
+  <path d="M508 465c-20-4-39 0-54 14" fill="none" stroke="#e0aa82" stroke-width="11" stroke-linecap="round"/>
+  <rect x="451" y="458" width="89" height="58" rx="8" fill="#f8f3e7" stroke="#a88b6e" stroke-width="4"/>
+  <path d="M467 476h54m-54 13h43" stroke="#b8c7b6" stroke-width="5" stroke-linecap="round"/>
+  <path d="M722 165h110v142H722z" fill="#b68a61"/>
+  <path d="M734 177h86v118h-86z" fill="#f4ead7"/>
+  <path d="M747 276c7-35 18-57 37-64 14 12 22 34 23 64z" fill="#93a384"/>
+  <circle cx="778" cy="201" r="15" fill="#d8a77a"/>
+  <path d="M758 233c9-16 28-19 42-7" fill="none" stroke="#a77058" stroke-width="6" stroke-linecap="round"/>
+  <path d="M706 315h141" stroke="#9b7959" stroke-width="8" stroke-linecap="round"/>
+  <path d="M737 315v29m80-29v29" stroke="#9b7959" stroke-width="7"/>
+  <path d="M744 361h83" stroke="#ae8b69" stroke-width="5" stroke-linecap="round"/>
+  <path d="M749 374h76" stroke="#ae8b69" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="755" cy="399" r="19" fill="#d9b36f"/>
+  <path d="M746 399h18m-9-9v18" stroke="#fff6e7" stroke-width="4" stroke-linecap="round"/>
+  <path d="M69 477c17-40 44-60 79-57 7 28 2 55-13 79z" fill="#849678"/>
+  <path d="M110 501v111m0-61-25-28m25 57 29-31" fill="none" stroke="#62785f" stroke-width="8" stroke-linecap="round"/>
+  <path d="M74 613h73l-9 31H83z" fill="#b77958"/>
+  <path d="M160 403c-18-15-23-34-12-54 22 5 34 20 31 42m6 13c15-19 34-23 52-12-4 22-19 34-47 37" fill="#95a183"/>
+  <path d="M780 442h55" stroke="#f8f0e3" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="808" cy="438" r="24" fill="none" stroke="#dac6a7" stroke-width="3"/>
+  <path d="M211 393h35m-35 11h22" stroke="#fff9ef" stroke-width="5" stroke-linecap="round" opacity=".7"/>
+</svg>

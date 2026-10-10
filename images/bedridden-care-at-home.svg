@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 760" role="img" aria-labelledby="title desc">
+  <title id="title">Bed-ridden patient care and support at home</title>
+  <desc id="desc">A person rests in bed in a home bedroom while a caregiver offers a glass of water and attentive support.</desc>
+  <rect width="900" height="760" fill="#e4e3dc"/>
+  <path d="M0 0h900v514H0z" fill="#f2efe8"/>
+  <path d="M79 74h260v264H79z" fill="#d4e0df"/>
+  <path d="M99 94h220v224H99z" fill="#bdd2d2"/>
+  <path d="M209 94v224M99 206h220" stroke="#f8f4ed" stroke-width="13"/>
+  <path d="M0 514h900v246H0z" fill="#d3c6b4"/>
+  <path d="M0 648h900" stroke="#bfb09d" stroke-width="5"/>
+  <ellipse cx="475" cy="687" rx="320" ry="36" fill="#979083" opacity=".28"/>
+  <path d="M82 413h572v218H82z" fill="#a98978"/>
+  <path d="M95 432h531v189H95z" fill="#eee8dd"/>
+  <path d="M95 557h531v64H95z" fill="#d7d0c4"/>
+  <path d="M117 621v70m488-70v70" stroke="#786454" stroke-width="17" stroke-linecap="round"/>
+  <path d="M87 401h16v237H87z" fill="#806c5d"/>
+  <path d="M102 449c31-52 91-63 133-31 16 12 25 30 28 51H102z" fill="#d7e1dc"/>
+  <path d="M235 414c-6-44 18-77 58-82 42-5 70 21 71 64l-1 31c-12 25-34 40-64 40-37 0-58-19-64-53z" fill="#c88e70"/>
+  <path d="M235 410c-2-51 23-82 63-84 40-2 63 25 62 67-20-3-37-15-50-34-15 26-39 42-75 51z" fill="#ece9df"/>
+  <path d="M239 462c14-13 34-19 59-17 38 2 61 16 70 43l13 77H215l-2-56c-1-20 7-36 26-47z" fill="#7f9c9a"/>
+  <path d="M275 479c-10 19-16 43-15 67m66-64c17 15 28 34 33 56" fill="none" stroke="#bf8162" stroke-width="15" stroke-linecap="round"/>
+  <path d="M303 489c44-8 94-1 143 19l-16 52H300z" fill="#f8f3e8"/>
+  <path d="M332 499c30 0 64 6 97 18m-102 1c31 1 64 8 93 19" fill="none" stroke="#c8c0b3" stroke-width="5" stroke-linecap="round"/>
+  <path d="M567 311c-2-47 24-78 69-78 45 0 70 29 65 72l-4 37c-12 28-36 43-68 41-37-2-57-22-62-56z" fill="#dfa47f"/>
+  <path d="M566 308c2-53 28-85 73-85 44 0 67 29 60 71-19-5-37-19-49-38-17 25-44 42-84 52z" fill="#514741"/>
+  <path d="M557 355c14-15 35-22 62-21 40 2 64 18 72 47l19 117H539l-4-91c-1-22 6-40 22-52z" fill="#678b83"/>
+  <path d="M591 377c-13 24-19 53-16 83m77-78c18 23 27 48 29 76" fill="none" stroke="#d19671" stroke-width="15" stroke-linecap="round"/>
+  <path d="M579 495c0 33-2 72-4 115m94-113c8 34 20 66 37 97" fill="none" stroke="#596c77" stroke-width="22" stroke-linecap="round"/>
+  <path d="M556 613h40m98 0h39" stroke="#3e4a4d" stroke-width="13" stroke-linecap="round"/>
+  <path d="M588 387c-19 15-33 35-41 57" fill="none" stroke="#dfa47f" stroke-width="14" stroke-linecap="round"/>
+  <path d="M551 444c-17 2-30 12-38 27" fill="none" stroke="#dfa47f" stroke-width="12" stroke-linecap="round"/>
+  <path d="M506 463h48v40h-48z" rx="7" fill="#f5f2e9" stroke="#9a8977" stroke-width="4"/>
+  <path d="M501 463h58" stroke="#9a8977" stroke-width="5" stroke-linecap="round"/>
+  <path d="M520 453c0-9 7-16 15-16s15 7 15 16" fill="none" stroke="#c58e6b" stroke-width="4"/>
+  <path d="M682 469h114v13H682z" fill="#9b8066"/>
+  <path d="M694 482v123m89-123v123" stroke="#9b8066" stroke-width="8"/>
+  <path d="M711 454c0-16 12-27 28-27s28 11 28 27v16h-56z" fill="#d5a367"/>
+  <path d="M726 451h25" stroke="#f7ecd9" stroke-width="5" stroke-linecap="round"/>
+  <path d="M685 606h107" stroke="#9b8066" stroke-width="9" stroke-linecap="round"/>
+  <path d="M37 475c18-48 49-72 89-69 9 32 6 65-11 93z" fill="#8a9b79"/>
+  <path d="M78 504v126m0-71-29-32m29 62 33-37" fill="none" stroke="#687f66" stroke-width="8" stroke-linecap="round"/>
+  <path d="M37 632h83l-9 42H48z" fill="#ae795e"/>
+  <circle cx="765" cy="181" r="35" fill="#fff" opacity=".88"/>
+  <path d="M765 162c-8-13-27-10-27 7 0 16 27 32 27 32s27-16 27-32c0-17-19-20-27-7z" fill="#a37b70"/>
+  <path d="M688 257h100m-100 16h73" stroke="#fff" stroke-width="6" stroke-linecap="round" opacity=".65"/>
+</svg>

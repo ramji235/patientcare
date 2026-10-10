@@ -1,14 +1,14 @@
 <!doctype html>
 <html>
 <head>
-<title>Alzhelmer patient care at Home</title>
+<title>Alzheimer's Patient Care at Home | Careright Home Health Care</title>
 
 <!-- Mirrored from carerighthomehealthcares.com/about-us by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Aug 2025 10:04:00 GMT -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Learn more about Careright Home Health Care Pvt. Ltd., our mission, and our commitment to providing quality home nursing, attendant services, and patient care." />
-<meta name="keywords" content="about us, home health care, nursing services, patient care, elder care" />
-<link rel="canonical" href="about-us.html" />
+<meta name="description" content="Explore thoughtful home support for a person living with Alzheimer's, with familiar routines, respectful daily assistance, companionship, and family coordination." />
+<meta name="keywords" content="Alzheimer's patient care at home, Alzheimer's home care, dementia care at home, memory care support, caregiver for Alzheimer's patient" />
+<link rel="canonical" href="alzhelmer-patient-care-at-home.php" />
 <meta name="google-site-verification" content="FxrmckzPcTYaL7gXPNcvhWAGROvqhvdqNZlgs4IRA2k" />
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <meta charset="utf-8">
@@ -142,93 +142,89 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
 <!--header div end-->
 
 
-<!--breadcump div start-->     
-<section class="page-title-section">
+<!--breadcump div start-->
+<section class="memory-care-title">
     <div class="container">
-        <h1>Alzhelmer patient care at Home</h1>
+        <span>CARERIGHT HOME HEALTH CARE · ALZHEIMER'S HOME SUPPORT</span>
+        <h1>Thoughtful Care for Familiar Days</h1>
         <ol class="breadcrumb">
           <li><a href="index.php">Home</a></li>
-          <li class="active">Alzhelmer patient care at Home</li>
+          <li><a href="services.php">Services</a></li>
+          <li class="active">Alzheimer's Care</li>
         </ol>
     </div>
 </section>
 <!--breadcump div end-->
 
-
-<a name="about"></a>
-<!-- welcome div start -->
-<div class="content">
+<main class="memory-care">
     <div class="container">
-        <div class="row">
-        	<div class="col-md-8 col-sm-8 col-xs-12">
-            <!--weldiv start-->
-            <div class="wel">
-                <h1 style="font-size:25px;"><strong style="color:#0066CC;">Alzheimer's Care at Home</strong><span></span></h1>
-                <div class="text"><p>People living with Alzheimer's can benefit from patient, familiar support at home. Our caregivers can assist with daily routines, companionship, meal reminders, and a calm, structured environment while keeping family members informed.</p></div>
-            
-                <div class="page-detail-content">
-                    <h2>Understanding the support</h2>
-                    <p>Families considering dementia care at home can begin by describing familiar routines, reassurance, and respectful daily support. The suitable arrangement depends on the individual, the household routine, confirmed availability, and any relevant professional guidance.</p>
-                    <h2>Planning daily routines</h2>
-                    <p>A useful discussion identifies companionship, reminders, personal routines, and activities the person enjoys. Explain which activities are most important, when help is needed, and what the person receiving care prefers to do independently.</p>
-                    <h2>Preparing for care</h2>
-                    <p>Before support begins, gather familiar names, communication preferences, daily habits, and family contacts. Keeping current information together makes family handovers clearer and helps the care team understand the arrangements already in place.</p>
-                    <h2>Home and access arrangements</h2>
-                    <p>Planning should also take account of a calm environment, familiar objects, and known household safety arrangements. Mention practical constraints early, including access, timing, the household's daily routine, and any equipment that affects the service.</p>
-                    <h2>Family communication</h2>
-                    <p>Agree with family members on how updates are shared and which family contact can answer questions. A clear point of contact and consistent handover can reduce confusion when schedules change or practical questions arise.</p>
-                    <h2>Respectful, personal support</h2>
-                    <p>Support should respect the person's dignity, privacy, and choices. Discuss communication preferences, familiar routines, and how assistance can be offered without taking away independence.</p>
-                    <h2>Working with healthcare professionals</h2>
-                    <p>Keep clinical responsibilities clear: clinical questions and changes in health belong with the treating professional. If health needs change or new symptoms appear, contact the treating professional rather than relying on a routine service discussion.</p>
-                    <h2>Reviewing the care arrangement</h2>
-                    <p>Review the arrangement regularly, especially whether routines and support still suit the person's changing needs. Families can share practical feedback with the coordinator and consult the relevant professional when care instructions need reassessment.</p>
-                    <h2>Questions to discuss</h2>
-                    <p>Before confirming a service, ask about caregiver duties, familiar routines, safety arrangements, and handovers. Discussing duties, hours, communication, and availability in advance helps everyone understand what is and is not included.</p>
-                    <h2>Getting started</h2>
-                    <p>To get started with dementia care at home, share the person's routine, locality, requested support, and preferred hours. The team can use those details to discuss the request, explain possible availability, and outline the next step without assuming a booking.</p>
+        <section class="memory-care__hero">
+            <div class="memory-care__copy">
+                <span class="memory-care__eyebrow">PATIENCE · REASSURANCE · FAMILIAR ROUTINES</span>
+                <h2>Care that meets the person where they are.</h2>
+                <p>Alzheimer's can affect memory, communication, and everyday routines in different ways. Home support can be planned around the person's preferences, familiar activities, and the family's guidance, while keeping their dignity and choices at the centre.</p>
+                <div class="memory-care__actions">
+                    <a href="contact.php">Discuss Alzheimer's care <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                    <a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> +91 7668066607</a>
                 </div>
-</div>
+                <div class="memory-care__note"><i class="fa fa-heart" aria-hidden="true"></i> A calm approach, guided by what feels familiar and reassuring.</div>
             </div>
-            <div class="col-md-4 col-sm-4 col-xs-12">
-            <!--callback form div start-->
-            <div class="callback">
-                <img src="images/abo.jpg" style="width:91%;">
-            </div>	
-            <!--callback form div end-->
+            <div class="memory-care__visual">
+                <img src="images/alzheimers-care-at-home.svg" alt="An older adult and family caregiver sharing a calm moment at home">
+                <div class="memory-care__visual-label"><i class="fa fa-leaf" aria-hidden="true"></i><span>FAMILIAR MOMENTS,<br>GENTLE SUPPORT</span></div>
             </div>
-        </div>
-    </div>
-</div>
+        </section>
 
-<!-- Statistics Section Start -->
-<div class="content">
-    <div class="container">
-        <div class="row">
-        	<div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-handshake-o" aria-hidden="true"></i> 1000+</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Services Delivered<br><br></p>
-                </div>
+        <section class="memory-care__intro">
+            <div><span>SUPPORT BUILT AROUND THE PERSON</span><h2>Small, familiar routines can help the day feel more settled.</h2></div>
+            <p>Talk with the person and family about preferred names, interests, communication style, and the times of day when support is most useful. Keep routines flexible and follow guidance from the person's healthcare team.</p>
+        </section>
+
+        <section class="memory-care__support" aria-label="Alzheimer's home care support">
+            <article>
+                <span class="memory-care__support-mark"><i class="fa fa-clock-o" aria-hidden="true"></i></span>
+                <small>FAMILIAR RHYTHM</small>
+                <h3>Steady daily routines</h3>
+                <p>Plan assistance around familiar meal times, rest, personal routines, and activities the person enjoys.</p>
+            </article>
+            <article>
+                <span class="memory-care__support-mark"><i class="fa fa-comments" aria-hidden="true"></i></span>
+                <small>CALM COMMUNICATION</small>
+                <h3>Time to listen and reassure</h3>
+                <p>Share the person's communication preferences and helpful ways to offer prompts, choices, or reassurance.</p>
+            </article>
+            <article>
+                <span class="memory-care__support-mark"><i class="fa fa-users" aria-hidden="true"></i></span>
+                <small>FAMILY COORDINATION</small>
+                <h3>Consistent family handovers</h3>
+                <p>Agree on a family contact, useful updates, and how changes to the routine will be communicated.</p>
+            </article>
+        </section>
+
+        <section class="memory-care__familiar">
+            <div class="memory-care__familiar-heading">
+                <span>MAKE HOME FEEL MORE FAMILIAR</span>
+                <h2>Share the details that help support feel personal.</h2>
+                <p>A short introduction can help a new caregiver learn what the person enjoys and what feels reassuring.</p>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-thumbs-up" aria-hidden="true"></i> 10+ Yrs</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Of Exeperience In Nursing Care<br><br></p>
-                </div>
+            <div class="memory-care__familiar-list">
+                <article><b>01</b><div><h3>People, names, and conversation</h3><p>Preferred name, important relationships, languages, and familiar ways of communicating.</p></div></article>
+                <article><b>02</b><div><h3>Interests and everyday preferences</h3><p>Favourite music, meaningful activities, food preferences, and routines the person values.</p></div></article>
+                <article><b>03</b><div><h3>Helpful guidance and family contacts</h3><p>Current care instructions, home safety considerations, and the agreed person to contact with updates.</p></div></article>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-star" aria-hidden="true"></i> 100%</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Satisfaction Rate<br><br></p>
-                </div>
-            </div>
-        </div>
+        </section>
+
+        <aside class="memory-care__boundary">
+            <span><i class="fa fa-info" aria-hidden="true"></i></span>
+            <div><strong>Keep health and safety concerns connected to the care team.</strong><p>Home support does not diagnose or treat Alzheimer's. Discuss changes in memory, mood, sleep, mobility, or health with the treating professional. Share current clinical instructions with the care team; for an emergency, contact local emergency services.</p></div>
+        </aside>
+
+        <section class="memory-care__contact">
+            <div><span>ALZHEIMER'S HOME CARE ENQUIRIES</span><h2>Let's talk about a supportive daily routine.</h2><p>Share the person's location, preferred routines, the help requested, and any relevant professional guidance. We can discuss the request and check current availability.</p></div>
+            <div><a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> Call +91 7668066607</a><a href="contact.php">Send an online enquiry</a></div>
+        </section>
     </div>
-</div>
-<!-- Statistics Section End -->
+</main>
 
 
 <!--bot links div start-->  

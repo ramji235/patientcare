@@ -1,14 +1,14 @@
 <!doctype html>
 <html>
 <head>
-<title>About Us | Careright Home Health Care Pvt. Ltd.</title>
+<title>Home Nursing Services Across Delhi NCR | Careright</title>
 
 <!-- Mirrored from carerighthomehealthcares.com/about-us by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Aug 2025 10:04:00 GMT -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Learn more about Careright Home Health Care Pvt. Ltd., our mission, and our commitment to providing quality home nursing, attendant services, and patient care." />
-<meta name="keywords" content="about us, home health care, nursing services, patient care, elder care" />
-<link rel="canonical" href="about-us.html" />
+<meta name="description" content="Enquire about home nursing across Delhi NCR with Careright. Share your locality, care requirements, and preferred schedule to discuss service availability." />
+<meta name="keywords" content="home nursing Delhi NCR, nursing services Delhi NCR, home care Delhi NCR, Careright Home Health Care" />
+<link rel="canonical" href="home-care-nursing-services-delhi-ncr.php" />
 <meta name="google-site-verification" content="FxrmckzPcTYaL7gXPNcvhWAGROvqhvdqNZlgs4IRA2k" />
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <meta charset="utf-8">
@@ -145,90 +145,91 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
 <!--breadcump div start-->     
 <section class="page-title-section">
     <div class="container">
-        <h1>Delhi NCR</h1>
+        <h1>Home Nursing Services Across Delhi NCR</h1>
         <ol class="breadcrumb">
           <li><a href="index.php">Home</a></li>
-          <li class="active">Delhi NCR</li>
+          <li><a href="services.php">Services</a></li>
+          <li class="active">Delhi NCR</li>
         </ol>
     </div>
 </section>
 <!--breadcump div end-->
 
 
-<a name="about"></a>
-<!-- welcome div start -->
-<div class="content">
+<main class="delhi-ncr-nursing">
     <div class="container">
-        <div class="row">
-        	<div class="col-md-8 col-sm-8 col-xs-12">
-            <!--weldiv start-->
-            <div class="wel">
-                <h1 style="font-size:25px;"><strong style="color:#0066CC;">Home Nursing Services in Delhi NCR</strong><span></span></h1>
-                <div class="text"><p>Families across Delhi NCR can arrange nursing support for recovery and ongoing care at home. Share the patient's location, prescribed nursing needs, and preferred schedule so we can discuss suitable local availability.</p></div>
-            
-                <div class="page-detail-content">
-                    <h2>Understanding the support</h2>
-                    <p>Families considering home nursing in Delhi Ncr can begin by describing recovery and ongoing care. The suitable arrangement depends on the individual, the household routine, confirmed availability, and any relevant professional guidance.</p>
-                    <h2>Planning daily routines</h2>
-                    <p>A useful discussion identifies the clinician-advised nursing tasks and preferred visit hours. Explain which activities are most important, when help is needed, and what the person receiving care prefers to do independently.</p>
-                    <h2>Preparing for care</h2>
-                    <p>Before support begins, gather discharge notes, current prescriptions, and clinician contact details. Keeping current information together makes family handovers clearer and helps the care team understand the arrangements already in place.</p>
-                    <h2>Home and access arrangements</h2>
-                    <p>Planning should also take account of the patient's routine, home access, and any equipment already in use. Mention practical constraints early, including access, timing, the household's daily routine, and any equipment that affects the service.</p>
-                    <h2>Family communication</h2>
-                    <p>Agree with family members on the family contact who can receive updates and answer practical questions. A clear point of contact and consistent handover can reduce confusion when schedules change or practical questions arise.</p>
-                    <h2>Respectful, personal support</h2>
-                    <p>Support should respect the person's dignity, privacy, and choices. Discuss communication preferences, familiar routines, and how assistance can be offered without taking away independence.</p>
-                    <h2>Working with healthcare professionals</h2>
-                    <p>Keep clinical responsibilities clear: medical decisions and treatment changes remain with qualified clinicians. If health needs change or new symptoms appear, contact the treating professional rather than relying on a routine service discussion.</p>
-                    <h2>Reviewing the care arrangement</h2>
-                    <p>Review the arrangement regularly, especially whether the agreed schedule and daily support still meet the family's needs. Families can share practical feedback with the coordinator and consult the relevant professional when care instructions need reassessment.</p>
-                    <h2>Questions to discuss</h2>
-                    <p>Before confirming a service, ask about local availability, proposed duties, timing, and handover arrangements. Discussing duties, hours, communication, and availability in advance helps everyone understand what is and is not included.</p>
-                    <h2>Getting started</h2>
-                    <p>To get started with home nursing in Delhi Ncr, share the patient's neighbourhood, support needs, preferred schedule, and callback number. The team can use those details to discuss the request, explain possible availability, and outline the next step without assuming a booking.</p>
+        <section class="delhi-ncr-nursing__intro">
+            <div class="delhi-ncr-nursing__intro-copy">
+                <span>CARERIGHT HOME HEALTH CARE · DELHI NCR</span>
+                <h2>One enquiry. A conversation shaped around your home.</h2>
+                <p>Looking for nursing support across Delhi NCR? Start by sharing the exact neighbourhood, the person's care needs, and the schedule your family has in mind. Our team can discuss the request and check local availability before any arrangement is confirmed.</p>
+                <div class="delhi-ncr-nursing__intro-actions">
+                    <a href="contact.php">Tell us what you need <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                    <a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> +91 7668066607</a>
                 </div>
-</div>
             </div>
-            <div class="col-md-4 col-sm-4 col-xs-12">
-            <!--callback form div start-->
-            <div class="callback">
-                <img src="images/abo.jpg" style="width:91%;">
-            </div>	
-            <!--callback form div end-->
+            <div class="delhi-ncr-nursing__image">
+                <img src="images/Dementia Care.png" alt="Caregiver offering attentive support to an older adult at home">
+                <div class="delhi-ncr-nursing__image-note"><i class="fa fa-heart" aria-hidden="true"></i> Care planning starts with listening.</div>
             </div>
-        </div>
-    </div>
-</div>
+        </section>
 
-<!-- Statistics Section Start -->
-<div class="content">
-    <div class="container">
-        <div class="row">
-        	<div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-handshake-o" aria-hidden="true"></i> 1000+</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Services Delivered<br><br></p>
-                </div>
+        <section class="delhi-ncr-nursing__regions" aria-label="Delhi NCR home nursing localities">
+            <div class="delhi-ncr-nursing__regions-label">
+                <span>AREA-WISE ENQUIRIES</span>
+                <h2>Tell us where care is needed.</h2>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-thumbs-up" aria-hidden="true"></i> 10+ Yrs</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Of Exeperience In Nursing Care<br><br></p>
-                </div>
+            <div class="delhi-ncr-nursing__region-list">
+                <span><b>Delhi</b> South Delhi · Dwarka · East Delhi</span>
+                <span><b>Noida</b> Noida · Greater Noida</span>
+                <span><b>Gurugram</b> Gurugram and nearby areas</span>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-star" aria-hidden="true"></i> 100%</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Satisfaction Rate<br><br></p>
-                </div>
+            <p>Availability is discussed individually for each locality and care request.</p>
+        </section>
+
+        <section class="delhi-ncr-nursing__flow">
+            <div class="delhi-ncr-nursing__flow-heading">
+                <span>A CLEAR STARTING POINT</span>
+                <h2>From your enquiry to a practical discussion.</h2>
             </div>
-        </div>
+            <div class="delhi-ncr-nursing__flow-steps">
+                <article>
+                    <span class="delhi-ncr-nursing__flow-number">01</span>
+                    <div><h3>Share the location</h3><p>Give the neighbourhood, sector, or nearby landmark so the service area can be checked.</p></div>
+                </article>
+                <article>
+                    <span class="delhi-ncr-nursing__flow-number">02</span>
+                    <div><h3>Describe the care need</h3><p>Explain the nursing support being considered and any relevant instructions from the treating professional.</p></div>
+                </article>
+                <article>
+                    <span class="delhi-ncr-nursing__flow-number">03</span>
+                    <div><h3>Discuss schedule and next steps</h3><p>Talk through preferred timings, proposed duties, communication, and confirmed availability before planning.</p></div>
+                </article>
+            </div>
+        </section>
+
+        <section class="delhi-ncr-nursing__aside">
+            <div class="delhi-ncr-nursing__aside-icon"><i class="fa fa-clipboard" aria-hidden="true"></i></div>
+            <div>
+                <h3>Useful details to keep ready</h3>
+                <p>Relevant discharge information or care instructions, the preferred schedule, and a family contact who can coordinate practical updates.</p>
+            </div>
+            <a href="home-nursing-service.php">Learn about home nursing <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+        </section>
+
+        <section class="delhi-ncr-nursing__contact">
+            <div>
+                <span>HOME NURSING ENQUIRIES · DELHI NCR</span>
+                <h2>Let’s discuss what support may suit your family.</h2>
+                <p>Contact Careright with your location and requirements. Diagnosis and treatment decisions remain with qualified healthcare professionals.</p>
+            </div>
+            <div class="delhi-ncr-nursing__contact-links">
+                <a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> +91 7668066607</a>
+                <a href="contact.php">Send an online enquiry</a>
+            </div>
+        </section>
     </div>
-</div>
-<!-- Statistics Section End -->
+</main>
 
 
 <!--bot links div start-->  

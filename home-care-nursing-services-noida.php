@@ -1,14 +1,14 @@
 <!doctype html>
 <html>
 <head>
-<title>About Us | Careright Home Health Care Pvt. Ltd.</title>
+<title>Home Nursing Services in Noida | Careright</title>
 
 <!-- Mirrored from carerighthomehealthcares.com/about-us by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Aug 2025 10:04:00 GMT -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Learn more about Careright Home Health Care Pvt. Ltd., our mission, and our commitment to providing quality home nursing, attendant services, and patient care." />
-<meta name="keywords" content="about us, home health care, nursing services, patient care, elder care" />
-<link rel="canonical" href="about-us.html" />
+<meta name="description" content="Looking for home nursing support in Noida? Contact Careright to discuss your sector, care requirements, preferred timings, and local availability." />
+<meta name="keywords" content="home nursing Noida, nursing services Noida, home care Noida, Careright Home Health Care" />
+<link rel="canonical" href="home-care-nursing-services-noida.php" />
 <meta name="google-site-verification" content="FxrmckzPcTYaL7gXPNcvhWAGROvqhvdqNZlgs4IRA2k" />
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <meta charset="utf-8">
@@ -145,9 +145,10 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
 <!--breadcump div start-->     
 <section class="page-title-section">
     <div class="container">
-        <h1>Noida</h1>
+        <h1>Home Nursing Services in Noida</h1>
         <ol class="breadcrumb">
           <li><a href="index.php">Home</a></li>
+          <li><a href="services.php">Services</a></li>
           <li class="active">Noida</li>
         </ol>
     </div>
@@ -155,80 +156,70 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
 <!--breadcump div end-->
 
 
-<a name="about"></a>
-<!-- welcome div start -->
-<div class="content">
+<main class="noida-nursing">
     <div class="container">
-        <div class="row">
-        	<div class="col-md-8 col-sm-8 col-xs-12">
-            <!--weldiv start-->
-            <div class="wel">
-                <h1 style="font-size:25px;"><strong style="color:#0066CC;">Home Nursing Services in Noida</strong><span></span></h1>
-                <div class="text"><p>Noida families can enquire about nursing assistance at home based on the patient's care plan. Share the sector, required nursing support, and preferred hours so we can discuss possible local arrangements.</p></div>
-            
-                <div class="page-detail-content">
-                    <h2>Understanding the support</h2>
-                    <p>Families considering home nursing in Noida can begin by describing recovery and ongoing care. The suitable arrangement depends on the individual, the household routine, confirmed availability, and any relevant professional guidance.</p>
-                    <h2>Planning daily routines</h2>
-                    <p>A useful discussion identifies the clinician-advised nursing tasks and preferred visit hours. Explain which activities are most important, when help is needed, and what the person receiving care prefers to do independently.</p>
-                    <h2>Preparing for care</h2>
-                    <p>Before support begins, gather discharge notes, current prescriptions, and clinician contact details. Keeping current information together makes family handovers clearer and helps the care team understand the arrangements already in place.</p>
-                    <h2>Home and access arrangements</h2>
-                    <p>Planning should also take account of the patient's routine, home access, and any equipment already in use. Mention practical constraints early, including access, timing, the household's daily routine, and any equipment that affects the service.</p>
-                    <h2>Family communication</h2>
-                    <p>Agree with family members on the family contact who can receive updates and answer practical questions. A clear point of contact and consistent handover can reduce confusion when schedules change or practical questions arise.</p>
-                    <h2>Respectful, personal support</h2>
-                    <p>Support should respect the person's dignity, privacy, and choices. Discuss communication preferences, familiar routines, and how assistance can be offered without taking away independence.</p>
-                    <h2>Working with healthcare professionals</h2>
-                    <p>Keep clinical responsibilities clear: medical decisions and treatment changes remain with qualified clinicians. If health needs change or new symptoms appear, contact the treating professional rather than relying on a routine service discussion.</p>
-                    <h2>Reviewing the care arrangement</h2>
-                    <p>Review the arrangement regularly, especially whether the agreed schedule and daily support still meet the family's needs. Families can share practical feedback with the coordinator and consult the relevant professional when care instructions need reassessment.</p>
-                    <h2>Questions to discuss</h2>
-                    <p>Before confirming a service, ask about local availability, proposed duties, timing, and handover arrangements. Discussing duties, hours, communication, and availability in advance helps everyone understand what is and is not included.</p>
-                    <h2>Getting started</h2>
-                    <p>To get started with home nursing in Noida, share the patient's neighbourhood, support needs, preferred schedule, and callback number. The team can use those details to discuss the request, explain possible availability, and outline the next step without assuming a booking.</p>
+        <section class="noida-nursing__hero">
+            <div class="noida-nursing__hero-copy">
+                <span class="noida-nursing__eyebrow"><i class="fa fa-map-marker" aria-hidden="true"></i> NOIDA · SECTOR-WISE ENQUIRIES</span>
+                <h2>Care at home, considered one detail at a time.</h2>
+                <p>Tell us which Noida sector the person lives in, what kind of nursing support your family is exploring, and when help may be needed. Careright can discuss the request and check local availability before any service is confirmed.</p>
+                <div class="noida-nursing__hero-actions">
+                    <a href="contact.php">Share your requirements <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                    <a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> +91 7668066607</a>
                 </div>
-</div>
+                <div class="noida-nursing__local-note"><span>NOIDA</span><i></i> Include your sector or nearest landmark when you enquire.</div>
             </div>
-            <div class="col-md-4 col-sm-4 col-xs-12">
-            <!--callback form div start-->
-            <div class="callback">
-                <img src="images/abo.jpg" style="width:91%;">
-            </div>	
-            <!--callback form div end-->
+            <div class="noida-nursing__hero-art">
+                <div class="noida-nursing__image-backdrop"></div>
+                <img src="images/abo.jpg" alt="Caregiver supporting an older adult as he walks at home">
+                <div class="noida-nursing__image-stamp"><i class="fa fa-home" aria-hidden="true"></i><span>HOME CARE<small>PERSON-CENTRED DISCUSSION</small></span></div>
             </div>
-        </div>
-    </div>
-</div>
+        </section>
 
-<!-- Statistics Section Start -->
-<div class="content">
-    <div class="container">
-        <div class="row">
-        	<div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-handshake-o" aria-hidden="true"></i> 1000+</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Services Delivered<br><br></p>
-                </div>
+        <section class="noida-nursing__enquiry">
+            <div class="noida-nursing__enquiry-heading">
+                <span>HELP US UNDERSTAND THE REQUEST</span>
+                <h2>A few useful details to share</h2>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-thumbs-up" aria-hidden="true"></i> 10+ Yrs</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Of Exeperience In Nursing Care<br><br></p>
-                </div>
+            <div class="noida-nursing__enquiry-points">
+                <div><b>01</b><p><strong>Sector &amp; access</strong><span>Sector, nearby landmark, and any home-access notes.</span></p></div>
+                <div><b>02</b><p><strong>Care needs</strong><span>Support being considered and relevant care instructions.</span></p></div>
+                <div><b>03</b><p><strong>Preferred hours</strong><span>Timing, daily routine, and a family contact for coordination.</span></p></div>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-star" aria-hidden="true"></i> 100%</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Satisfaction Rate<br><br></p>
-                </div>
+        </section>
+
+        <section class="noida-nursing__care">
+            <div class="noida-nursing__care-heading">
+                <span>DISCUSS THE ARRANGEMENT</span>
+                <h2>Make expectations clear before planning.</h2>
+                <p>Every home and care situation is different. These are practical topics to raise when speaking with the team.</p>
             </div>
-        </div>
+            <div class="noida-nursing__care-list">
+                <article><i class="fa fa-check" aria-hidden="true"></i><div><h3>Tasks and professional guidance</h3><p>Talk through the support requested and any instructions provided by the treating healthcare professional.</p></div></article>
+                <article><i class="fa fa-check" aria-hidden="true"></i><div><h3>Schedule and communication</h3><p>Discuss preferred hours, how family updates should be handled, and who will coordinate practical details.</p></div></article>
+                <article><i class="fa fa-check" aria-hidden="true"></i><div><h3>Local availability</h3><p>Confirm whether the requested locality, duties, and timings can be supported before setting expectations.</p></div></article>
+            </div>
+        </section>
+
+        <section class="noida-nursing__safety">
+            <div class="noida-nursing__safety-icon"><i class="fa fa-user-md" aria-hidden="true"></i></div>
+            <p><strong>Clinical decisions belong with qualified healthcare professionals.</strong> Keep relevant care notes available for discussion; consult the treating professional about diagnosis, symptoms, or treatment changes.</p>
+            <a href="home-nursing-service.php">Home nursing details <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+        </section>
+
+        <section class="noida-nursing__contact">
+            <div>
+                <span>CARERIGHT · HOME NURSING IN NOIDA</span>
+                <h2>Would you like to discuss care at home?</h2>
+                <p>Share your sector and care requirements with our team.</p>
+            </div>
+            <div class="noida-nursing__contact-actions">
+                <a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> +91 7668066607</a>
+                <a href="contact.php">Contact us online</a>
+            </div>
+        </section>
     </div>
-</div>
-<!-- Statistics Section End -->
+</main>
 
 
 <!--bot links div start-->  

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 740" role="img" aria-labelledby="title desc">
+  <title id="title">Medical equipment for home care rental enquiries</title>
+  <desc id="desc">A home-care equipment arrangement showing an adjustable patient bed, wheelchair, oxygen concentrator, and digital monitoring device.</desc>
+  <rect width="900" height="740" fill="#e9eeeb"/>
+  <path d="M0 0h900v487H0z" fill="#f5f2e8"/>
+  <path d="M0 487h900v253H0z" fill="#c9d3cc"/>
+  <path d="M82 84h235v234H82z" fill="#d6e4e0"/>
+  <path d="M100 102h199v199H100z" fill="#bdd3d0"/>
+  <path d="M199 102v199M100 202h199" stroke="#f7f4eb" stroke-width="11"/>
+  <path d="M0 642h900" stroke="#b3c0b7" stroke-width="5"/>
+  <ellipse cx="470" cy="654" rx="337" ry="30" fill="#6d8177" opacity=".18"/>
+  <path d="M122 392h459v157H122z" fill="#879c98"/>
+  <path d="M138 409h427v121H138z" fill="#e3e6de"/>
+  <path d="M138 489h427v41H138z" fill="#bcc9c4"/>
+  <path d="M122 380h16v182h-16z" fill="#526965"/>
+  <path d="M122 548v71m439-71v71" stroke="#526965" stroke-width="15" stroke-linecap="round"/>
+  <path d="M151 419h84c28 0 46 15 49 41H151z" fill="#dae4df"/>
+  <path d="M235 435c0-32 22-51 54-51 30 0 49 20 49 50v16c-11 18-27 28-50 28-31 0-49-15-53-43z" fill="#d7a27f"/>
+  <path d="M234 435c0-35 19-55 52-55 29 0 49 18 53 45-22 0-39-9-52-27-12 18-30 30-53 37z" fill="#66554c"/>
+  <path d="M237 479c15-11 34-16 58-14 33 3 54 16 62 39l11 48H213l1-42c1-14 8-25 23-31z" fill="#789e9a"/>
+  <path d="M294 499c31-8 81-2 132 17l-17 40H288z" fill="#f6f2e6"/>
+  <path d="M338 508c30 1 56 6 78 15m-79-1c24 1 49 6 70 13" stroke="#c4c9bf" stroke-width="5" stroke-linecap="round"/>
+  <path d="M552 215h142l34 25v181H552z" fill="#fffdfa" stroke="#71827b" stroke-width="5"/>
+  <path d="M552 215h142v49H552z" fill="#3f6665"/>
+  <circle cx="576" cy="239" r="7" fill="#9fc9b3"/>
+  <path d="M597 233h67m-67 13h45" stroke="#d8e8dd" stroke-width="5" stroke-linecap="round"/>
+  <path d="M575 293h93v78h-93z" fill="#e3edeb"/>
+  <path d="M589 345c11-1 13-27 22-28 9-2 12 29 21 28 9 0 12-16 20-16h6" fill="none" stroke="#df8a5d" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="592" cy="391" r="13" fill="#9fb4ad"/>
+  <circle cx="633" cy="391" r="13" fill="#dfb574"/>
+  <path d="M684 282c34 19 50 43 51 76" fill="none" stroke="#738780" stroke-width="5" stroke-dasharray="7 9" stroke-linecap="round"/>
+  <path d="M723 355h48v151h-48z" fill="#d8e5df" stroke="#58726b" stroke-width="5"/>
+  <path d="M733 341h28v17h-28z" fill="#66867c"/>
+  <path d="M747 336V278c0-22 16-37 36-37s35 15 35 37v117" fill="none" stroke="#91aaa0" stroke-width="6" stroke-linecap="round"/>
+  <path d="M733 394h29" stroke="#93ada2" stroke-width="6" stroke-linecap="round"/>
+  <path d="M728 478h39" stroke="#fff" stroke-width="9" stroke-linecap="round"/>
+  <path d="M717 506v85m62-85v85" stroke="#536c65" stroke-width="8"/>
+  <path d="M411 592a79 79 0 1 0 158 0 79 79 0 1 0-158 0" fill="#f6f4ed" stroke="#435650" stroke-width="9"/>
+  <circle cx="490" cy="592" r="10" fill="#df9464"/>
+  <path d="M447 511h75m-69 0-37 36m111-36 29 35m-98-35v55h59l35 47" fill="none" stroke="#536a64" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M438 537h-43v52h39" fill="none" stroke="#536a64" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M474 497v-22h53v24" fill="none" stroke="#536a64" stroke-width="7" stroke-linecap="round"/>
+  <path d="M385 589h39m131 0h28" stroke="#536a64" stroke-width="8" stroke-linecap="round"/>
+  <path d="M213 569v39m330-39v39" stroke="#526965" stroke-width="13" stroke-linecap="round"/>
+  <path d="M151 619h414" stroke="#455d57" stroke-width="10" stroke-linecap="round"/>
+  <path d="M117 118h95m-95 17h57" stroke="#fff" stroke-width="6" stroke-linecap="round" opacity=".8"/>
+  <circle cx="771" cy="140" r="36" fill="#dca271"/>
+  <path d="M755 140h32m-16-16v32" stroke="#fff8ec" stroke-width="7" stroke-linecap="round"/>
+  <path d="M716 180h118" stroke="#bcc9c3" stroke-width="7" stroke-linecap="round"/>
+  <path d="M743 199h90" stroke="#bcc9c3" stroke-width="7" stroke-linecap="round"/>
+  <path d="M70 465v127" stroke="#9eae9f" stroke-width="5" stroke-linecap="round"/>
+  <path d="M71 499c-36-13-48-40-37-70 32 5 49 24 42 57m-3 44c27-25 54-25 76-4-11 28-35 40-73 30" fill="#8d9f7f"/>
+  <path d="M45 593h62l-6 35H52z" fill="#c98e68"/>
+  <rect x="205" y="610" width="84" height="34" rx="8" fill="#e0a873"/>
+  <path d="M223 621h48m-41 10h34" stroke="#fbf2e1" stroke-width="4" stroke-linecap="round"/>
+</svg>

@@ -1,14 +1,14 @@
 <!doctype html>
 <html>
 <head>
-<title>About Us | Careright Home Health Care Pvt. Ltd.</title>
+<title>Our Services | Careright Home Health Care Pvt. Ltd.</title>
 
 <!-- Mirrored from carerighthomehealthcares.com/about-us by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Aug 2025 10:04:00 GMT -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Learn more about Careright Home Health Care Pvt. Ltd., our mission, and our commitment to providing quality home nursing, attendant services, and patient care." />
-<meta name="keywords" content="about us, home health care, nursing services, patient care, elder care" />
-<link rel="canonical" href="about-us.html" />
+<meta name="description" content="Explore Careright Home Health Care services, including home nursing, patient care, attendant care, elder care, dementia care, physiotherapy, and baby and mother care." />
+<meta name="keywords" content="home care services, home nursing, patient care, home attendant, elder care, dementia care, physiotherapy" />
+<link rel="canonical" href="services.php" />
 <meta name="google-site-verification" content="FxrmckzPcTYaL7gXPNcvhWAGROvqhvdqNZlgs4IRA2k" />
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <meta charset="utf-8">
@@ -357,29 +357,50 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
 <!-- Statistics Section End -->
 
 
-    <section class="content page-detail-content">
+    <section class="content service-guide">
         <div class="container">
-            <h2>Choosing the Right Home-Care Service</h2>
-            <h3>Understanding the support</h3>
-            <p>Families considering home-care services can begin by describing different support options for a family's individual situation. The suitable arrangement depends on the individual, the household routine, confirmed availability, and any relevant professional guidance.</p>
-            <h3>Planning daily routines</h3>
-            <p>A useful discussion identifies nursing, patient care, attendant assistance, elder support, and related services. Explain which activities are most important, when help is needed, and what the person receiving care prefers to do independently.</p>
-            <h3>Preparing for care</h3>
-            <p>Before support begins, gather the person's location, routine, and type of assistance requested. Keeping current information together makes family handovers clearer and helps the care team understand the arrangements already in place.</p>
-            <h3>Home and access arrangements</h3>
-            <p>Planning should also take account of questions about service duties and the family's preferred schedule. Mention practical constraints early, including access, timing, the household's daily routine, and any equipment that affects the service.</p>
-            <h3>Family communication</h3>
-            <p>Agree with family members on how the person receiving care can express their preferences. A clear point of contact and consistent handover can reduce confusion when schedules change or practical questions arise.</p>
-            <h3>Respectful, personal support</h3>
-            <p>Support should respect the person's dignity, privacy, and choices. Discuss communication preferences, familiar routines, and how assistance can be offered without taking away independence.</p>
-            <h3>Working with healthcare professionals</h3>
-            <p>Keep clinical responsibilities clear: clinical tasks require appropriate professional guidance and qualifications. If health needs change or new symptoms appear, contact the treating professional rather than relying on a routine service discussion.</p>
-            <h3>Reviewing the care arrangement</h3>
-            <p>Review the arrangement regularly, especially whether a service option still fits the family's requirements. Families can share practical feedback with the coordinator and consult the relevant professional when care instructions need reassessment.</p>
-            <h3>Questions to discuss</h3>
-            <p>Before confirming a service, ask about duties, availability, schedules, and communication arrangements. Discussing duties, hours, communication, and availability in advance helps everyone understand what is and is not included.</p>
-            <h3>Getting started</h3>
-            <p>To get started with home-care services, share the service card, patient locality, requirements, and callback number. The team can use those details to discuss the request, explain possible availability, and outline the next step without assuming a booking.</p>
+            <div class="service-guide__intro">
+                <span class="service-guide__eyebrow">CARE THAT FITS YOUR FAMILY</span>
+                <h2>Choosing the Right Home-Care Service</h2>
+                <p>Every family’s needs are different. Start with the kind of support your loved one needs, then explore the service options below. Our team can discuss your enquiry, location, and availability with you.</p>
+            </div>
+
+            <div class="service-guide__grid">
+                <article class="service-guide__card">
+                    <span class="service-guide__number" aria-hidden="true">01</span>
+                    <div class="service-guide__icon" aria-hidden="true"><i class="fa fa-user-md"></i></div>
+                    <h3>Nursing and patient care</h3>
+                    <p>For families looking into nursing support or assistance for someone who needs care at home. Share the type of support requested and any guidance from the treating healthcare professional.</p>
+                    <a href="home-nursing-service.php">Explore home nursing <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                </article>
+
+                <article class="service-guide__card">
+                    <span class="service-guide__number" aria-hidden="true">02</span>
+                    <div class="service-guide__icon" aria-hidden="true"><i class="fa fa-heart"></i></div>
+                    <h3>Everyday and elder support</h3>
+                    <p>For help with day-to-day support at home or care enquiries for an older family member. Let us know about preferred routines, timing, and the kind of assistance you are seeking.</p>
+                    <a href="home-attendant.php">Explore home attendant care <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                </article>
+
+                <article class="service-guide__card">
+                    <span class="service-guide__number" aria-hidden="true">03</span>
+                    <div class="service-guide__icon" aria-hidden="true"><i class="fa fa-home"></i></div>
+                    <h3>Specialist family needs</h3>
+                    <p>Explore options including dementia care, physiotherapy, and baby and mother care. Tell us which service you have in mind so we can direct your enquiry.</p>
+                    <a href="#service-list">Browse related services <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                </article>
+            </div>
+
+            <div class="service-guide__footer" id="service-list">
+                <div class="service-guide__footer-copy">
+                    <h3>Not sure where to start?</h3>
+                    <p>Tell us your locality, the type of care you are looking for, and a convenient time to contact you. We’ll be happy to discuss your enquiry and the next steps.</p>
+                </div>
+                <div class="service-guide__actions">
+                    <a class="service-guide__button" href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> Call +91 7668066607</a>
+                    <a class="service-guide__text-link" href="contact.php">Contact us</a>
+                </div>
+            </div>
         </div>
     </section>
 <!--bot links div start-->  

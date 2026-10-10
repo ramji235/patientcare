@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 760" role="img" aria-labelledby="title desc">
+  <title id="title">Senior citizen care and companionship at home</title>
+  <desc id="desc">A senior citizen reads in a comfortable chair while a caregiver nearby offers a cup of tea.</desc>
+  <rect width="900" height="760" fill="#e7edf0"/>
+  <path d="M0 0h900v500H0z" fill="#f6f1e6"/>
+  <path d="M77 65h278v276H77z" fill="#c6dce0"/>
+  <path d="M97 85h238v236H97z" fill="#accfd2"/>
+  <path d="M216 85v236M97 203h238" stroke="#f8f4e8" stroke-width="14"/>
+  <path d="M0 500h900v260H0z" fill="#d6c7ad"/>
+  <path d="M0 654h900" stroke="#c4b294" stroke-width="5"/>
+  <ellipse cx="448" cy="679" rx="302" ry="34" fill="#a99d88" opacity=".35"/>
+  <path d="M164 359h348c25 0 46 21 46 46v211H129V394c0-19 16-35 35-35z" fill="#647d8b"/>
+  <path d="M143 334h360c23 0 42 19 42 42v37H129v-37c0-23 6-42 14-42z" fill="#8299a2"/>
+  <path d="M171 616v64m345-64v64" stroke="#4d5d62" stroke-width="19" stroke-linecap="round"/>
+  <path d="M268 279c-2-53 28-88 77-88 47 0 75 33 69 82l-5 40c-13 29-38 44-72 42-39-2-61-24-69-59z" fill="#c88762"/>
+  <path d="M267 276c0-59 31-95 80-95 48 0 73 32 67 78-24-6-42-21-56-41-18 26-47 44-91 58z" fill="#e7e4d9"/>
+  <path d="M256 328c15-16 37-24 66-23 42 2 69 19 79 49l24 145H240l-8-114c-2-23 5-43 24-57z" fill="#b98a73"/>
+  <path d="M293 351c-14 29-20 62-17 97m92-92c20 27 30 54 32 87" fill="none" stroke="#bf8060" stroke-width="17" stroke-linecap="round"/>
+  <path d="M265 500c-3 35-5 73-5 112m124-111c8 36 19 72 37 106" fill="none" stroke="#4f5e68" stroke-width="25" stroke-linecap="round"/>
+  <path d="M241 614h45m129 0h43" stroke="#39454b" stroke-width="15" stroke-linecap="round"/>
+  <path d="M281 376c28 10 51 24 72 46" fill="none" stroke="#c88762" stroke-width="15" stroke-linecap="round"/>
+  <path d="M321 407 429 441" stroke="#efe4cf" stroke-width="5"/>
+  <path d="M332 423 438 457" stroke="#efe4cf" stroke-width="5"/>
+  <path d="M343 439 447 473" stroke="#efe4cf" stroke-width="5"/>
+  <path d="M571 265c-2-47 24-79 68-79 45 0 69 29 65 72l-4 36c-12 28-36 43-68 41-36-2-56-23-61-57z" fill="#dba17a"/>
+  <path d="M570 263c2-53 29-86 72-86 45 0 67 29 59 74-19-5-37-19-50-39-18 27-45 43-81 51z" fill="#4e453e"/>
+  <path d="M564 309c14-15 34-22 60-21 39 2 61 17 69 45l21 134H540l-1-103c0-23 8-42 25-55z" fill="#b77852"/>
+  <path d="M595 330c-13 25-18 55-16 88m77-82c18 23 28 49 30 78" fill="none" stroke="#d1946f" stroke-width="15" stroke-linecap="round"/>
+  <path d="M580 468c2 42 1 86 0 135m94-135c11 43 24 83 43 122" fill="none" stroke="#65717c" stroke-width="22" stroke-linecap="round"/>
+  <path d="M558 612h40m101 0h43" stroke="#3e484d" stroke-width="14" stroke-linecap="round"/>
+  <path d="M601 344c-18 18-29 40-33 64" fill="none" stroke="#dba17a" stroke-width="14" stroke-linecap="round"/>
+  <path d="M570 408c-17 11-26 25-29 44" fill="none" stroke="#dba17a" stroke-width="13" stroke-linecap="round"/>
+  <path d="M531 440h44l-4 38h-36z" fill="#f8f3e7" stroke="#967c68" stroke-width="3"/>
+  <path d="M528 439h50" stroke="#967c68" stroke-width="4" stroke-linecap="round"/>
+  <path d="M539 430c0-9 6-15 13-15s13 6 13 15" fill="none" stroke="#e6bc80" stroke-width="4"/>
+  <path d="M51 469c18-48 50-71 90-68 9 31 6 64-10 91z" fill="#8da17e"/>
+  <path d="M89 493v133m0-72-30-32m30 64 34-37" fill="none" stroke="#70856b" stroke-width="8" stroke-linecap="round"/>
+  <path d="M47 626h87l-10 43H58z" fill="#b77c60"/>
+  <path d="M735 429h99v14h-99z" fill="#9c7657"/>
+  <path d="M748 443v144m72-144v144" stroke="#9c7657" stroke-width="8"/>
+  <path d="M759 408c0-17 12-29 28-29s28 12 28 29v21h-56z" fill="#d59b5d"/>
+  <path d="M787 378c0-12 7-19 16-19" fill="none" stroke="#71847a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M726 587h115" stroke="#9c7657" stroke-width="9" stroke-linecap="round"/>
+  <path d="M740 604c20-20 55-21 78 0" fill="none" stroke="#8ba084" stroke-width="7"/>
+  <circle cx="738" cy="182" r="28" fill="#fff" opacity=".9"/>
+  <path d="M725 183h26m-13-13v26" stroke="#9a7b62" stroke-width="5" stroke-linecap="round"/>
+</svg>

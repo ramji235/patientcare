@@ -1,14 +1,14 @@
 <!doctype html>
 <html>
 <head>
-<title>Ambulance Services 24X7</title>
+<title>Care Team Credentials and Certificates | Careright</title>
 
 <!-- Mirrored from carerighthomehealthcares.com/about-us by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Aug 2025 10:04:00 GMT -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Learn more about Careright Home Health Care Pvt. Ltd., our mission, and our commitment to providing quality home nursing, attendant services, and patient care." />
-<meta name="keywords" content="about us, home health care, nursing services, patient care, elder care" />
-<link rel="canonical" href="about-us.html" />
+<meta name="description" content="Learn what to ask about care-team roles, qualifications, training, and service documents when arranging home healthcare with Careright." />
+<meta name="keywords" content="home healthcare staff qualifications, caregiver credentials, nursing certificates, care team training, healthcare service documents" />
+<link rel="canonical" href="certificate.php" />
 <meta name="google-site-verification" content="FxrmckzPcTYaL7gXPNcvhWAGROvqhvdqNZlgs4IRA2k" />
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <meta charset="utf-8">
@@ -142,93 +142,90 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
 <!--header div end-->
 
 
-<!--breadcump div start-->     
-<section class="page-title-section">
+<!--breadcump div start-->
+<section class="credentials-title">
     <div class="container">
-        <h1>Certificate</h1>
+        <span>CARERIGHT HOME HEALTH CARE · TRANSPARENCY & ROLE CLARITY</span>
+        <h1>Care Team Credentials</h1>
         <ol class="breadcrumb">
           <li><a href="index.php">Home</a></li>
-          <li class="active">Certificate</li>
+          <li><a href="services.php">Services</a></li>
+          <li class="active">Credentials</li>
         </ol>
     </div>
 </section>
 <!--breadcump div end-->
 
-
-<a name="about"></a>
-<!-- welcome div start -->
-<div class="content">
+<main class="credentials-page">
     <div class="container">
-        <div class="row">
-        	<div class="col-md-8 col-sm-8 col-xs-12">
-            <!--weldiv start-->
-            <div class="wel">
-                <h1 style="font-size:25px;"><strong style="color:#0066CC;">Certificates and Credentials</strong><span></span></h1>
-                <div class="text"><p>We value qualified, responsible care professionals. For information about staff credentials or service documentation, contact our team and mention the service you are enquiring about. Any clinical documents should be reviewed with the issuing professional or organization.</p></div>
-            
-                <div class="page-detail-content">
-                    <h2>Understanding the support</h2>
-                    <p>Families considering staff credentials and certificates can begin by describing understanding relevant qualifications and service documents. The suitable arrangement depends on the individual, the household routine, confirmed availability, and any relevant professional guidance.</p>
-                    <h2>Planning daily routines</h2>
-                    <p>A useful discussion identifies the role, certificate, issuing body, and training area being discussed. Explain which activities are most important, when help is needed, and what the person receiving care prefers to do independently.</p>
-                    <h2>Preparing for care</h2>
-                    <p>Before support begins, gather the document details and the duties expected for the service. Keeping current information together makes family handovers clearer and helps the care team understand the arrangements already in place.</p>
-                    <h2>Home and access arrangements</h2>
-                    <p>Planning should also take account of a private place to store care-related documents and contacts. Mention practical constraints early, including access, timing, the household's daily routine, and any equipment that affects the service.</p>
-                    <h2>Family communication</h2>
-                    <p>Agree with family members on how families can raise questions about qualifications and role boundaries. A clear point of contact and consistent handover can reduce confusion when schedules change or practical questions arise.</p>
-                    <h2>Respectful, personal support</h2>
-                    <p>Support should respect the person's dignity, privacy, and choices. Discuss communication preferences, familiar routines, and how assistance can be offered without taking away independence.</p>
-                    <h2>Working with healthcare professionals</h2>
-                    <p>Keep clinical responsibilities clear: a certificate does not replace assessment or a clinician-approved plan. If health needs change or new symptoms appear, contact the treating professional rather than relying on a routine service discussion.</p>
-                    <h2>Reviewing the care arrangement</h2>
-                    <p>Review the arrangement regularly, especially whether the available documents answer the family's service question. Families can share practical feedback with the coordinator and consult the relevant professional when care instructions need reassessment.</p>
-                    <h2>Questions to discuss</h2>
-                    <p>Before confirming a service, ask about credential scope, document validity, professional duties, and issuer. Discussing duties, hours, communication, and availability in advance helps everyone understand what is and is not included.</p>
-                    <h2>Getting started</h2>
-                    <p>To get started with staff credentials and certificates, share the service, role, and document details you need clarified. The team can use those details to discuss the request, explain possible availability, and outline the next step without assuming a booking.</p>
+        <section class="credentials-page__hero">
+            <div class="credentials-page__copy">
+                <span class="credentials-page__eyebrow">CLEAR INFORMATION BUILDS CONFIDENCE</span>
+                <h2>Know who is supporting your family.</h2>
+                <p>Care roles and training can differ across services. When arranging support, ask the team about the proposed caregiver's role, relevant experience, training, and the duties included in the service—so expectations are clear before care begins.</p>
+                <div class="credentials-page__actions">
+                    <a href="contact.php">Ask about a care role <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                    <a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> +91 7668066607</a>
                 </div>
-</div>
+                <div class="credentials-page__note"><i class="fa fa-info-circle" aria-hidden="true"></i> Credentials and duties depend on the role and service being discussed.</div>
             </div>
-            <div class="col-md-4 col-sm-4 col-xs-12">
-            <!--callback form div start-->
-            <div class="callback">
-                <img src="images/abo.jpg" style="width:91%;">
-            </div>	
-            <!--callback form div end-->
+            <div class="credentials-page__visual">
+                <img src="images/care-team-credentials.svg" alt="Illustration of care-team documents being discussed and reviewed">
+                <div class="credentials-page__visual-tag"><i class="fa fa-search" aria-hidden="true"></i><span>ASK · REVIEW<br>· CLARIFY</span></div>
             </div>
-        </div>
-    </div>
-</div>
+        </section>
 
-<!-- Statistics Section Start -->
-<div class="content">
-    <div class="container">
-        <div class="row">
-        	<div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-handshake-o" aria-hidden="true"></i> 1000+</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Services Delivered<br><br></p>
-                </div>
+        <section class="credentials-page__intro">
+            <div><span>WHAT TO CLARIFY BEFORE CARE STARTS</span><h2>Focus on the role, not just a document title.</h2></div>
+            <p>A certificate alone does not define a person's scope of practice or guarantee a particular service outcome. Ask how the proposed role relates to the support requested, and direct clinical questions to the appropriate healthcare professional.</p>
+        </section>
+
+        <section class="credentials-page__questions" aria-label="Questions about care team credentials">
+            <article>
+                <span class="credentials-page__question-mark">01</span>
+                <small>ROLE & RESPONSIBILITIES</small>
+                <h3>What duties are included?</h3>
+                <p>Ask what the caregiver is expected to do, what falls outside the role, and who to contact if needs change.</p>
+            </article>
+            <article>
+                <span class="credentials-page__question-mark">02</span>
+                <small>TRAINING & EXPERIENCE</small>
+                <h3>What is relevant to this service?</h3>
+                <p>Discuss experience and training related to the requested support without assuming qualifications not confirmed by the provider.</p>
+            </article>
+            <article>
+                <span class="credentials-page__question-mark">03</span>
+                <small>DOCUMENTS & VERIFICATION</small>
+                <h3>What can be reviewed?</h3>
+                <p>Ask which role-related documents can be shared, who issued them, and how their details can be verified.</p>
+            </article>
+        </section>
+
+        <section class="credentials-page__steps">
+            <div class="credentials-page__steps-heading">
+                <span>A PRACTICAL CHECKLIST</span>
+                <h2>Questions worth asking the care coordinator.</h2>
+                <p>Make sure the service description and the proposed caregiver role match the family's needs.</p>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-thumbs-up" aria-hidden="true"></i> 10+ Yrs</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Of Exeperience In Nursing Care<br><br></p>
-                </div>
+            <div class="credentials-page__steps-list">
+                <article><b>01</b><div><h3>Confirm the service and role</h3><p>Is the support nursing, attendant care, or another service? What tasks are planned?</p></div></article>
+                <article><b>02</b><div><h3>Ask about role-relevant documents</h3><p>Which training or qualification records are relevant and available for review?</p></div></article>
+                <article><b>03</b><div><h3>Clarify clinical boundaries</h3><p>Who handles clinical assessment, care instructions, medicines, and changes in health?</p></div></article>
+                <article><b>04</b><div><h3>Agree on updates and next steps</h3><p>Who is the family contact, and how will questions or concerns be escalated?</p></div></article>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-star" aria-hidden="true"></i> 100%</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Satisfaction Rate<br><br></p>
-                </div>
-            </div>
-        </div>
+        </section>
+
+        <aside class="credentials-page__boundary">
+            <span><i class="fa fa-shield" aria-hidden="true"></i></span>
+            <div><strong>Documents are not a substitute for clinical advice.</strong><p>This page is a guide to questions families may ask; it does not verify or claim any specific certificate, licence, accreditation, or clinical qualification. Confirm role credentials directly with the care provider and issuing organization. Diagnosis and treatment decisions belong with qualified healthcare professionals.</p></div>
+        </aside>
+
+        <section class="credentials-page__contact">
+            <div><span>QUESTIONS ABOUT A CARE ROLE OR DOCUMENT?</span><h2>Tell us what you would like clarified.</h2><p>Mention the service, role, and document or duty you have a question about. The team can discuss the request and explain what information is available.</p></div>
+            <div><a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> Call +91 7668066607</a><a href="contact.php">Send an online enquiry</a></div>
+        </section>
     </div>
-</div>
-<!-- Statistics Section End -->
+</main>
 
 
 <!--bot links div start-->  

@@ -1,14 +1,14 @@
 <!doctype html>
 <html>
 <head>
-<title>About Us | Careright Home Health Care Pvt. Ltd.</title>
+<title>Baby Care Services at Home | Careright Home Health Care</title>
 
 <!-- Mirrored from carerighthomehealthcares.com/about-us by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Aug 2025 10:04:00 GMT -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Learn more about Careright Home Health Care Pvt. Ltd., our mission, and our commitment to providing quality home nursing, attendant services, and patient care." />
-<meta name="keywords" content="about us, home health care, nursing services, patient care, elder care" />
-<link rel="canonical" href="about-us.html" />
+<meta name="description" content="Newborn and baby care support at home for parents, with help around agreed daily routines, settling, hygiene, and family handovers." />
+<meta name="keywords" content="baby care services at home, newborn care attendant, baby care support for parents, newborn daily routine support, infant care at home" />
+<link rel="canonical" href="baby-care-services-at-home.php" />
 <meta name="google-site-verification" content="FxrmckzPcTYaL7gXPNcvhWAGROvqhvdqNZlgs4IRA2k" />
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <meta charset="utf-8">
@@ -142,93 +142,89 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
 <!--header div end-->
 
 
-<!--breadcump div start-->     
-<section class="page-title-section">
+<!--breadcump div start-->
+<section class="newborn-page-title">
     <div class="container">
-        <h1>Baby Care Services At Home</h1>
+        <span>CARERIGHT HOME HEALTH CARE · SUPPORT FOR NEW PARENTS</span>
+        <h1>Baby Care at Home</h1>
         <ol class="breadcrumb">
           <li><a href="index.php">Home</a></li>
-          <li class="active">Baby Care Services At Home</li>
+          <li><a href="services.php">Services</a></li>
+          <li class="active">Baby Care at Home</li>
         </ol>
     </div>
 </section>
 <!--breadcump div end-->
 
-
-<a name="about"></a>
-<!-- welcome div start -->
-<div class="content">
+<main class="newborn-page">
     <div class="container">
-        <div class="row">
-        	<div class="col-md-8 col-sm-8 col-xs-12">
-            <!--weldiv start-->
-            <div class="wel">
-                <h1 style="font-size:25px;"><strong style="color:#0066CC;">Newborn and Baby Care at Home</strong><span></span></h1>
-                <div class="text"><p>Caring for a newborn takes time, patience, and support. A baby-care attendant can help parents with everyday baby-care routines, settling, hygiene, and attentive supervision at home, following the family's instructions and the child's clinician's advice.</p></div>
-            
-                <div class="page-detail-content">
-                    <h2>Understanding the support</h2>
-                    <p>Families considering baby and mother care at home can begin by describing practical family support and familiar newborn routines. The suitable arrangement depends on the individual, the household routine, confirmed availability, and any relevant professional guidance.</p>
-                    <h2>Planning daily routines</h2>
-                    <p>A useful discussion identifies agreed baby-care tasks, household help, and everyday support during recovery. Explain which activities are most important, when help is needed, and what the person receiving care prefers to do independently.</p>
-                    <h2>Preparing for care</h2>
-                    <p>Before support begins, gather the parents' preferences, the baby's usual routine, and clinician guidance. Keeping current information together makes family handovers clearer and helps the care team understand the arrangements already in place.</p>
-                    <h2>Home and access arrangements</h2>
-                    <p>Planning should also take account of clean supplies, essential contacts, and a comfortable space for care. Mention practical constraints early, including access, timing, the household's daily routine, and any equipment that affects the service.</p>
-                    <h2>Family communication</h2>
-                    <p>Agree with family members on which tasks parents welcome help with and how they want updates. A clear point of contact and consistent handover can reduce confusion when schedules change or practical questions arise.</p>
-                    <h2>Respectful, personal support</h2>
-                    <p>Support should respect the person's dignity, privacy, and choices. Discuss communication preferences, familiar routines, and how assistance can be offered without taking away independence.</p>
-                    <h2>Working with healthcare professionals</h2>
-                    <p>Keep clinical responsibilities clear: health questions for mother or baby should go to their healthcare provider. If health needs change or new symptoms appear, contact the treating professional rather than relying on a routine service discussion.</p>
-                    <h2>Reviewing the care arrangement</h2>
-                    <p>Review the arrangement regularly, especially whether the household's needs or preferred support schedule have changed. Families can share practical feedback with the coordinator and consult the relevant professional when care instructions need reassessment.</p>
-                    <h2>Questions to discuss</h2>
-                    <p>Before confirming a service, ask about caregiver duties, timing, family preferences, and professional guidance. Discussing duties, hours, communication, and availability in advance helps everyone understand what is and is not included.</p>
-                    <h2>Getting started</h2>
-                    <p>To get started with baby and mother care at home, share the family's locality, the type of help needed, and preferred hours. The team can use those details to discuss the request, explain possible availability, and outline the next step without assuming a booking.</p>
+        <section class="newborn-page__hero">
+            <div class="newborn-page__copy">
+                <span class="newborn-page__eyebrow">NEWBORN ROUTINES · PARENT-LED SUPPORT</span>
+                <h2>A little extra help as your family finds its rhythm.</h2>
+                <p>The first weeks with a baby can bring many new routines. Home support can be discussed around the practical help parents want, the baby's familiar cues, and the family's preferences—without taking the place of guidance from the baby's healthcare provider.</p>
+                <div class="newborn-page__actions">
+                    <a href="contact.php">Discuss baby-care support <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                    <a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> +91 7668066607</a>
                 </div>
-</div>
+                <div class="newborn-page__promise"><span><i class="fa fa-heart-o" aria-hidden="true"></i></span><p><strong>Your baby. Your preferences.</strong><br>Parents guide the routine and agree the support provided.</p></div>
             </div>
-            <div class="col-md-4 col-sm-4 col-xs-12">
-            <!--callback form div start-->
-            <div class="callback">
-                <img src="images/abo.jpg" style="width:91%;">
-            </div>	
-            <!--callback form div end-->
+            <div class="newborn-page__visual">
+                <img src="images/newborn-care-family-routine.svg" alt="A parent and newborn resting together at home beside a prepared baby-care basket">
+                <div class="newborn-page__visual-note"><i class="fa fa-moon-o" aria-hidden="true"></i><span>GENTLE SUPPORT<br>FOR NEW ROUTINES</span></div>
             </div>
-        </div>
-    </div>
-</div>
+        </section>
 
-<!-- Statistics Section Start -->
-<div class="content">
-    <div class="container">
-        <div class="row">
-        	<div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-handshake-o" aria-hidden="true"></i> 1000+</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Services Delivered<br><br></p>
-                </div>
+        <section class="newborn-page__intro">
+            <div><span>CARE THAT FITS YOUR HOUSEHOLD</span><h2>Begin with the support that would make today easier.</h2></div>
+            <p>Every household is different. Parents can talk through routines, practical tasks, timing, and the kind of communication they prefer. Duties, caregiver availability, and the plan for supervision should be clearly discussed before any arrangement.</p>
+        </section>
+
+        <section class="newborn-page__routines" aria-label="Baby care support options">
+            <article>
+                <span class="newborn-page__routine-index">01 / BABY'S DAY</span>
+                <div class="newborn-page__routine-icon"><i class="fa fa-clock-o" aria-hidden="true"></i></div>
+                <h3>Familiar daily routines</h3>
+                <p>Discuss parent-agreed help with changing, settling, and everyday baby-care tasks that fit the family's routine.</p>
+            </article>
+            <article>
+                <span class="newborn-page__routine-index">02 / PARENTS</span>
+                <div class="newborn-page__routine-icon newborn-page__routine-icon--parent"><i class="fa fa-coffee" aria-hidden="true"></i></div>
+                <h3>Practical help at home</h3>
+                <p>Identify the agreed moments when an extra pair of hands would be useful while keeping parents involved.</p>
+            </article>
+            <article>
+                <span class="newborn-page__routine-index">03 / COMMUNICATION</span>
+                <div class="newborn-page__routine-icon newborn-page__routine-icon--family"><i class="fa fa-comments-o" aria-hidden="true"></i></div>
+                <h3>Parent-led handovers</h3>
+                <p>Agree how routine updates are shared, who is the family contact, and how schedule changes are handled.</p>
+            </article>
+        </section>
+
+        <section class="newborn-page__plan">
+            <div class="newborn-page__plan-heading">
+                <span>BEFORE SUPPORT BEGINS</span>
+                <h2>Share the little details that matter to your family.</h2>
+                <p>A short conversation can help set clear, practical expectations for everyone.</p>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-thumbs-up" aria-hidden="true"></i> 10+ Yrs</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Of Exeperience In Nursing Care<br><br></p>
-                </div>
+            <div class="newborn-page__plan-list">
+                <article><b>01</b><div><h3>Baby's familiar cues</h3><p>Talk through the routines and settling cues parents want the caregiver to know.</p></div></article>
+                <article><b>02</b><div><h3>What parents want help with</h3><p>Agree specific tasks, timing, supervision arrangements, and how parents want to stay informed.</p></div></article>
+                <article><b>03</b><div><h3>Healthcare-provider guidance</h3><p>Share current instructions relevant to care and agree when parents should contact the provider.</p></div></article>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-star" aria-hidden="true"></i> 100%</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Satisfaction Rate<br><br></p>
-                </div>
-            </div>
-        </div>
+        </section>
+
+        <aside class="newborn-page__safety">
+            <span><i class="fa fa-info" aria-hidden="true"></i></span>
+            <div><strong>Clinical advice belongs with your baby's healthcare provider.</strong><p>A baby-care attendant does not provide medical assessment, diagnosis, or treatment. Follow your provider's current guidance for feeding, sleep, medicines, and health concerns. If you are worried about your baby's health or there is an emergency, contact a qualified healthcare professional or local emergency services.</p></div>
+        </aside>
+
+        <section class="newborn-page__contact">
+            <div><span>BABY CARE ENQUIRIES</span><h2>What would make your family's day a little easier?</h2><p>Share your location, the routine where help is wanted, your preferred schedule, and any relevant provider guidance. We can discuss the request and check availability.</p></div>
+            <a href="contact.php">Talk with our team <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+        </section>
     </div>
-</div>
-<!-- Statistics Section End -->
+</main>
 
 
 <!--bot links div start-->  

@@ -1,18 +1,14 @@
 <!doctype html>
 <html>
 <head>
-<!-- CHANGE: Title updated for Contact Us page -->
-<title>Contact Us - Careright Home Health Care</title>
+<title>Home Care Enquiry | Careright Home Health Care</title>
 
 <!-- Mirrored from carerighthomehealthcares.com/about-us by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Aug 2025 10:04:00 GMT -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<!-- CHANGE: Meta description updated for Contact Us page -->
-<meta name="description" content="Get in touch with Careright Home Health Care Pvt. Ltd. Contact us for inquiries about our home nursing, attendant services, and patient care. Find our address, phone number, and email." />
-<!-- CHANGE: Meta keywords updated for Contact Us page -->
-<meta name="keywords" content="contact us, home health care contact, nursing services delhi, patient care support, get in touch" />
-<!-- CHANGE: Canonical URL updated -->
-<link rel="canonical" href="contact-us.html" />
+<meta name="description" content="Send a home-care enquiry to Careright. Tell us which service you need, your location, preferred schedule, and how the team can reach you." />
+<meta name="keywords" content="home care enquiry, request home nursing, patient care enquiry, attendant care enquiry, home healthcare services" />
+<link rel="canonical" href="enquiry.php" />
 <meta name="google-site-verification" content="FxrmckzPcTYaL7gXPNcvhWAGROvqhvdqNZlgs4IRA2k" />
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <meta charset="utf-8">
@@ -147,120 +143,72 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
 
 
 <!--breadcump div start-->     
-<section class="page-title-section">
+<section class="care-enquiry-title">
     <div class="container">
-        <h1>Enquiry Now</h1>
+        <span>CARERIGHT HOME HEALTH CARE · START A CONVERSATION</span>
+        <h1>Tell us what support you are looking for.</h1>
         <ol class="breadcrumb">
           <li><a href="index.php">Home</a></li>
-          <li class="active">Enquiry Now</li>
+          <li class="active">Enquiry</li>
         </ol>
     </div>
 </section>
 <!--breadcump div end-->
 
-
-<a name="about"></a>
-<!-- welcome div start -->
-<div class="content">
+<main class="care-enquiry">
     <div class="container">
-        <div class="row">
-        	<div class="col-md-8 col-sm-8 col-xs-12">
-            <!--weldiv start-->
-            <div class="wel">
-                <h1 style="font-size:25px;"><strong style="color:#0066CC;">Request Home Care Information</strong><span></span></h1>
-                <div class="text"><p><p>Use this enquiry form to tell us about the home-care support you are looking for. Include the service type, the patient's locality, the preferred schedule, and when you hope care can begin.</p>
-                       <p>For nursing or other clinical support, briefly describe the care tasks advised by the patient's healthcare professional. Our team can use these details to discuss the service options and availability that may fit your request.</p></p></div>
-            
-                <div class="page-detail-content">
-                    <h2>Understanding the support</h2>
-                    <p>Families considering home-care service enquiry can begin by describing clear details about the support a family is considering. The suitable arrangement depends on the individual, the household routine, confirmed availability, and any relevant professional guidance.</p>
-                    <h2>Planning daily routines</h2>
-                    <p>A useful discussion identifies service type, patient locality, preferred hours, and anticipated start date. Explain which activities are most important, when help is needed, and what the person receiving care prefers to do independently.</p>
-                    <h2>Preparing for care</h2>
-                    <p>Before support begins, gather the person's preferences and any relevant clinician-advised requirements. Keeping current information together makes family handovers clearer and helps the care team understand the arrangements already in place.</p>
-                    <h2>Home and access arrangements</h2>
-                    <p>Planning should also take account of a concise request and correct callback details. Mention practical constraints early, including access, timing, the household's daily routine, and any equipment that affects the service.</p>
-                    <h2>Family communication</h2>
-                    <p>Agree with family members on how the person receiving care can be included in discussions. A clear point of contact and consistent handover can reduce confusion when schedules change or practical questions arise.</p>
-                    <h2>Respectful, personal support</h2>
-                    <p>Support should respect the person's dignity, privacy, and choices. Discuss communication preferences, familiar routines, and how assistance can be offered without taking away independence.</p>
-                    <h2>Working with healthcare professionals</h2>
-                    <p>Keep clinical responsibilities clear: an enquiry does not confirm a booking or replace medical advice. If health needs change or new symptoms appear, contact the treating professional rather than relying on a routine service discussion.</p>
-                    <h2>Reviewing the care arrangement</h2>
-                    <p>Review the arrangement regularly, especially whether the request or preferred timing has changed. Families can share practical feedback with the coordinator and consult the relevant professional when care instructions need reassessment.</p>
-                    <h2>Questions to discuss</h2>
-                    <p>Before confirming a service, ask about availability, duties, schedule, and what information to prepare. Discussing duties, hours, communication, and availability in advance helps everyone understand what is and is not included.</p>
-                    <h2>Getting started</h2>
-                    <p>To get started with home-care service enquiry, share service needs, locality, schedule, and a reliable callback number. The team can use those details to discuss the request, explain possible availability, and outline the next step without assuming a booking.</p>
-                </div>
-</div>
+        <section class="care-enquiry__hero">
+            <div class="care-enquiry__content">
+                <span class="care-enquiry__eyebrow">LET'S UNDERSTAND WHAT WOULD HELP</span>
+                <h2>A clear enquiry helps us start in the right place.</h2>
+                <p>Tell us the kind of home-care support you are exploring, the area where care is needed, and the schedule you have in mind. Our team can follow up to discuss the request and any current availability.</p>
+                <img src="images/home-care-enquiry.svg" alt="A family member shares a home-care enquiry with a care coordinator">
+                <div class="care-enquiry__privacy"><i class="fa fa-lock" aria-hidden="true"></i><span><strong>Share only what is needed.</strong><br>Please do not include medical records, identity numbers, or other sensitive documents in this enquiry.</span></div>
             </div>
-            <div class="col-md-4 col-sm-4 col-xs-12">
-            <!--callback form div start-->
-            <div class="callback">
-                <div style="padding: 15px; border: 1px solid #eee; text-align: center;">
-                    <i class="fa fa-map-marker fa-3x" style="color: #0066CC;"></i>
-                    <h3 style="margin-top: 10px;">Get Enquiry</h3>
-                    <div class="bot3">
-                	
-                    <div class="callback_inner">
-                        <form method="post" action="https://carerighthomehealthcares.com/send.php" id="form1" required="" name="form1">
-                            <div class="form-group">
-                            <input name="user_name" type="text" class="form-control" id="name" placeholder="Name" required>                
-                            </div>
-                            <div class="form-group">
-                            <input name="user_mobile" type="text" class="form-control" id="mobile" placeholder="Mobile" required>
-                            </div>
-                            <div class="form-group">
-                            <input name="user_email" type="text" class="form-control" id="email" placeholder="Email" required>
-                            </div>
-                            
-                            <div class="form-group">
-                            <textarea name="user_requirement" class="form-control" rows="3" id="requirement" placeholder="Query" required></textarea>
-                            </div>
-                            
-                            
-                            
-                            <button type="submit" name="contact_submit" class="btn btn-default submit">Submit</button>
-                        </form>
-                    </div>
+            <div class="care-enquiry__form-card">
+                <div class="care-enquiry__form-heading">
+                    <span>HOME CARE ENQUIRY</span>
+                    <h2>How can we help?</h2>
+                    <p>Fill in your contact details and a short note about the support you need.</p>
                 </div>
+                <div class="care-enquiry__form">
+                    <form method="post" action="https://carerighthomehealthcares.com/send.php" id="form1" name="form1">
+                        <div class="form-group">
+                            <label for="name">Your name</label>
+                            <input name="user_name" type="text" class="form-control" id="name" placeholder="Enter your name" autocomplete="name" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="mobile">Phone number</label>
+                            <input name="user_mobile" type="tel" class="form-control" id="mobile" placeholder="Enter a callback number" autocomplete="tel" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Email address</label>
+                            <input name="user_email" type="email" class="form-control" id="email" placeholder="name@example.com" autocomplete="email" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="requirement">What support are you looking for?</label>
+                            <textarea name="user_requirement" class="form-control" rows="4" id="requirement" placeholder="For example: service type, locality, preferred schedule, and when you hope to begin." required></textarea>
+                        </div>
+                        <p class="care-enquiry__form-disclaimer">An enquiry does not confirm a booking or replace medical advice. For urgent or emergency medical needs, contact a healthcare professional or local emergency services.</p>
+                        <button type="submit" name="contact_submit" class="btn btn-default submit">Send enquiry <i class="fa fa-arrow-right" aria-hidden="true"></i></button>
+                    </form>
                 </div>
-            </div>	
-            <!--callback form div end-->
             </div>
-        </div>
-    </div>
-</div>
+        </section>
 
-<!-- Statistics Section Start (Kept as is - provides trust signals) -->
-<div class="content">
-    <div class="container">
-        <div class="row">
-        	<div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-handshake-o" aria-hidden="true"></i> 1000+</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Services Delivered<br><br></p>
-                </div>
-            </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-thumbs-up" aria-hidden="true"></i> 10+ Yrs</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Of Exeperience In Nursing Care<br><br></p>
-                </div>
-            </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-star" aria-hidden="true"></i> 100%</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Satisfaction Rate<br><br></p>
-                </div>
-            </div>
-        </div>
+        <section class="care-enquiry__steps">
+            <article><span>01</span><div><h3>Tell us the basics</h3><p>Share the service you are considering, location, and preferred timing.</p></div></article>
+            <article><span>02</span><div><h3>We discuss your request</h3><p>The team can follow up to clarify your needs and talk through possible availability.</p></div></article>
+            <article><span>03</span><div><h3>Confirm before arranging</h3><p>Review service duties, schedule, and next steps before making any arrangements.</p></div></article>
+        </section>
+
+        <section class="care-enquiry__support">
+            <div><span>NOT SURE WHAT TO ASK?</span><h2>Start with the question you have today.</h2></div>
+            <p>You can ask about home nursing, patient or attendant care, elder care, baby care, or another listed service. If clinical support is being considered, mention any relevant guidance from the treating professional without sending private health records.</p>
+            <a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> Prefer to call? +91 7668066607</a>
+        </section>
     </div>
-</div>
-<!-- Statistics Section End -->
+ </main>
 
 
 <!--bot links div start (This section is perfect for a contact page)-->  

@@ -1,14 +1,14 @@
 <!doctype html>
 <html>
 <head>
-<title>About Us | Careright Home Health Care Pvt. Ltd.</title>
+<title>Home Nursing Services in Preet Vihar | Careright</title>
 
 <!-- Mirrored from carerighthomehealthcares.com/about-us by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Aug 2025 10:04:00 GMT -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Learn more about Careright Home Health Care Pvt. Ltd., our mission, and our commitment to providing quality home nursing, attendant services, and patient care." />
-<meta name="keywords" content="about us, home health care, nursing services, patient care, elder care" />
-<link rel="canonical" href="about-us.html" />
+<meta name="description" content="Enquire about home nursing services in Preet Vihar, East Delhi. Contact Careright to discuss your family's care needs and local availability." />
+<meta name="keywords" content="home nursing Preet Vihar, nursing services Preet Vihar, home care East Delhi, Careright Home Health Care" />
+<link rel="canonical" href="home-care-nursing-services-preet-vihar.php" />
 <meta name="google-site-verification" content="FxrmckzPcTYaL7gXPNcvhWAGROvqhvdqNZlgs4IRA2k" />
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <meta charset="utf-8">
@@ -145,9 +145,10 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
 <!--breadcump div start-->     
 <section class="page-title-section">
     <div class="container">
-        <h1>Preet Vihar</h1>
+        <h1>Home Nursing in Preet Vihar</h1>
         <ol class="breadcrumb">
           <li><a href="index.php">Home</a></li>
+          <li><a href="services.php">Services</a></li>
           <li class="active">Preet Vihar</li>
         </ol>
     </div>
@@ -155,80 +156,82 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
 <!--breadcump div end-->
 
 
-<a name="about"></a>
-<!-- welcome div start -->
-<div class="content">
+<main class="preet-nursing">
     <div class="container">
-        <div class="row">
-        	<div class="col-md-8 col-sm-8 col-xs-12">
-            <!--weldiv start-->
-            <div class="wel">
-                <h1 style="font-size:25px;"><strong style="color:#0066CC;">Home Nursing Services in Preet Vihar</strong><span></span></h1>
-                <div class="text"><p>If your family needs nursing support in Preet Vihar, contact us with the patient's care requirements and preferred schedule. We can discuss local availability and coordinate support around instructions from the treating clinician.</p></div>
-            
-                <div class="page-detail-content">
-                    <h2>Understanding the support</h2>
-                    <p>Families considering home nursing in Preet Vihar can begin by describing recovery and ongoing care. The suitable arrangement depends on the individual, the household routine, confirmed availability, and any relevant professional guidance.</p>
-                    <h2>Planning daily routines</h2>
-                    <p>A useful discussion identifies the clinician-advised nursing tasks and preferred visit hours. Explain which activities are most important, when help is needed, and what the person receiving care prefers to do independently.</p>
-                    <h2>Preparing for care</h2>
-                    <p>Before support begins, gather discharge notes, current prescriptions, and clinician contact details. Keeping current information together makes family handovers clearer and helps the care team understand the arrangements already in place.</p>
-                    <h2>Home and access arrangements</h2>
-                    <p>Planning should also take account of the patient's routine, home access, and any equipment already in use. Mention practical constraints early, including access, timing, the household's daily routine, and any equipment that affects the service.</p>
-                    <h2>Family communication</h2>
-                    <p>Agree with family members on the family contact who can receive updates and answer practical questions. A clear point of contact and consistent handover can reduce confusion when schedules change or practical questions arise.</p>
-                    <h2>Respectful, personal support</h2>
-                    <p>Support should respect the person's dignity, privacy, and choices. Discuss communication preferences, familiar routines, and how assistance can be offered without taking away independence.</p>
-                    <h2>Working with healthcare professionals</h2>
-                    <p>Keep clinical responsibilities clear: medical decisions and treatment changes remain with qualified clinicians. If health needs change or new symptoms appear, contact the treating professional rather than relying on a routine service discussion.</p>
-                    <h2>Reviewing the care arrangement</h2>
-                    <p>Review the arrangement regularly, especially whether the agreed schedule and daily support still meet the family's needs. Families can share practical feedback with the coordinator and consult the relevant professional when care instructions need reassessment.</p>
-                    <h2>Questions to discuss</h2>
-                    <p>Before confirming a service, ask about local availability, proposed duties, timing, and handover arrangements. Discussing duties, hours, communication, and availability in advance helps everyone understand what is and is not included.</p>
-                    <h2>Getting started</h2>
-                    <p>To get started with home nursing in Preet Vihar, share the patient's neighbourhood, support needs, preferred schedule, and callback number. The team can use those details to discuss the request, explain possible availability, and outline the next step without assuming a booking.</p>
+        <section class="preet-nursing__welcome">
+            <div class="preet-nursing__welcome-copy">
+                <span class="preet-nursing__tag"><i class="fa fa-map-marker" aria-hidden="true"></i> PREET VIHAR · EAST DELHI</span>
+                <h2>Home nursing enquiries,<br><span>with your family in mind.</span></h2>
+                <p>Exploring nursing support at home in Preet Vihar? Careright can discuss the care you are looking for, your preferred schedule, and whether an arrangement may be available for your locality.</p>
+                <div class="preet-nursing__actions">
+                    <a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> Call +91 7668066607</a>
+                    <a href="contact.php">Send an enquiry <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
                 </div>
-</div>
             </div>
-            <div class="col-md-4 col-sm-4 col-xs-12">
-            <!--callback form div start-->
-            <div class="callback">
-                <img src="images/abo.jpg" style="width:91%;">
-            </div>	
-            <!--callback form div end-->
+            <div class="preet-nursing__visual">
+                <img src="images/Home-Nursing-Service.png" alt="Home nursing support for a patient at home">
+                <div><i class="fa fa-home" aria-hidden="true"></i><span><strong>Care at home</strong><small>Start by telling us what support you are exploring.</small></span></div>
             </div>
-        </div>
-    </div>
-</div>
+        </section>
 
-<!-- Statistics Section Start -->
-<div class="content">
- <div class="container">
-        <div class="row">
-        	<div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-handshake-o" aria-hidden="true"></i> 1000+</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Services Delivered<br><br></p>
-                </div>
+        <section class="preet-nursing__path" aria-labelledby="preet-path-title">
+            <div class="preet-nursing__path-heading">
+                <span>HOW TO START</span>
+                <h2 id="preet-path-title">A simple path to discuss your care enquiry</h2>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-thumbs-up" aria-hidden="true"></i> 10+ Yrs</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Of Exeperience In Nursing Care<br><br></p>
-                </div>
+            <div class="preet-nursing__timeline">
+                <article>
+                    <span class="preet-nursing__step">01</span>
+                    <div><h3>Tell us about the need</h3><p>Describe the nursing support you are looking for, including whether it relates to recovery at home or ongoing care.</p></div>
+                </article>
+                <article>
+                    <span class="preet-nursing__step">02</span>
+                    <div><h3>Share your routine</h3><p>Let us know the patient's area in Preet Vihar, preferred timings, and practical details that may help explain the request.</p></div>
+                </article>
+                <article>
+                    <span class="preet-nursing__step">03</span>
+                    <div><h3>Ask about arrangements</h3><p>Discuss proposed duties, communication, and availability before deciding whether to proceed.</p></div>
+                </article>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-star" aria-hidden="true"></i> 100%</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Satisfaction Rate<br><br></p>
-                </div>
+        </section>
+
+        <section class="preet-nursing__prepare">
+            <div class="preet-nursing__prepare-image">
+                <img src="images/HOME NURSING SERVICE.png" alt="Nurse assisting a patient with care at home">
+                <span>Thoughtful planning starts with clear information.</span>
             </div>
-        </div>
+            <div class="preet-nursing__prepare-copy">
+                <span class="preet-nursing__overline">BEFORE YOU CONTACT US</span>
+                <h2>Details that can make the conversation easier</h2>
+                <p>You can share whichever details are available. It may help to have:</p>
+                <ul>
+                    <li><i class="fa fa-check-circle" aria-hidden="true"></i> Locality or a nearby landmark in Preet Vihar</li>
+                    <li><i class="fa fa-check-circle" aria-hidden="true"></i> The support being requested and preferred timings</li>
+                    <li><i class="fa fa-check-circle" aria-hidden="true"></i> Relevant discharge or care instructions</li>
+                    <li><i class="fa fa-check-circle" aria-hidden="true"></i> A family member's contact details</li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="preet-nursing__care-note">
+            <span><i class="fa fa-user-md" aria-hidden="true"></i></span>
+            <div>
+                <h3>Keep the treating healthcare professional involved</h3>
+                <p>Clinical decisions, diagnosis, and changes to treatment should be guided by the patient's qualified healthcare professional. Share relevant instructions during your enquiry and contact them if needs or condition change.</p>
+            </div>
+            <a href="home-nursing-service.php">Home nursing details <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+        </section>
+
+        <section class="preet-nursing__contact">
+            <div>
+                <span>CARERIGHT HOME HEALTH CARE · PREET VIHAR</span>
+                <h2>Would you like to talk through your enquiry?</h2>
+                <p>Call our team to discuss home nursing support and ask about local availability.</p>
+            </div>
+            <a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> +91 7668066607</a>
+        </section>
     </div>
-</div>
-<!-- Statistics Section End -->
+</main>
 
 
 <!--bot links div start-->  

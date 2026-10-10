@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 760" role="img" aria-labelledby="title desc">
+  <title id="title">Paralysis patient support and mobility at home</title>
+  <desc id="desc">A person in a wheelchair at home speaks with a caregiver who is standing nearby.</desc>
+  <rect width="900" height="760" fill="#e4e7e9"/>
+  <path d="M0 0h900v505H0z" fill="#f2f3ed"/>
+  <path d="M77 70h278v275H77z" fill="#c7d8db"/>
+  <path d="M97 90h238v235H97z" fill="#afc9cd"/>
+  <path d="M216 90v235M97 207h238" stroke="#f8f5ee" stroke-width="14"/>
+  <path d="M0 505h900v255H0z" fill="#d4c9b6"/>
+  <path d="M0 652h900" stroke="#bfb29e" stroke-width="5"/>
+  <ellipse cx="450" cy="680" rx="318" ry="37" fill="#98958b" opacity=".3"/>
+  <circle cx="339" cy="565" r="96" fill="none" stroke="#586875" stroke-width="15"/>
+  <circle cx="339" cy="565" r="11" fill="#586875"/>
+  <path d="m339 565 58-102h108m-108 0 42 88m-94-6h135" fill="none" stroke="#586875" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="455" cy="565" r="30" fill="none" stroke="#687b85" stroke-width="10"/>
+  <circle cx="455" cy="565" r="7" fill="#687b85"/>
+  <path d="M279 351c-1-52 28-85 75-85 47 0 75 31 70 77l-5 38c-13 29-38 45-72 43-39-2-62-23-68-58z" fill="#c78966"/>
+  <path d="M278 349c1-59 30-95 78-95 48 0 73 31 67 76-23-5-42-20-55-41-18 28-46 45-90 60z" fill="#5a4b43"/>
+  <path d="M267 400c16-16 39-24 68-23 43 2 69 19 78 50l26 108H272l-26-81c-8-22 2-42 21-54z" fill="#ad7984"/>
+  <path d="M306 422c-15 25-22 51-21 79m87-73c16 18 27 39 33 63" fill="none" stroke="#bf805d" stroke-width="17" stroke-linecap="round"/>
+  <path d="M307 536c-1 28 0 60 7 91m83-87c-8 31-12 61-10 93" fill="none" stroke="#4f5968" stroke-width="23" stroke-linecap="round"/>
+  <path d="M299 629h34m36 0h36" stroke="#39434a" stroke-width="14" stroke-linecap="round"/>
+  <path d="M356 405c29 19 47 41 59 68" fill="none" stroke="#c78966" stroke-width="15" stroke-linecap="round"/>
+  <path d="M520 274c-2-49 25-82 72-82 46 0 72 31 67 75l-4 38c-13 29-37 45-71 43-39-2-60-23-64-58z" fill="#dca37b"/>
+  <path d="M519 271c2-55 29-88 75-88 46 0 70 30 63 73-20-5-38-19-50-39-18 27-45 44-88 54z" fill="#4a423e"/>
+  <path d="M511 320c15-16 37-24 66-23 42 2 67 18 75 49l22 139H491l-3-108c0-23 7-42 23-57z" fill="#648b81"/>
+  <path d="M545 342c-15 27-21 59-18 94m82-88c19 25 28 53 30 85" fill="none" stroke="#d09670" stroke-width="16" stroke-linecap="round"/>
+  <path d="M528 500c1 38 0 85-3 137m104-135c9 41 22 80 40 117" fill="none" stroke="#4f6570" stroke-width="23" stroke-linecap="round"/>
+  <path d="M505 642h41m105 0h40" stroke="#3d484d" stroke-width="14" stroke-linecap="round"/>
+  <path d="M546 356c-22 19-36 40-43 65" fill="none" stroke="#dca37b" stroke-width="14" stroke-linecap="round"/>
+  <path d="M505 416c-21 5-37 17-47 36" fill="none" stroke="#dca37b" stroke-width="13" stroke-linecap="round"/>
+  <path d="M168 409v203m-10 0h20m-10-163-36 28m36-28 36 28" fill="none" stroke="#a27b5f" stroke-width="10" stroke-linecap="round"/>
+  <path d="M129 449h78" stroke="#a27b5f" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="732" cy="180" r="40" fill="#fff" opacity=".9"/>
+  <path d="m712 180 14 14 27-30" fill="none" stroke="#648b81" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M673 271h111m-111 18h78" stroke="#fff" stroke-width="6" stroke-linecap="round" opacity=".65"/>
+  <path d="M710 485c18-51 48-77 89-75 10 35 7 70-11 102z" fill="#849879"/>
+  <path d="M750 514v109m0-62-27-31m27 55 31-36" fill="none" stroke="#687f68" stroke-width="8" stroke-linecap="round"/>
+  <path d="M711 623h81l-9 43h-62z" fill="#ad7c63"/>
+</svg>

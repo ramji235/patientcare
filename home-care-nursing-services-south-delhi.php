@@ -1,14 +1,14 @@
 <!doctype html>
 <html>
 <head>
-<title>About Us | Careright Home Health Care Pvt. Ltd.</title>
+<title>Home Nursing Services in South Delhi | Careright</title>
 
 <!-- Mirrored from carerighthomehealthcares.com/about-us by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Aug 2025 10:04:00 GMT -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Learn more about Careright Home Health Care Pvt. Ltd., our mission, and our commitment to providing quality home nursing, attendant services, and patient care." />
-<meta name="keywords" content="about us, home health care, nursing services, patient care, elder care" />
-<link rel="canonical" href="about-us.html" />
+<meta name="description" content="Enquire about home nursing services in South Delhi. Share your neighbourhood, care requirements, and preferred schedule with Careright to discuss local availability." />
+<meta name="keywords" content="home nursing South Delhi, nursing services South Delhi, home care South Delhi, Careright Home Health Care" />
+<link rel="canonical" href="home-care-nursing-services-south-delhi.php" />
 <meta name="google-site-verification" content="FxrmckzPcTYaL7gXPNcvhWAGROvqhvdqNZlgs4IRA2k" />
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <meta charset="utf-8">
@@ -145,9 +145,10 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
 <!--breadcump div start-->     
 <section class="page-title-section">
     <div class="container">
-        <h1>South Delhi</h1>
+        <h1>Home Nursing Services in South Delhi</h1>
         <ol class="breadcrumb">
           <li><a href="index.php">Home</a></li>
+          <li><a href="services.php">Services</a></li>
           <li class="active">South Delhi</li>
         </ol>
     </div>
@@ -155,80 +156,81 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
 <!--breadcump div end-->
 
 
-<a name="about"></a>
-<!-- welcome div start -->
-<div class="content">
+<main class="south-delhi-nursing">
     <div class="container">
-        <div class="row">
-        	<div class="col-md-8 col-sm-8 col-xs-12">
-            <!--weldiv start-->
-            <div class="wel">
-                <h1 style="font-size:25px;"><strong style="color:#0066CC;">Home Nursing Services in South Delhi</strong><span></span></h1>
-                <div class="text"><p>Home nursing enquiries are available for families in South Delhi. Let us know the patient's neighbourhood, the nursing care advised by their clinician, and the preferred schedule so we can discuss service availability.</p></div>
-            
-                <div class="page-detail-content">
-                    <h2>Understanding the support</h2>
-                    <p>Families considering home nursing in South Delhi can begin by describing recovery and ongoing care. The suitable arrangement depends on the individual, the household routine, confirmed availability, and any relevant professional guidance.</p>
-                    <h2>Planning daily routines</h2>
-                    <p>A useful discussion identifies the clinician-advised nursing tasks and preferred visit hours. Explain which activities are most important, when help is needed, and what the person receiving care prefers to do independently.</p>
-                    <h2>Preparing for care</h2>
-                    <p>Before support begins, gather discharge notes, current prescriptions, and clinician contact details. Keeping current information together makes family handovers clearer and helps the care team understand the arrangements already in place.</p>
-                    <h2>Home and access arrangements</h2>
-                    <p>Planning should also take account of the patient's routine, home access, and any equipment already in use. Mention practical constraints early, including access, timing, the household's daily routine, and any equipment that affects the service.</p>
-                    <h2>Family communication</h2>
-                    <p>Agree with family members on the family contact who can receive updates and answer practical questions. A clear point of contact and consistent handover can reduce confusion when schedules change or practical questions arise.</p>
-                    <h2>Respectful, personal support</h2>
-                    <p>Support should respect the person's dignity, privacy, and choices. Discuss communication preferences, familiar routines, and how assistance can be offered without taking away independence.</p>
-                    <h2>Working with healthcare professionals</h2>
-                    <p>Keep clinical responsibilities clear: medical decisions and treatment changes remain with qualified clinicians. If health needs change or new symptoms appear, contact the treating professional rather than relying on a routine service discussion.</p>
-                    <h2>Reviewing the care arrangement</h2>
-                    <p>Review the arrangement regularly, especially whether the agreed schedule and daily support still meet the family's needs. Families can share practical feedback with the coordinator and consult the relevant professional when care instructions need reassessment.</p>
-                    <h2>Questions to discuss</h2>
-                    <p>Before confirming a service, ask about local availability, proposed duties, timing, and handover arrangements. Discussing duties, hours, communication, and availability in advance helps everyone understand what is and is not included.</p>
-                    <h2>Getting started</h2>
-                    <p>To get started with home nursing in South Delhi, share the patient's neighbourhood, support needs, preferred schedule, and callback number. The team can use those details to discuss the request, explain possible availability, and outline the next step without assuming a booking.</p>
-                </div>
-</div>
+        <section class="south-delhi-nursing__hero">
+            <div class="south-delhi-nursing__hero-photo">
+                <img src="images/HOME ATTENDANT.webp" alt="Nurse discussing care with an older adult at home">
+                <div class="south-delhi-nursing__photo-tag"><i class="fa fa-map-marker" aria-hidden="true"></i> SOUTH DELHI</div>
+                <div class="south-delhi-nursing__photo-caption">A personal conversation is a good place to begin.</div>
             </div>
-            <div class="col-md-4 col-sm-4 col-xs-12">
-            <!--callback form div start-->
-            <div class="callback">
-                <img src="images/abo.jpg" style="width:91%;">
-            </div>	
-            <!--callback form div end-->
+            <div class="south-delhi-nursing__hero-copy">
+                <span class="south-delhi-nursing__kicker">HOME NURSING · DELHI NCR</span>
+                <h2>Care at home begins with understanding your needs.</h2>
+                <p>Whether you are planning support after a hospital stay or looking into ongoing nursing care, start by telling us about the person, their neighbourhood, and the routine that matters to your family.</p>
+                <a class="south-delhi-nursing__primary" href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> Call Careright <strong>+91 7668066607</strong></a>
+                <p class="south-delhi-nursing__availability">For South Delhi enquiries, share your exact locality so the team can discuss availability and next steps.</p>
             </div>
-        </div>
-    </div>
-</div>
+        </section>
 
-<!-- Statistics Section Start -->
-<div class="content">
-    <div class="container">
-        <div class="row">
-        	<div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-handshake-o" aria-hidden="true"></i> 1000+</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Services Delivered<br><br></p>
-                </div>
+        <section class="south-delhi-nursing__localities" aria-label="South Delhi home nursing locality enquiry">
+            <div class="south-delhi-nursing__localities-title">
+                <span>LOCAL ENQUIRY</span>
+                <h2>Where in South Delhi?</h2>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-thumbs-up" aria-hidden="true"></i> 10+ Yrs</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Of Exeperience In Nursing Care<br><br></p>
-                </div>
+            <div class="south-delhi-nursing__locality-list">
+                <span><i class="fa fa-map-pin" aria-hidden="true"></i> Saket</span>
+                <span><i class="fa fa-map-pin" aria-hidden="true"></i> Greater Kailash</span>
+                <span><i class="fa fa-map-pin" aria-hidden="true"></i> Malviya Nagar</span>
+                <span><i class="fa fa-map-pin" aria-hidden="true"></i> Nearby neighbourhoods</span>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-star" aria-hidden="true"></i> 100%</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Satisfaction Rate<br><br></p>
-                </div>
+        </section>
+
+        <section class="south-delhi-nursing__guide">
+            <div class="south-delhi-nursing__guide-intro">
+                <span>MAKE THE FIRST DISCUSSION USEFUL</span>
+                <h2>Three details help shape the conversation.</h2>
+                <p>There is no one-size-fits-all arrangement. Share the essentials and discuss what support may be suitable for your situation.</p>
+                <a href="contact.php">Send an enquiry <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
             </div>
-        </div>
+            <div class="south-delhi-nursing__guide-items">
+                <article>
+                    <span>01</span>
+                    <div><h3>Care requirement</h3><p>Describe the nursing support being considered and any instructions given by the treating professional.</p></div>
+                </article>
+                <article>
+                    <span>02</span>
+                    <div><h3>Home routine</h3><p>Share preferred timings, daily routines, access details, and what the person receiving care is comfortable with.</p></div>
+                </article>
+                <article>
+                    <span>03</span>
+                    <div><h3>Family coordination</h3><p>Identify the family contact for practical updates and keep relevant care notes available for discussion.</p></div>
+                </article>
+            </div>
+        </section>
+
+        <section class="south-delhi-nursing__clinical">
+            <span class="south-delhi-nursing__clinical-icon"><i class="fa fa-stethoscope" aria-hidden="true"></i></span>
+            <div>
+                <h3>Keep clinical decisions with the treating professional.</h3>
+                <p>Before agreeing an arrangement, clarify local availability, proposed duties, schedule, and communication. Any diagnosis or changes to treatment should be discussed with qualified healthcare professionals.</p>
+            </div>
+            <a href="home-nursing-service.php">About home nursing <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+        </section>
+
+        <section class="south-delhi-nursing__contact">
+            <div>
+                <span>CARERIGHT HOME HEALTH CARE</span>
+                <h2>Talk with us about home nursing in South Delhi.</h2>
+                <p>Call our team or share your requirements through the contact page.</p>
+            </div>
+            <div class="south-delhi-nursing__contact-actions">
+                <a href="tel:7668066607">+91 7668066607</a>
+                <a href="contact.php">Contact us online <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+            </div>
+        </section>
     </div>
-</div>
-<!-- Statistics Section End -->
+</main>
 
 
 <!--bot links div start-->  

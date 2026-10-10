@@ -1,14 +1,14 @@
 <!doctype html>
 <html>
 <head>
-<title>About Us | Careright Home Health Care Pvt. Ltd.</title>
+<title>Senior Citizen Care at Home | Careright Home Health Care</title>
 
 <!-- Mirrored from carerighthomehealthcares.com/about-us by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Aug 2025 10:04:00 GMT -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Learn more about Careright Home Health Care Pvt. Ltd., our mission, and our commitment to providing quality home nursing, attendant services, and patient care." />
-<meta name="keywords" content="about us, home health care, nursing services, patient care, elder care" />
-<link rel="canonical" href="about-us.html" />
+<meta name="description" content="Arrange supportive care for senior citizens at home, including help with daily routines, companionship, mobility assistance, and family coordination." />
+<meta name="keywords" content="senior citizen care at home, senior citizen attendant services, home support for seniors, companionship for older adults, daily living assistance seniors" />
+<link rel="canonical" href="senior-citizen-services-care-at-home.php" />
 <meta name="google-site-verification" content="FxrmckzPcTYaL7gXPNcvhWAGROvqhvdqNZlgs4IRA2k" />
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <meta charset="utf-8">
@@ -142,93 +142,73 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
 <!--header div end-->
 
 
-<!--breadcump div start-->     
-<section class="page-title-section">
+<!--breadcump div start-->
+<section class="citizen-care-title">
     <div class="container">
-        <h1>Senior Citizen Services Care At Home</h1>
+        <span>CARERIGHT HOME HEALTH CARE · SENIOR CITIZEN SUPPORT</span>
+        <h1>Senior Citizen Care at Home</h1>
         <ol class="breadcrumb">
           <li><a href="index.php">Home</a></li>
-          <li class="active">Senior Citizen Services Care At Home</li>
+          <li><a href="services.php">Services</a></li>
+          <li class="active">Senior Citizen Care</li>
         </ol>
     </div>
 </section>
 <!--breadcump div end-->
 
-
-<a name="about"></a>
-<!-- welcome div start -->
-<div class="content">
+<main class="citizen-care">
     <div class="container">
-        <div class="row">
-        	<div class="col-md-8 col-sm-8 col-xs-12">
-            <!--weldiv start-->
-            <div class="wel">
-                <h1 style="font-size:25px;"><strong style="color:#0066CC;">Senior Citizen Care at Home</strong><span></span></h1>
-                <div class="text"><p>We help families arrange dependable support for senior citizens in the comfort of home. Care may include companionship, help with daily activities, mobility assistance, and support with a regular routine, based on the individual's needs.</p></div>
-            
-                <div class="page-detail-content">
-                    <h2>Understanding the support</h2>
-                    <p>Families considering elder care at home can begin by describing independence, daily routines, and companionship. The suitable arrangement depends on the individual, the household routine, confirmed availability, and any relevant professional guidance.</p>
-                    <h2>Planning daily routines</h2>
-                    <p>A useful discussion identifies personal activities, mealtimes, safe movement, and activities the older adult enjoys. Explain which activities are most important, when help is needed, and what the person receiving care prefers to do independently.</p>
-                    <h2>Preparing for care</h2>
-                    <p>Before support begins, gather the older adult's preferences, routine, appointments, and family contacts. Keeping current information together makes family handovers clearer and helps the care team understand the arrangements already in place.</p>
-                    <h2>Home and access arrangements</h2>
-                    <p>Planning should also take account of clear walkways and easy access to frequently used items. Mention practical constraints early, including access, timing, the household's daily routine, and any equipment that affects the service.</p>
-                    <h2>Family communication</h2>
-                    <p>Agree with family members on how the older adult prefers to communicate and receive assistance. A clear point of contact and consistent handover can reduce confusion when schedules change or practical questions arise.</p>
-                    <h2>Respectful, personal support</h2>
-                    <p>Support should respect the person's dignity, privacy, and choices. Discuss communication preferences, familiar routines, and how assistance can be offered without taking away independence.</p>
-                    <h2>Working with healthcare professionals</h2>
-                    <p>Keep clinical responsibilities clear: health concerns should be reviewed with the person's treating clinician. If health needs change or new symptoms appear, contact the treating professional rather than relying on a routine service discussion.</p>
-                    <h2>Reviewing the care arrangement</h2>
-                    <p>Review the arrangement regularly, especially whether the older adult remains comfortable with the support arrangement. Families can share practical feedback with the coordinator and consult the relevant professional when care instructions need reassessment.</p>
-                    <h2>Questions to discuss</h2>
-                    <p>Before confirming a service, ask about daily duties, privacy, preferred timing, and family communication. Discussing duties, hours, communication, and availability in advance helps everyone understand what is and is not included.</p>
-                    <h2>Getting started</h2>
-                    <p>To get started with elder care at home, share the older adult's locality, daily support needs, and preferred hours. The team can use those details to discuss the request, explain possible availability, and outline the next step without assuming a booking.</p>
-                </div>
-</div>
+        <section class="citizen-care__hero">
+            <div class="citizen-care__copy">
+                <span class="citizen-care__eyebrow">COMFORT IN THE FAMILIAR</span>
+                <h2>Keep the day theirs. Add a little support.</h2>
+                <p>Senior citizens may value a steady routine, familiar surroundings, and the freedom to make everyday choices. At-home support can be arranged around the tasks where help is welcome, from daily activities and mobility to companionship and family communication.</p>
+                <a class="citizen-care__button" href="contact.php">Plan a conversation <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                <div class="citizen-care__phone"><i class="fa fa-phone" aria-hidden="true"></i><span>Speak with our team</span><a href="tel:7668066607">+91 7668066607</a></div>
             </div>
-            <div class="col-md-4 col-sm-4 col-xs-12">
-            <!--callback form div start-->
-            <div class="callback">
-                <img src="images/abo.jpg" style="width:91%;">
-            </div>	
-            <!--callback form div end-->
+            <div class="citizen-care__image">
+                <img src="images/senior-citizen-care-home.svg" alt="A senior citizen reading comfortably at home with a caregiver nearby">
+                <div class="citizen-care__image-caption"><span>TIME FOR WHAT FEELS FAMILIAR</span><strong>Support, at their pace.</strong></div>
             </div>
-        </div>
-    </div>
-</div>
+            <div class="citizen-care__hero-stamp"><i class="fa fa-home" aria-hidden="true"></i><span>SUPPORT<br>AT HOME</span></div>
+        </section>
 
-<!-- Statistics Section Start -->
-<div class="content">
-    <div class="container">
-        <div class="row">
-        	<div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-handshake-o" aria-hidden="true"></i> 1000+</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Services Delivered<br><br></p>
-                </div>
+        <section class="citizen-care__daily">
+            <div class="citizen-care__daily-heading">
+                <span>SUPPORT FOR THE EVERYDAY</span>
+                <h2>Make room for routine, movement, and connection.</h2>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-thumbs-up" aria-hidden="true"></i> 10+ Yrs</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Of Exeperience In Nursing Care<br><br></p>
-                </div>
+            <div class="citizen-care__daily-items">
+                <article><span>01</span><h3>Daily activities</h3><p>Discuss assistance with personal routines, meals, and the tasks that shape an ordinary day.</p></article>
+                <article><span>02</span><h3>Mobility at home</h3><p>Share access or movement considerations and any guidance from the older adult's treating team.</p></article>
+                <article><span>03</span><h3>Companionship</h3><p>Plan conversation or favourite pastimes around the person's interests and preferred pace.</p></article>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-star" aria-hidden="true"></i> 100%</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Satisfaction Rate<br><br></p>
-                </div>
+        </section>
+
+        <section class="citizen-care__planning">
+            <div class="citizen-care__planning-top">
+                <span>GETTING THE ARRANGEMENT RIGHT</span>
+                <h2>Agree the details before support starts.</h2>
+                <p>Include the senior citizen in the conversation wherever possible. Clear expectations help the family and attendant work from the same plan.</p>
             </div>
-        </div>
+            <ol>
+                <li><span>A</span><div><h3>What help is wanted?</h3><p>List the daily tasks and note what the person prefers to manage independently.</p></div></li>
+                <li><span>B</span><div><h3>When and where?</h3><p>Discuss preferred hours, home access, household routines, and any mobility equipment.</p></div></li>
+                <li><span>C</span><div><h3>Who keeps in touch?</h3><p>Choose a family contact and agree on how routine updates or schedule changes are shared.</p></div></li>
+            </ol>
+        </section>
+
+        <aside class="citizen-care__scope">
+            <div class="citizen-care__scope-icon"><i class="fa fa-heartbeat" aria-hidden="true"></i></div>
+            <div><strong>Supportive care, with clear boundaries.</strong><p>Attendant support is for agreed daily assistance and companionship; it is not nursing, diagnosis, or medical treatment. Keep health concerns and clinical instructions with qualified healthcare professionals. For an emergency, contact local emergency services.</p></div>
+        </aside>
+
+        <section class="citizen-care__contact">
+            <div><span>SENIOR CITIZEN CARE ENQUIRIES</span><h2>Start with the routine they want to keep.</h2><p>Share the senior citizen's location, preferred activities, daily support needs, and schedule. We can discuss the request and check service availability.</p></div>
+            <div><a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> Call +91 7668066607</a><a href="contact.php">Send an online enquiry</a></div>
+        </section>
     </div>
-</div>
-<!-- Statistics Section End -->
+</main>
 
 
 <!--bot links div start-->  

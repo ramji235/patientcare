@@ -1,14 +1,14 @@
 <!doctype html>
 <html>
 <head>
-<title>About Us | Careright Home Health Care Pvt. Ltd.</title>
+<title>Elder Care Services at Home | Careright Home Health Care</title>
 
 <!-- Mirrored from carerighthomehealthcares.com/about-us by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Aug 2025 10:04:00 GMT -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Learn more about Careright Home Health Care Pvt. Ltd., our mission, and our commitment to providing quality home nursing, attendant services, and patient care." />
-<meta name="keywords" content="about us, home health care, nursing services, patient care, elder care" />
-<link rel="canonical" href="about-us.html" />
+<meta name="description" content="Explore personalized elder care at home with support for daily routines, mobility, meals, companionship, and family coordination shaped around each older adult." />
+<meta name="keywords" content="elder care services at home, senior care at home, elderly attendant, daily living support for seniors, elder companionship" />
+<link rel="canonical" href="elder-care-services-at-home.php" />
 <meta name="google-site-verification" content="FxrmckzPcTYaL7gXPNcvhWAGROvqhvdqNZlgs4IRA2k" />
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <meta charset="utf-8">
@@ -142,93 +142,97 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
 <!--header div end-->
 
 
-<!--breadcump div start-->     
-<section class="page-title-section">
+<!--breadcump div start-->
+<section class="elder-home-title">
     <div class="container">
-        <h1>Elder Care Services At Home</h1>
+        <span>CARERIGHT HOME HEALTH CARE · ELDER CARE</span>
+        <h1>Thoughtful Elder Care at Home</h1>
         <ol class="breadcrumb">
           <li><a href="index.php">Home</a></li>
-          <li class="active">Elder Care Services At Home</li>
+          <li><a href="services.php">Services</a></li>
+          <li class="active">Elder Care</li>
         </ol>
     </div>
 </section>
 <!--breadcump div end-->
 
-
-<a name="about"></a>
-<!-- welcome div start -->
-<div class="content">
+<main class="elder-home">
     <div class="container">
-        <div class="row">
-        	<div class="col-md-8 col-sm-8 col-xs-12">
-            <!--weldiv start-->
-            <div class="wel">
-                <h1 style="font-size:25px;"><strong style="color:#0066CC;">Elder Care Services at Home</strong><span></span></h1>
-                <div class="text"><p>Older adults can receive thoughtful support without leaving the comfort of home. An attendant can help with daily activities, mobility, meals, and companionship, with the level of assistance shaped around each person's preferences and family care plan.</p></div>
-            
-                <div class="page-detail-content">
-                    <h2>Understanding the support</h2>
-                    <p>Families considering elder care at home can begin by describing independence, daily routines, and companionship. The suitable arrangement depends on the individual, the household routine, confirmed availability, and any relevant professional guidance.</p>
-                    <h2>Planning daily routines</h2>
-                    <p>A useful discussion identifies personal activities, mealtimes, safe movement, and activities the older adult enjoys. Explain which activities are most important, when help is needed, and what the person receiving care prefers to do independently.</p>
-                    <h2>Preparing for care</h2>
-                    <p>Before support begins, gather the older adult's preferences, routine, appointments, and family contacts. Keeping current information together makes family handovers clearer and helps the care team understand the arrangements already in place.</p>
-                    <h2>Home and access arrangements</h2>
-                    <p>Planning should also take account of clear walkways and easy access to frequently used items. Mention practical constraints early, including access, timing, the household's daily routine, and any equipment that affects the service.</p>
-                    <h2>Family communication</h2>
-                    <p>Agree with family members on how the older adult prefers to communicate and receive assistance. A clear point of contact and consistent handover can reduce confusion when schedules change or practical questions arise.</p>
-                    <h2>Respectful, personal support</h2>
-                    <p>Support should respect the person's dignity, privacy, and choices. Discuss communication preferences, familiar routines, and how assistance can be offered without taking away independence.</p>
-                    <h2>Working with healthcare professionals</h2>
-                    <p>Keep clinical responsibilities clear: health concerns should be reviewed with the person's treating clinician. If health needs change or new symptoms appear, contact the treating professional rather than relying on a routine service discussion.</p>
-                    <h2>Reviewing the care arrangement</h2>
-                    <p>Review the arrangement regularly, especially whether the older adult remains comfortable with the support arrangement. Families can share practical feedback with the coordinator and consult the relevant professional when care instructions need reassessment.</p>
-                    <h2>Questions to discuss</h2>
-                    <p>Before confirming a service, ask about daily duties, privacy, preferred timing, and family communication. Discussing duties, hours, communication, and availability in advance helps everyone understand what is and is not included.</p>
-                    <h2>Getting started</h2>
-                    <p>To get started with elder care at home, share the older adult's locality, daily support needs, and preferred hours. The team can use those details to discuss the request, explain possible availability, and outline the next step without assuming a booking.</p>
+        <section class="elder-home__hero">
+            <div class="elder-home__photo">
+                <img src="images/elder-care-at-home.svg" alt="An older adult sharing a relaxed moment with a family caregiver at home">
+                <div class="elder-home__photo-note"><i class="fa fa-leaf" aria-hidden="true"></i><span>Familiar surroundings.<br>Personal support.</span></div>
+            </div>
+            <div class="elder-home__story">
+                <span class="elder-home__eyebrow">CARE THAT HONOURS A LIFETIME OF CHOICES</span>
+                <h2>Ageing at home, with support shaped around you.</h2>
+                <p>Home can be a place of familiar routines, favourite conversations, and everyday independence. Elder care support can help with agreed daily activities while keeping the older adult's preferences, comfort, and family coordination at the centre.</p>
+                <div class="elder-home__story-points">
+                    <span><i class="fa fa-check" aria-hidden="true"></i> Support with daily routines</span>
+                    <span><i class="fa fa-check" aria-hidden="true"></i> Respect for privacy and choice</span>
+                    <span><i class="fa fa-check" aria-hidden="true"></i> Clear family communication</span>
                 </div>
-</div>
+                <a class="elder-home__primary-link" href="contact.php">Talk about elder care <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             </div>
-            <div class="col-md-4 col-sm-4 col-xs-12">
-            <!--callback form div start-->
-            <div class="callback">
-                <img src="images/abo.jpg" style="width:91%;">
-            </div>	
-            <!--callback form div end-->
-            </div>
-        </div>
-    </div>
-</div>
+        </section>
 
-<!-- Statistics Section Start -->
-<div class="content">
-    <div class="container">
-        <div class="row">
-        	<div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-handshake-o" aria-hidden="true"></i> 1000+</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Services Delivered<br><br></p>
-                </div>
+        <section class="elder-home__intro">
+            <span>PERSON-CENTRED SUPPORT</span>
+            <h2>Small acts of help can make the day feel more manageable.</h2>
+            <p>Begin by asking the older adult what they would like help with and what they prefer to continue doing themselves. Families can share the familiar routine, support hours, and any professional guidance that should be followed.</p>
+        </section>
+
+        <section class="elder-home__services" aria-label="Elder care support options">
+            <article>
+                <span class="elder-home__service-icon"><i class="fa fa-sun-o" aria-hidden="true"></i></span>
+                <span class="elder-home__service-number">01</span>
+                <h3>A comfortable daily rhythm</h3>
+                <p>Discuss assistance with getting ready, personal routines, meals, and the familiar activities that help structure the day.</p>
+            </article>
+            <article>
+                <span class="elder-home__service-icon"><i class="fa fa-road" aria-hidden="true"></i></span>
+                <span class="elder-home__service-number">02</span>
+                <h3>Confidence around the home</h3>
+                <p>Share mobility preferences, home access, and any equipment or movement guidance recommended by the treating team.</p>
+            </article>
+            <article>
+                <span class="elder-home__service-icon"><i class="fa fa-comments" aria-hidden="true"></i></span>
+                <span class="elder-home__service-number">03</span>
+                <h3>Connection and companionship</h3>
+                <p>Plan time for conversation, hobbies, or a simple shared activity according to the older adult's interests and energy.</p>
+            </article>
+            <article>
+                <span class="elder-home__service-icon"><i class="fa fa-users" aria-hidden="true"></i></span>
+                <span class="elder-home__service-number">04</span>
+                <h3>Family coordination</h3>
+                <p>Agree on a family point of contact, support schedule, and how routine updates or changes should be shared.</p>
+            </article>
+        </section>
+
+        <section class="elder-home__family">
+            <div class="elder-home__family-mark"><i class="fa fa-heart" aria-hidden="true"></i><span>A THOUGHTFUL<br>PLACE TO START</span></div>
+            <div class="elder-home__family-copy">
+                <h2>Make the plan together.</h2>
+                <p>A useful care conversation starts with the older adult. Their preferred way of receiving help, daily habits, privacy, and family involvement can guide a respectful support arrangement.</p>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-thumbs-up" aria-hidden="true"></i> 10+ Yrs</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Of Exeperience In Nursing Care<br><br></p>
-                </div>
-            </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-star" aria-hidden="true"></i> 100%</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Satisfaction Rate<br><br></p>
-                </div>
-            </div>
-        </div>
+            <ul>
+                <li><i class="fa fa-check-circle" aria-hidden="true"></i> Ask what help feels welcome</li>
+                <li><i class="fa fa-check-circle" aria-hidden="true"></i> Note routine, timing, and mobility needs</li>
+                <li><i class="fa fa-check-circle" aria-hidden="true"></i> Keep clinical guidance with the care team</li>
+            </ul>
+        </section>
+
+        <aside class="elder-home__boundary">
+            <i class="fa fa-info-circle" aria-hidden="true"></i>
+            <p><strong>Clear care roles matter.</strong> Attendant support focuses on agreed daily assistance and companionship; it does not replace nursing, diagnosis, or medical treatment. Discuss health concerns and changes with the person's treating professional. For emergencies, contact local emergency services.</p>
+        </aside>
+
+        <section class="elder-home__contact">
+            <div><span>ELDER CARE ENQUIRIES</span><h2>Let’s plan around what matters to them.</h2><p>Share the older adult’s location, preferred routine, requested support, and family contact. We can discuss the request and check availability.</p></div>
+            <div><a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> Call +91 7668066607</a><a href="contact.php">Send an online enquiry</a></div>
+        </section>
     </div>
-</div>
-<!-- Statistics Section End -->
+</main>
 
 
 <!--bot links div start-->  

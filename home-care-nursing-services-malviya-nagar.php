@@ -1,14 +1,14 @@
 <!doctype html>
 <html>
 <head>
-<title>About Us | Careright Home Health Care Pvt. Ltd.</title>
+<title>Home Nursing Services in Malviya Nagar | Careright</title>
 
 <!-- Mirrored from carerighthomehealthcares.com/about-us by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Aug 2025 10:04:00 GMT -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Learn more about Careright Home Health Care Pvt. Ltd., our mission, and our commitment to providing quality home nursing, attendant services, and patient care." />
-<meta name="keywords" content="about us, home health care, nursing services, patient care, elder care" />
-<link rel="canonical" href="about-us.html" />
+<meta name="description" content="Enquire about home nursing services in Malviya Nagar, South Delhi. Contact Careright to discuss your family's care needs and local availability." />
+<meta name="keywords" content="home nursing Malviya Nagar, nursing services Malviya Nagar, home care South Delhi, Careright Home Health Care" />
+<link rel="canonical" href="home-care-nursing-services-malviya-nagar.php" />
 <meta name="google-site-verification" content="FxrmckzPcTYaL7gXPNcvhWAGROvqhvdqNZlgs4IRA2k" />
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <meta charset="utf-8">
@@ -145,9 +145,10 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
 <!--breadcump div start-->     
 <section class="page-title-section">
     <div class="container">
-        <h1>Malviya Nagar</h1>
+        <h1>Home Nursing in Malviya Nagar</h1>
         <ol class="breadcrumb">
           <li><a href="index.php">Home</a></li>
+          <li><a href="services.php">Services</a></li>
           <li class="active">Malviya Nagar</li>
         </ol>
     </div>
@@ -155,80 +156,79 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
 <!--breadcump div end-->
 
 
-<a name="about"></a>
-<!-- welcome div start -->
-<div class="content">
+<main class="malviya-nursing">
     <div class="container">
-        <div class="row">
-        	<div class="col-md-8 col-sm-8 col-xs-12">
-            <!--weldiv start-->
-            <div class="wel">
-                <h1 style="font-size:25px;"><strong style="color:#0066CC;">Home Nursing Services in Malviya Nagar</strong><span></span></h1>
-                <div class="text"><p>Home nursing support in Malviya Nagar can be discussed around the patient's clinician-advised care plan. Let us know the locality, nursing requirements, and preferred hours so our team can check suitable service availability.</p></div>
-            
-                <div class="page-detail-content">
-                    <h2>Understanding the support</h2>
-                    <p>Families considering home nursing in Malviya Nagar can begin by describing recovery and ongoing care. The suitable arrangement depends on the individual, the household routine, confirmed availability, and any relevant professional guidance.</p>
-                    <h2>Planning daily routines</h2>
-                    <p>A useful discussion identifies the clinician-advised nursing tasks and preferred visit hours. Explain which activities are most important, when help is needed, and what the person receiving care prefers to do independently.</p>
-                    <h2>Preparing for care</h2>
-                    <p>Before support begins, gather discharge notes, current prescriptions, and clinician contact details. Keeping current information together makes family handovers clearer and helps the care team understand the arrangements already in place.</p>
-                    <h2>Home and access arrangements</h2>
-                    <p>Planning should also take account of the patient's routine, home access, and any equipment already in use. Mention practical constraints early, including access, timing, the household's daily routine, and any equipment that affects the service.</p>
-                    <h2>Family communication</h2>
-                    <p>Agree with family members on the family contact who can receive updates and answer practical questions. A clear point of contact and consistent handover can reduce confusion when schedules change or practical questions arise.</p>
-                    <h2>Respectful, personal support</h2>
-                    <p>Support should respect the person's dignity, privacy, and choices. Discuss communication preferences, familiar routines, and how assistance can be offered without taking away independence.</p>
-                    <h2>Working with healthcare professionals</h2>
-                    <p>Keep clinical responsibilities clear: medical decisions and treatment changes remain with qualified clinicians. If health needs change or new symptoms appear, contact the treating professional rather than relying on a routine service discussion.</p>
-                    <h2>Reviewing the care arrangement</h2>
-                    <p>Review the arrangement regularly, especially whether the agreed schedule and daily support still meet the family's needs. Families can share practical feedback with the coordinator and consult the relevant professional when care instructions need reassessment.</p>
-                    <h2>Questions to discuss</h2>
-                    <p>Before confirming a service, ask about local availability, proposed duties, timing, and handover arrangements. Discussing duties, hours, communication, and availability in advance helps everyone understand what is and is not included.</p>
-                    <h2>Getting started</h2>
-                    <p>To get started with home nursing in Malviya Nagar, share the patient's neighbourhood, support needs, preferred schedule, and callback number. The team can use those details to discuss the request, explain possible availability, and outline the next step without assuming a booking.</p>
+        <section class="malviya-nursing__hero">
+            <div class="malviya-nursing__hero-image">
+                <img src="images/HOME NURSING SERVICE.png" alt="Nurse providing care to a patient at home">
+                <div class="malviya-nursing__image-caption"><i class="fa fa-map-marker" aria-hidden="true"></i><span>Malviya Nagar<small>South Delhi</small></span></div>
+            </div>
+            <div class="malviya-nursing__hero-copy">
+                <span class="malviya-nursing__eyebrow">HOME NURSING · LOCAL ENQUIRIES</span>
+                <h2>Care at home begins with listening.</h2>
+                <p>Families in Malviya Nagar can contact Careright to discuss nursing support at home. Tell us what care you are exploring, the preferred timing, and any relevant instructions from the treating healthcare professional.</p>
+                <div class="malviya-nursing__hero-actions">
+                    <a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> +91 7668066607</a>
+                    <span>Speak with our team about your enquiry</span>
                 </div>
-</div>
             </div>
-            <div class="col-md-4 col-sm-4 col-xs-12">
-            <!--callback form div start-->
-            <div class="callback">
-                <img src="images/abo.jpg" style="width:91%;">
-            </div>	
-            <!--callback form div end-->
-            </div>
-        </div>
-    </div>
-</div>
+        </section>
 
-<!-- Statistics Section Start -->
-<div class="content">
-    <div class="container">
-        <div class="row">
-        	<div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-handshake-o" aria-hidden="true"></i> 1000+</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Services Delivered<br><br></p>
-                </div>
+        <section class="malviya-nursing__choices" aria-labelledby="malviya-choices-title">
+            <div class="malviya-nursing__choices-title">
+                <span>WHAT BRINGS YOU HERE?</span>
+                <h2 id="malviya-choices-title">Different needs. One clear first step.</h2>
+                <p>Tell us which situation is closest to yours. We can discuss your request and what may be available.</p>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-thumbs-up" aria-hidden="true"></i> 10+ Yrs</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Of Exeperience In Nursing Care<br><br></p>
-                </div>
+            <div class="malviya-nursing__choice-list">
+                <article>
+                    <span class="malviya-nursing__choice-icon"><i class="fa fa-hospital-o" aria-hidden="true"></i></span>
+                    <div><h3>Returning home after a hospital stay</h3><p>Share relevant discharge information and care guidance so your enquiry can be discussed with the right context.</p></div>
+                </article>
+                <article>
+                    <span class="malviya-nursing__choice-icon"><i class="fa fa-calendar" aria-hidden="true"></i></span>
+                    <div><h3>Exploring ongoing nursing support</h3><p>Describe the support being considered, the preferred schedule, and any important parts of the person's usual routine.</p></div>
+                </article>
+                <article>
+                    <span class="malviya-nursing__choice-icon"><i class="fa fa-users" aria-hidden="true"></i></span>
+                    <div><h3>Coordinating with family</h3><p>Choose a family contact for practical questions and discuss how updates should be shared if an arrangement is confirmed.</p></div>
+                </article>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-star" aria-hidden="true"></i> 100%</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Satisfaction Rate<br><br></p>
-                </div>
+        </section>
+
+        <section class="malviya-nursing__planning">
+            <div class="malviya-nursing__planning-copy">
+                <span class="malviya-nursing__eyebrow">BEFORE YOU MAKE AN ENQUIRY</span>
+                <h2>A few useful details to have nearby</h2>
+                <p>No need to have every answer ready. Sharing what you know can help make the first conversation more focused.</p>
+                <ul>
+                    <li><i class="fa fa-check" aria-hidden="true"></i> Malviya Nagar locality or nearby landmark</li>
+                    <li><i class="fa fa-check" aria-hidden="true"></i> Type of support and preferred timings</li>
+                    <li><i class="fa fa-check" aria-hidden="true"></i> Relevant discharge or care instructions</li>
+                    <li><i class="fa fa-check" aria-hidden="true"></i> Family contact number for follow-up</li>
+                </ul>
             </div>
-        </div>
+            <aside class="malviya-nursing__clinical">
+                <i class="fa fa-user-md" aria-hidden="true"></i>
+                <h3>Keep clinical care guided by the treating professional.</h3>
+                <p>Diagnosis, treatment decisions, and any change to medical care should be discussed with the patient's qualified healthcare professional. Contact them if the patient's condition or needs change.</p>
+                <a href="home-nursing-service.php">Read about home nursing <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+            </aside>
+        </section>
+
+        <section class="malviya-nursing__contact">
+            <div class="malviya-nursing__contact-copy">
+                <span>CARERIGHT HOME HEALTH CARE · MALVIYA NAGAR</span>
+                <h2>Have questions about home nursing?</h2>
+                <p>Talk to our team about the care you are considering in Malviya Nagar and ask about local availability.</p>
+            </div>
+            <div class="malviya-nursing__contact-actions">
+                <a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> Call +91 7668066607</a>
+                <a href="contact.php">Send an enquiry online</a>
+            </div>
+        </section>
     </div>
-</div>
-<!-- Statistics Section End -->
+</main>
 
 
 <!--bot links div start-->  

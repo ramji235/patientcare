@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 740" role="img" aria-labelledby="title desc">
+  <title id="title">Home care planning with family and care professional</title>
+  <desc id="desc">A family member and home care professional discuss a daily support plan in a warm, welcoming living room.</desc>
+  <rect width="900" height="740" fill="#e9e0d4"/>
+  <path d="M0 0h900v490H0z" fill="#f4eee4"/>
+  <path d="M0 490h900v250H0z" fill="#ccb9a1"/>
+  <path d="M62 69h259v246H62z" fill="#d4e4dc"/>
+  <path d="M81 89h221v207H81z" fill="#b4d1c4"/>
+  <path d="M191 89v207M81 192h221" stroke="#f8f3e7" stroke-width="12"/>
+  <path d="M0 633h900" stroke="#b39d81" stroke-width="5"/>
+  <ellipse cx="446" cy="657" rx="320" ry="31" fill="#806e58" opacity=".23"/>
+  <path d="M260 431h415v176H260z" fill="#a66f50"/>
+  <path d="M277 411h385c18 0 32 14 32 32v33H261v-32c0-18 14-33 33-33z" fill="#c48b66"/>
+  <path d="M286 470h363v102H286z" fill="#e4c5a6"/>
+  <path d="M284 568v69m358-69v69" stroke="#785d46" stroke-width="15" stroke-linecap="round"/>
+  <path d="M304 455h92v101h-92z" rx="10" fill="#e6e6d6"/>
+  <path d="M522 453h102v100H522z" rx="10" fill="#c4d5ca"/>
+  <path d="M380 389c-2-41 20-68 57-69 37 0 59 26 55 63l-4 34c-12 23-32 36-59 35-31-2-47-21-49-50z" fill="#c98462"/>
+  <path d="M378 388c-1-46 22-73 59-73 36 0 58 25 56 61-18-3-34-15-45-33-14 22-36 37-70 45z" fill="#584a40"/>
+  <path d="M366 446c15-16 37-24 66-23 39 2 63 19 72 48l16 64H343l1-54c0-15 7-27 22-35z" fill="#617e79"/>
+  <path d="M398 480c24 18 47 30 74 35" fill="none" stroke="#c98462" stroke-width="14" stroke-linecap="round"/>
+  <path d="M568 341c-3-45 21-72 62-72 40 1 62 27 57 68l-5 34c-11 23-33 36-63 34-31-2-48-21-51-50z" fill="#e2aa82"/>
+  <path d="M566 340c2-49 26-77 66-77 38 0 59 25 57 61-18-2-37-16-48-34-14 23-38 41-75 50z" fill="#493c37"/>
+  <path d="M548 400c16-18 39-27 70-26 42 2 65 22 71 54l13 82H527l-3-68c-1-18 7-33 24-42z" fill="#d49661"/>
+  <path d="M570 428c-12 16-20 36-23 59m84-58c17 15 28 34 34 55" fill="none" stroke="#e2aa82" stroke-width="14" stroke-linecap="round"/>
+  <path d="M550 515c1 35 0 67-4 103m98-102c11 32 23 61 39 89" fill="none" stroke="#596773" stroke-width="20" stroke-linecap="round"/>
+  <path d="M529 619h39m106 0h37" stroke="#46545a" stroke-width="12" stroke-linecap="round"/>
+  <path d="M568 419c-30 15-58 35-81 58" fill="none" stroke="#e2aa82" stroke-width="13" stroke-linecap="round"/>
+  <path d="M488 470c-25-5-46 0-62 17" fill="none" stroke="#e2aa82" stroke-width="11" stroke-linecap="round"/>
+  <rect x="414" y="462" width="105" height="65" rx="8" fill="#fbf6e9" stroke="#9d775b" stroke-width="4"/>
+  <path d="M433 482h65m-65 14h53m-53 14h32" stroke="#9bb0a5" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="479" cy="470" r="12" fill="#d8a35f"/>
+  <path d="M741 432h94v146h-94z" fill="#8b6e4f"/>
+  <path d="M753 451h70v83h-70z" fill="#eadcc4"/>
+  <path d="M771 489c6-16 18-23 31-19 11 4 16 15 14 29h-46z" fill="#6e8d72"/>
+  <path d="M782 499v33m-1-18-12-12m13 23 13-17" stroke="#697d5c" stroke-width="5" stroke-linecap="round"/>
+  <path d="M761 578v57m57-57v57" stroke="#765c43" stroke-width="8"/>
+  <path d="M76 487c21-48 55-69 96-60 6 32-1 64-19 92z" fill="#789171"/>
+  <path d="M128 512v107m0-59-27-31m27 56 34-35" fill="none" stroke="#63795d" stroke-width="8" stroke-linecap="round"/>
+  <path d="M84 618h91l-12 36h-67z" fill="#b77755"/>
+  <circle cx="769" cy="146" r="40" fill="#d69956"/>
+  <path d="M751 146h36m-18-18v36" stroke="#fff7e8" stroke-width="8" stroke-linecap="round"/>
+  <path d="M683 217h159" stroke="#c8b9a4" stroke-width="7" stroke-linecap="round"/>
+  <path d="M712 238h126" stroke="#c8b9a4" stroke-width="7" stroke-linecap="round"/>
+  <path d="M353 574h-46" stroke="#fff8eb" stroke-width="5" stroke-linecap="round" opacity=".7"/>
+</svg>

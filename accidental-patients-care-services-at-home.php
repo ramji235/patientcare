@@ -1,14 +1,14 @@
 <!doctype html>
 <html>
 <head>
-<title>About Us | Careright Home Health Care Pvt. Ltd.</title>
+<title>Accident Recovery Care at Home | Careright Home Health Care</title>
 
 <!-- Mirrored from carerighthomehealthcares.com/about-us by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Aug 2025 10:04:00 GMT -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Learn more about Careright Home Health Care Pvt. Ltd., our mission, and our commitment to providing quality home nursing, attendant services, and patient care." />
-<meta name="keywords" content="about us, home health care, nursing services, patient care, elder care" />
-<link rel="canonical" href="about-us.html" />
+<meta name="description" content="Arrange practical home support after an accident, including daily living assistance, mobility support, and coordination around discharge and rehabilitation instructions." />
+<meta name="keywords" content="accident recovery care at home, post accident home care, injury recovery support, home nursing after accident, mobility assistance" />
+<link rel="canonical" href="accidental-patients-care-services-at-home.php" />
 <meta name="google-site-verification" content="FxrmckzPcTYaL7gXPNcvhWAGROvqhvdqNZlgs4IRA2k" />
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <meta charset="utf-8">
@@ -20,67 +20,6 @@
 <link rel="stylesheet" href="../maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" type="text/css">
 </head>
 <body>
-<style type="text/css">
-	.sp
-	{
-		display: none;
-	}
-    /* Estilos para el Breadcrumb */
-    .page-title-section {
-        background-image: url('images/banner/slide2.jpg'); /* Usando una imagen del banner para el fondo */
-        background-position: center center;
-        background-repeat: no-repeat;
-        background-size: cover;
-        padding: 80px 0;
-        position: relative;
-        text-align: center;
-        color: #fff;
-    }
-    .page-title-section::before {
-        content: '';
-        position: absolute;
-        top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        background-color: rgba(0, 0, 0, 0.5); /* Overlay oscuro para legibilidad */
-    }
-    .page-title-section h1,
-    .page-title-section .breadcrumb {
-        position: relative;
-        z-index: 2;
-    }
-    .page-title-section h1 {
-        font-size: 40px;
-        font-weight: 700;
-        margin-bottom: 10px;
-    }
-    .page-title-section .breadcrumb {
-        background: transparent;
-        padding: 0;
-        margin: 0;
-        display: inline-block;
-    }
-    .page-title-section .breadcrumb li {
-        color: #fff;
-        font-size: 16px;
-    }
-    .page-title-section .breadcrumb li a {
-        color: #f1f1f1;
-        text-decoration: none;
-    }
-    .page-title-section .breadcrumb li a:hover {
-        color: #fff;
-    }
-    .page-title-section .breadcrumb > .active {
-        color: #fff;
-    }
-    .breadcrumb>li+li:before {
-        color: #ccc;
-        content: "/\00a0";
-        padding: 0 5px;
-    }
-</style>
 <a href="tel:7668066607" id="callnowbutton"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNjAgNjAiPjxwYXRoIGQ9Ik03LjEwNCAxNC4wMzJsMTUuNTg2IDEuOTg0YzAgMC0wLjAxOSAwLjUgMCAwLjk1M2MwLjAyOSAwLjc1Ni0wLjI2IDEuNTM0LTAuODA5IDIuMSBsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDE2LjUgMTcuNCAxOS44IDE5LjhsMTYuODEzIDEuMTQxYzAgMCAwIDAuNCAwIDEuMSBjLTAuMDAyIDAuNDc5LTAuMTc2IDAuOTUzLTAuNTQ5IDEuMzI3bC02LjUwNCA2LjUwNWMwIDAtMTEuMjYxIDAuOTg4LTI1LjkyNS0xMy42NzRDNi4xMTcgMjUuMyA3LjEgMTQgNy4xIDE0IiBmaWxsPSIjMDA2NzAwIi8+PHBhdGggZD0iTTcuMTA0IDEzLjAzMmw2LjUwNC02LjUwNWMwLjg5Ni0wLjg5NSAyLjMzNC0wLjY3OCAzLjEgMC4zNWw1ijtggYzAuNzM4IDEgMC41IDIuNTMxLTAuMzYgMy40MjZsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDUuMyA2LjkgOS4xIDEwLjY5OWMzLjg0MiAzLjggNy40IDYuNyAxMC43IDkuMSBsNC43NC00Ljc0MmMwLjg5Ny0wLjg5NSAyLjQ3MS0xLjAyNiAzLjQ5OC0wLjI4OWw3LjY0NiA1LjQ1NWMxLjAyNSAwLjcgMS4zIDIuMiAwLjQgMy4xMDVsLTYuNTA0IDYuNSBjMCAwLTExLjI2MiAwLjk4OC0yNS45MjUtMTMuNjc0QzYuMTE3IDI0LjMgNy4xIDEzIDcuMSAxMyIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg=="width="40"> Click To Call +91 7668066607 </a>
 	 <style>
 	 #callnowbutton {display:none;}
@@ -124,7 +63,7 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
  </marquee>
                     
                 </div>
-            </div>
+                        </div>
             <!--social media div end-->
             <!--email div start-->
             <div class="col-md-6 col-sm-6 col-xs-12">
@@ -143,92 +82,91 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
 
 
 <!--breadcump div start-->     
-<section class="page-title-section">
+<section class="accident-recovery-title">
     <div class="container">
-        <h1>Accidental Patients Care Services At Home</h1>
+        <span>CARERIGHT HOME HEALTH CARE · RECOVERY SUPPORT</span>
+        <h1>Accident Recovery Care at Home</h1>
         <ol class="breadcrumb">
           <li><a href="index.php">Home</a></li>
-          <li class="active">Accidental Patients Care Services At Home</li>
+          <li><a href="services.php">Services</a></li>
+          <li class="active">Accident Recovery Care</li>
         </ol>
     </div>
 </section>
 <!--breadcump div end-->
 
-
-<a name="about"></a>
-<!-- welcome div start -->
-<div class="content">
+<main class="accident-recovery">
     <div class="container">
-        <div class="row">
-        	<div class="col-md-8 col-sm-8 col-xs-12">
-            <!--weldiv start-->
-            <div class="wel">
-                <h1 style="font-size:25px;"><strong style="color:#0066CC;">Accident Recovery Support at Home</strong><span></span></h1>
-                <div class="text"><p>Our at-home accident recovery support helps patients continue their care in familiar surroundings after discharge. Care plans can include personal assistance, mobility support, help with daily routines, and coordination with the treating clinician.</p></div>
-            
-                <div class="page-detail-content">
-                    <h2>Understanding the support</h2>
-                    <p>Families considering recovery support at home can begin by describing safe daily assistance guided by recovery instructions. The suitable arrangement depends on the individual, the household routine, confirmed availability, and any relevant professional guidance.</p>
-                    <h2>Planning daily routines</h2>
-                    <p>A useful discussion identifies personal routines, meals, mobility assistance, and agreed everyday activities. Explain which activities are most important, when help is needed, and what the person receiving care prefers to do independently.</p>
-                    <h2>Preparing for care</h2>
-                    <p>Before support begins, gather discharge guidance, prescriptions, appointments, and rehabilitation instructions. Keeping current information together makes family handovers clearer and helps the care team understand the arrangements already in place.</p>
-                    <h2>Home and access arrangements</h2>
-                    <p>Planning should also take account of clear pathways, accessible essentials, and clinician-recommended equipment. Mention practical constraints early, including access, timing, the household's daily routine, and any equipment that affects the service.</p>
-                    <h2>Family communication</h2>
-                    <p>Agree with family members on who helps with appointments and shares relevant updates with family. A clear point of contact and consistent handover can reduce confusion when schedules change or practical questions arise.</p>
-                    <h2>Respectful, personal support</h2>
-                    <p>Support should respect the person's dignity, privacy, and choices. Discuss communication preferences, familiar routines, and how assistance can be offered without taking away independence.</p>
-                    <h2>Working with healthcare professionals</h2>
-                    <p>Keep clinical responsibilities clear: exercises and clinical procedures must follow professional instructions. If health needs change or new symptoms appear, contact the treating professional rather than relying on a routine service discussion.</p>
-                    <h2>Reviewing the care arrangement</h2>
-                    <p>Review the arrangement regularly, especially whether abilities, clinician guidance, or daily support needs have changed. Families can share practical feedback with the coordinator and consult the relevant professional when care instructions need reassessment.</p>
-                    <h2>Questions to discuss</h2>
-                    <p>Before confirming a service, ask about mobility support, household preparation, duties, and preferred schedule. Discussing duties, hours, communication, and availability in advance helps everyone understand what is and is not included.</p>
-                    <h2>Getting started</h2>
-                    <p>To get started with recovery support at home, share the patient's locality, recovery needs, clinician guidance, and callback number. The team can use those details to discuss the request, explain possible availability, and outline the next step without assuming a booking.</p>
+        <section class="accident-recovery__hero">
+            <div class="accident-recovery__copy">
+                <span class="accident-recovery__eyebrow">AFTER DISCHARGE · SUPPORT AT HOME</span>
+                <h2>Recovery is personal.<br>Home support should be, too.</h2>
+                <p>Coming home after an accident can mean adjusting to new routines, movement restrictions, and day-to-day assistance. We help families discuss practical support options around the person’s discharge plan, current abilities, and preferred schedule.</p>
+                <div class="accident-recovery__hero-actions">
+                    <a href="contact.php">Plan a care enquiry <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                    <a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> +91 7668066607</a>
                 </div>
-</div>
+                <div class="accident-recovery__hero-note"><i class="fa fa-check-circle" aria-hidden="true"></i> Practical help that follows the treating team’s instructions.</div>
             </div>
-            <div class="col-md-4 col-sm-4 col-xs-12">
-            <!--callback form div start-->
-            <div class="callback">
-                <img src="images/abo.jpg" style="width:91%;">
-            </div>	
-            <!--callback form div end-->
+            <div class="accident-recovery__visual">
+                <img src="images/accident-recovery-home.svg" alt="Illustration of a person using a walking frame with caregiver support during recovery at home">
+                <div class="accident-recovery__visual-caption"><span>RECOVERY AT HOME</span><strong>One step at a time.</strong></div>
             </div>
-        </div>
-    </div>
-</div>
+        </section>
 
-<!-- Statistics Section Start -->
-<div class="content">
-    <div class="container">
-        <div class="row">
-        	<div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-handshake-o" aria-hidden="true"></i> 1000+</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Services Delivered<br><br></p>
-                </div>
+        <section class="accident-recovery__intro">
+            <div>
+                <span>SUPPORT AFTER AN ACCIDENT</span>
+                <h2>Make the transition home feel more manageable.</h2>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-thumbs-up" aria-hidden="true"></i> 10+ Yrs</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Of Exeperience In Nursing Care<br><br></p>
-                </div>
+            <p>Every injury and home situation is different. Begin with the discharge guidance, then talk through the everyday assistance the person wants and the family can coordinate. Support scope and availability are confirmed for each enquiry.</p>
+        </section>
+
+        <section class="accident-recovery__support" aria-label="Home recovery support options">
+            <article>
+                <span class="accident-recovery__support-icon"><i class="fa fa-home" aria-hidden="true"></i></span>
+                <small>01 / DAILY LIVING</small>
+                <h3>Help with everyday routines</h3>
+                <p>Discuss assistance with personal routines, meals, and moving around the home while keeping the person’s preferences and independence in view.</p>
+            </article>
+            <article>
+                <span class="accident-recovery__support-icon"><i class="fa fa-wheelchair" aria-hidden="true"></i></span>
+                <small>02 / SAFE MOBILITY</small>
+                <h3>Support around movement</h3>
+                <p>Share mobility concerns, home access, and any equipment or movement precautions recommended by the treating or rehabilitation team.</p>
+            </article>
+            <article>
+                <span class="accident-recovery__support-icon"><i class="fa fa-calendar-check-o" aria-hidden="true"></i></span>
+                <small>03 / FAMILY COORDINATION</small>
+                <h3>Clear plans and handovers</h3>
+                <p>Agree on support hours, a family contact, and how practical updates or follow-up appointments will be coordinated.</p>
+            </article>
+        </section>
+
+        <section class="accident-recovery__steps">
+            <div class="accident-recovery__steps-heading">
+                <span>A CLEAR START</span>
+                <h2>What to have ready for the conversation</h2>
+                <p>A few practical details can help make your enquiry more specific.</p>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-star" aria-hidden="true"></i> 100%</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Satisfaction Rate<br><br></p>
-                </div>
-            </div>
-        </div>
+            <ol>
+                <li><span>01</span><div><h3>Discharge guidance</h3><p>Keep current instructions and follow-up information from the treating team nearby.</p></div></li>
+                <li><span>02</span><div><h3>Daily support needs</h3><p>Note the tasks, preferred timings, and home access or mobility considerations.</p></div></li>
+                <li><span>03</span><div><h3>Family point of contact</h3><p>Choose who can discuss the schedule and coordinate routine updates.</p></div></li>
+            </ol>
+        </section>
+
+        <aside class="accident-recovery__safety">
+            <span><i class="fa fa-info" aria-hidden="true"></i></span>
+            <div><strong>Clinical and emergency care</strong><p>Home support does not replace medical care or rehabilitation. Follow the treating professional’s instructions for exercises, activity limits, wound care, and medicines. For an emergency or sudden deterioration, contact local emergency services.</p></div>
+        </aside>
+
+        <section class="accident-recovery__contact">
+            <div><span>ACCIDENT RECOVERY CARE ENQUIRIES</span><h2>Tell us what would help at home.</h2><p>Share the patient’s location, discharge guidance, daily support needs, and preferred schedule. We’ll discuss the request and available next steps.</p></div>
+            <div><a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> Call +91 7668066607</a><a href="contact.php">Send an online enquiry</a></div>
+        </section>
     </div>
-</div>
-<!-- Statistics Section End -->
+</main>
 
 
 <!--bot links div start-->  

@@ -1,14 +1,14 @@
 <!doctype html>
 <html>
 <head>
-<title>About Us | Careright Home Health Care Pvt. Ltd.</title>
+<title>Cancer Patient Care at Home | Careright Home Health Care</title>
 
 <!-- Mirrored from carerighthomehealthcares.com/about-us by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Aug 2025 10:04:00 GMT -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Learn more about Careright Home Health Care Pvt. Ltd., our mission, and our commitment to providing quality home nursing, attendant services, and patient care." />
-<meta name="keywords" content="about us, home health care, nursing services, patient care, elder care" />
-<link rel="canonical" href="about-us.html" />
+<meta name="description" content="Practical home support for people receiving cancer care, including help with daily activities, rest, mobility, and family coordination around the oncology care plan." />
+<meta name="keywords" content="cancer patient care at home, cancer care home support, attendant for cancer patient, daily assistance during cancer treatment, oncology patient family support" />
+<link rel="canonical" href="cancer-patient-care-services-at-home.php" />
 <meta name="google-site-verification" content="FxrmckzPcTYaL7gXPNcvhWAGROvqhvdqNZlgs4IRA2k" />
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <meta charset="utf-8">
@@ -142,93 +142,91 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
 <!--header div end-->
 
 
-<!--breadcump div start-->     
-<section class="page-title-section">
+<!--breadcump div start-->
+<section class="cancer-home-title">
     <div class="container">
-        <h1>Cancer Patient Care Services At Home</h1>
+        <span>CARERIGHT HOME HEALTH CARE · SUPPORTIVE HOME CARE</span>
+        <h1>Cancer Patient Care at Home</h1>
         <ol class="breadcrumb">
           <li><a href="index.php">Home</a></li>
-          <li class="active">Cancer Patient Care Services At Home</li>
+          <li><a href="services.php">Services</a></li>
+          <li class="active">Cancer Patient Care</li>
         </ol>
     </div>
 </section>
 <!--breadcump div end-->
 
-
-<a name="about"></a>
-<!-- welcome div start -->
-<div class="content">
+<main class="cancer-home">
     <div class="container">
-        <div class="row">
-        	<div class="col-md-8 col-sm-8 col-xs-12">
-            <!--weldiv start-->
-            <div class="wel">
-                <h1 style="font-size:25px;"><strong style="color:#0066CC;">Cancer Patient Care at Home</strong><span></span></h1>
-                <div class="text"><p>Home support can make day-to-day life more manageable for people receiving cancer care. Depending on the care plan, an attendant can help with personal care, meals, mobility, and companionship while the medical treatment remains under the patient's clinician.</p></div>
-            
-                <div class="page-detail-content">
-                    <h2>Understanding the support</h2>
-                    <p>Families considering cancer patient support at home can begin by describing practical daily assistance alongside clinician-led treatment. The suitable arrangement depends on the individual, the household routine, confirmed availability, and any relevant professional guidance.</p>
-                    <h2>Planning daily routines</h2>
-                    <p>A useful discussion identifies meals, personal routines, companionship, and assistance on appointment days. Explain which activities are most important, when help is needed, and what the person receiving care prefers to do independently.</p>
-                    <h2>Preparing for care</h2>
-                    <p>Before support begins, gather treatment schedules, family contacts, and the oncology team's instructions. Keeping current information together makes family handovers clearer and helps the care team understand the arrangements already in place.</p>
-                    <h2>Home and access arrangements</h2>
-                    <p>Planning should also take account of a comfortable rest area and easy access to everyday essentials. Mention practical constraints early, including access, timing, the household's daily routine, and any equipment that affects the service.</p>
-                    <h2>Family communication</h2>
-                    <p>Agree with family members on the patient's preferences, energy, and preferred way to receive help. A clear point of contact and consistent handover can reduce confusion when schedules change or practical questions arise.</p>
-                    <h2>Respectful, personal support</h2>
-                    <p>Support should respect the person's dignity, privacy, and choices. Discuss communication preferences, familiar routines, and how assistance can be offered without taking away independence.</p>
-                    <h2>Working with healthcare professionals</h2>
-                    <p>Keep clinical responsibilities clear: symptoms and treatment decisions should be discussed with the oncology team. If health needs change or new symptoms appear, contact the treating professional rather than relying on a routine service discussion.</p>
-                    <h2>Reviewing the care arrangement</h2>
-                    <p>Review the arrangement regularly, especially whether appointment times or practical support needs have changed. Families can share practical feedback with the coordinator and consult the relevant professional when care instructions need reassessment.</p>
-                    <h2>Questions to discuss</h2>
-                    <p>Before confirming a service, ask about daily assistance, timing around appointments, and agreed caregiver duties. Discussing duties, hours, communication, and availability in advance helps everyone understand what is and is not included.</p>
-                    <h2>Getting started</h2>
-                    <p>To get started with cancer patient support at home, share the patient's locality, requested support, schedule, and clinician guidance. The team can use those details to discuss the request, explain possible availability, and outline the next step without assuming a booking.</p>
+        <section class="cancer-home__hero">
+            <div class="cancer-home__visual">
+                <img src="images/cancer-care-at-home.svg" alt="A person receiving supportive care at home while a family caregiver listens">
+                <div class="cancer-home__visual-label"><i class="fa fa-heart-o" aria-hidden="true"></i><span>SUPPORT AROUND<br>THE PERSON</span></div>
+            </div>
+            <div class="cancer-home__copy">
+                <span class="cancer-home__eyebrow">PRACTICAL HELP ALONGSIDE THE CARE PLAN</span>
+                <h2>Make room for comfort, rest, and everyday life.</h2>
+                <p>When someone is receiving cancer treatment, ordinary tasks may feel different from day to day. Home support can help with agreed daily activities and family coordination, while all treatment decisions and clinical advice remain with the person's oncology team.</p>
+                <div class="cancer-home__hero-actions">
+                    <a href="contact.php">Discuss home support <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                    <a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> +91 7668066607</a>
                 </div>
-</div>
+                <div class="cancer-home__note"><i class="fa fa-check-circle" aria-hidden="true"></i> Support is discussed around the patient's preferences and current guidance.</div>
             </div>
-            <div class="col-md-4 col-sm-4 col-xs-12">
-            <!--callback form div start-->
-            <div class="callback">
-                <img src="images/abo.jpg" style="width:91%;">
-            </div>	
-            <!--callback form div end-->
-            </div>
-        </div>
-    </div>
-</div>
+        </section>
 
-<!-- Statistics Section Start -->
-<div class="content">
-    <div class="container">
-        <div class="row">
-        	<div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-handshake-o" aria-hidden="true"></i> 1000+</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Services Delivered<br><br></p>
-                </div>
+        <section class="cancer-home__intro">
+            <span>SUPPORT THAT ADAPTS TO THE DAY</span>
+            <h2>Some days call for a little more help. Others, a little more space.</h2>
+            <p>Talk with the patient and family about what feels useful right now. Support arrangements can be discussed around changing energy, appointments, personal preferences, and the tasks the patient wants to manage independently.</p>
+        </section>
+
+        <section class="cancer-home__support" aria-label="Cancer care home support options">
+            <article>
+                <span class="cancer-home__support-icon"><i class="fa fa-home" aria-hidden="true"></i></span>
+                <small>01 / DAILY LIVING</small>
+                <h3>Practical help at home</h3>
+                <p>Discuss assistance with agreed personal routines, meals, and everyday tasks according to the person's comfort and preferences.</p>
+            </article>
+            <article>
+                <span class="cancer-home__support-icon"><i class="fa fa-bed" aria-hidden="true"></i></span>
+                <small>02 / COMFORT & REST</small>
+                <h3>A routine with room to pause</h3>
+                <p>Share preferred rest periods, mobility needs, and how the household can keep the day manageable without adding pressure.</p>
+            </article>
+            <article>
+                <span class="cancer-home__support-icon"><i class="fa fa-calendar" aria-hidden="true"></i></span>
+                <small>03 / FAMILY COORDINATION</small>
+                <h3>Clear plans and updates</h3>
+                <p>Coordinate the agreed support schedule, family contact, and practical planning around treatment appointments.</p>
+            </article>
+        </section>
+
+        <section class="cancer-home__conversation">
+            <div class="cancer-home__conversation-heading">
+                <span>A CLEAR CONVERSATION HELPS</span>
+                <h2>What to share when arranging support.</h2>
+                <p>Start with the patient's priorities. The team can then discuss duties and service availability.</p>
+                <a href="contact.php">Send an enquiry <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-thumbs-up" aria-hidden="true"></i> 10+ Yrs</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Of Exeperience In Nursing Care<br><br></p>
-                </div>
+            <div class="cancer-home__conversation-list">
+                <article><span>01</span><div><h3>What help is wanted?</h3><p>List daily activities where assistance would be welcome and what the patient prefers to do independently.</p></div></article>
+                <article><span>02</span><div><h3>How does the schedule look?</h3><p>Share preferred support hours and any treatment or follow-up appointment dates to plan around.</p></div></article>
+                <article><span>03</span><div><h3>Who should be contacted?</h3><p>Choose a family point of contact and share current instructions from the oncology team.</p></div></article>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-star" aria-hidden="true"></i> 100%</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Satisfaction Rate<br><br></p>
-                </div>
-            </div>
-        </div>
+        </section>
+
+        <aside class="cancer-home__clinical">
+            <span><i class="fa fa-stethoscope" aria-hidden="true"></i></span>
+            <div><strong>Clinical care remains with the oncology team.</strong><p>Attendant support does not replace cancer treatment, nursing procedures, medical advice, or emergency care. Report symptoms and treatment questions to the patient's qualified healthcare professional. For urgent deterioration or an emergency, contact the oncology team or local emergency services as appropriate.</p></div>
+        </aside>
+
+        <section class="cancer-home__contact">
+            <div><span>CANCER PATIENT CARE ENQUIRIES</span><h2>Tell us what would make home life easier.</h2><p>Share the patient's location, preferred routine, requested support, treatment schedule, and family contact. We can discuss the request and check availability.</p></div>
+            <div><a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> Call +91 7668066607</a><a href="contact.php">Send an online enquiry</a></div>
+        </section>
     </div>
-</div>
-<!-- Statistics Section End -->
+</main>
 
 
 <!--bot links div start-->  

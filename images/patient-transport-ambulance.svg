@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 680" role="img" aria-labelledby="title desc">
+  <title id="title">Ambulance transport planning</title>
+  <desc id="desc">An ambulance vehicle parked near a home with a route marker, illustrating planned patient transport enquiries.</desc>
+  <rect width="900" height="680" fill="#e7ece9"/>
+  <path d="M0 0h900v437H0z" fill="#f2f0e7"/>
+  <path d="M0 437h900v243H0z" fill="#c7d0c7"/>
+  <path d="M0 582h900" stroke="#a9b6aa" stroke-width="5"/>
+  <path d="M61 96h244v250H61z" fill="#d5e3dc"/>
+  <path d="M80 115h206v211H80z" fill="#b9d0c5"/>
+  <path d="M183 115v211M80 220h206" stroke="#faf6eb" stroke-width="11"/>
+  <path d="M27 347h314" stroke="#ad9d84" stroke-width="9" stroke-linecap="round"/>
+  <path d="M49 354v57m269-57v57" stroke="#8d7961" stroke-width="10" stroke-linecap="round"/>
+  <path d="M69 414h112m22 0h112" stroke="#fffaf0" stroke-width="8" stroke-linecap="round"/>
+  <ellipse cx="492" cy="584" rx="327" ry="31" fill="#66736d" opacity=".2"/>
+  <path d="M164 352c0-18 14-32 32-32h348c20 0 35 10 45 27l42 72h90c24 0 43 19 43 43v93H142v-75c0-19 10-36 25-46z" fill="#f9faf6" stroke="#4e666d" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M164 352c0-18 14-32 32-32h348c20 0 35 10 45 27l42 72H164z" fill="#fff"/>
+  <path d="M193 340h139v67H164v-37c0-17 13-30 29-30zm164 0h179c10 0 18 5 24 13l31 54H357z" fill="#b8d3d5"/>
+  <path d="M342 333v79m-176 14h471" stroke="#4e666d" stroke-width="7"/>
+  <path d="M625 429h79v-68h-39z" fill="#b8d3d5"/>
+  <path d="M700 437v56m41-51v54" stroke="#d2dcda" stroke-width="5"/>
+  <path d="M353 429h147" stroke="#4d7e78" stroke-width="39" stroke-linecap="round"/>
+  <path d="M356 429h141" stroke="#deede3" stroke-width="28" stroke-linecap="round"/>
+  <path d="M414 410v39m-19-19h39" stroke="#de7566" stroke-width="8" stroke-linecap="round"/>
+  <rect x="178" y="437" width="56" height="38" rx="7" fill="#e4b16b"/>
+  <path d="M190 449h31m-26 12h21" stroke="#fff8e9" stroke-width="5" stroke-linecap="round"/>
+  <path d="M538 437h54m-52 13h44" stroke="#63837b" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="262" cy="548" r="58" fill="#364a50"/>
+  <circle cx="262" cy="548" r="31" fill="#d9dfd8"/>
+  <circle cx="262" cy="548" r="12" fill="#6e8583"/>
+  <circle cx="655" cy="548" r="58" fill="#364a50"/>
+  <circle cx="655" cy="548" r="31" fill="#d9dfd8"/>
+  <circle cx="655" cy="548" r="12" fill="#6e8583"/>
+  <path d="M334 317v-27h64v27m82 0v-26h64v26" fill="#52747b"/>
+  <path d="M344 291h44m20 0h62m19 0h43" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+  <path d="M737 304c0-30 24-54 54-54s54 24 54 54c0 41-54 103-54 103s-54-62-54-103z" fill="#d79c61"/>
+  <circle cx="791" cy="303" r="20" fill="#fff7e9"/>
+  <path d="M779 303h24m-12-12v24" stroke="#638279" stroke-width="6" stroke-linecap="round"/>
+  <path d="M690 307c-29-29-62-35-100-17m-28 17c-18-11-39-12-62-3" fill="none" stroke="#96a99b" stroke-width="6" stroke-linecap="round" stroke-dasharray="7 12"/>
+  <path d="M731 505h97" stroke="#eff2e9" stroke-width="7" stroke-linecap="round"/>
+  <path d="M781 486v38" stroke="#eff2e9" stroke-width="7" stroke-linecap="round"/>
+  <path d="M41 464c18-42 48-61 84-57 7 29 2 57-15 81z" fill="#81947a"/>
+  <path d="M84 489v99m0-55-24-28m24 50 28-32" fill="none" stroke="#63785e" stroke-width="8" stroke-linecap="round"/>
+  <path d="M50 591h71l-9 31H58z" fill="#b57957"/>
+  <circle cx="726" cy="117" r="30" fill="#d9a46b"/>
+  <path d="M712 117h28m-14-14v28" stroke="#fff8e9" stroke-width="6" stroke-linecap="round"/>
+  <path d="M653 176h163m-138 20h138" stroke="#d2c5ad" stroke-width="7" stroke-linecap="round"/>
+</svg>

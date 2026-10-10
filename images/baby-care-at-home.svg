@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 760" role="img" aria-labelledby="title desc">
+  <title id="title">Newborn care support at home</title>
+  <desc id="desc">A parent holds a newborn while a caregiver nearby helps with a calm home routine.</desc>
+  <rect width="900" height="760" fill="#eee8f0"/>
+  <path d="M0 0h900v505H0z" fill="#f9f4ed"/>
+  <path d="M76 75h278v267H76z" fill="#dfd3ea"/>
+  <path d="M96 95h238v227H96z" fill="#cebfe0"/>
+  <path d="M215 95v227M96 207h238" stroke="#fbf6ef" stroke-width="14"/>
+  <path d="M0 505h900v255H0z" fill="#d8c8b6"/>
+  <path d="M0 650h900" stroke="#c5b19e" stroke-width="5"/>
+  <ellipse cx="450" cy="681" rx="300" ry="36" fill="#a99a8d" opacity=".31"/>
+  <path d="M115 453h401c23 0 42 19 42 42v146H91V477c0-13 11-24 24-24z" fill="#927b96"/>
+  <path d="M118 423h394c23 0 42 19 42 42v27H91v-27c0-23 10-42 27-42z" fill="#ae96ad"/>
+  <path d="M135 638v64m377-64v64" stroke="#64545f" stroke-width="18" stroke-linecap="round"/>
+  <path d="M233 274c-2-51 28-85 75-85 47 0 74 31 69 78l-5 38c-12 29-37 45-70 43-39-2-61-23-69-58z" fill="#d69a76"/>
+  <path d="M232 271c1-57 30-93 77-93 46 0 71 32 66 76-22-5-41-20-54-40-18 27-47 45-89 57z" fill="#493e3a"/>
+  <path d="M222 323c15-16 38-24 68-22 43 2 70 19 79 50l22 153H207l-8-120c-1-24 6-44 23-61z" fill="#bd6e74"/>
+  <path d="M258 344c-16 30-22 63-19 100m91-95c17 25 27 54 31 87" fill="none" stroke="#ce8d6b" stroke-width="17" stroke-linecap="round"/>
+  <path d="M232 524c-1 35-2 71-2 104m112-104c8 35 18 68 34 101" fill="none" stroke="#5d6576" stroke-width="23" stroke-linecap="round"/>
+  <path d="M210 638h41m115 0h39" stroke="#434950" stroke-width="14" stroke-linecap="round"/>
+  <path d="M281 376c28 20 50 43 66 72" fill="none" stroke="#d69a76" stroke-width="16" stroke-linecap="round"/>
+  <path d="M354 440c25-4 46 3 65 21" fill="none" stroke="#d69a76" stroke-width="14" stroke-linecap="round"/>
+  <path d="M349 444c13-37 43-57 83-57 40 0 70 20 85 56l-15 77H365z" fill="#f5e7d1"/>
+  <path d="M383 430c-5-22 8-41 30-43 19-2 34 11 35 31 0 15-12 27-29 28-17 2-32-4-36-16z" fill="#e2ab86"/>
+  <path d="M383 430c-1-22 13-39 33-40 17-1 29 9 31 25-12-1-22-7-29-16-8 14-20 23-35 31z" fill="#a88d79"/>
+  <path d="M388 459c24-10 50-9 73 2m-79 17c29-10 59-10 88 1" fill="none" stroke="#d5bfa4" stroke-width="5" stroke-linecap="round"/>
+  <path d="M535 273c-2-46 24-77 67-77 43 0 68 29 63 71l-4 35c-12 27-34 42-65 40-36-2-56-21-61-55z" fill="#dfaa82"/>
+  <path d="M534 270c1-52 28-83 71-83 43 0 66 28 60 70-19-5-36-18-48-38-17 26-43 43-83 51z" fill="#52433b"/>
+  <path d="M529 316c14-15 34-22 60-21 39 2 61 17 69 45l20 129H508l-2-98c0-23 7-42 23-55z" fill="#718b7f"/>
+  <path d="M560 337c-13 25-19 54-17 84m77-81c18 24 27 50 29 79" fill="none" stroke="#d49a73" stroke-width="15" stroke-linecap="round"/>
+  <path d="M544 470c1 41 0 80-2 123m96-122c8 40 20 76 37 111" fill="none" stroke="#596977" stroke-width="22" stroke-linecap="round"/>
+  <path d="M521 607h41m99 0h38" stroke="#404a50" stroke-width="13" stroke-linecap="round"/>
+  <path d="M553 348c-21 17-36 38-43 61" fill="none" stroke="#dfaa82" stroke-width="14" stroke-linecap="round"/>
+  <path d="M512 402c-23 4-40 16-50 34" fill="none" stroke="#dfaa82" stroke-width="13" stroke-linecap="round"/>
+  <path d="M459 420h59v48h-59z" rx="8" fill="#fff" stroke="#b79ca9" stroke-width="4"/>
+  <path d="M454 421h69" stroke="#b79ca9" stroke-width="5" stroke-linecap="round"/>
+  <path d="M470 409c0-10 8-18 18-18s18 8 18 18" fill="none" stroke="#c78a69" stroke-width="4"/>
+  <path d="M55 484c17-49 48-73 88-71 10 32 7 65-10 94z" fill="#94a17f"/>
+  <path d="M96 510v128m0-72-29-33m29 64 34-39" fill="none" stroke="#718067" stroke-width="8" stroke-linecap="round"/>
+  <path d="M54 638h86l-10 43H65z" fill="#b97966"/>
+  <circle cx="764" cy="166" r="38" fill="#fff" opacity=".85"/>
+  <path d="M764 143c-9-16-33-12-33 8 0 19 33 39 33 39s33-20 33-39c0-20-24-24-33-8z" fill="#d08c94"/>
+  <path d="M680 292c27-26 59-38 97-34m-89 18c23-17 47-25 74-25" fill="none" stroke="#e5cbb4" stroke-width="6" stroke-linecap="round"/>
+</svg>

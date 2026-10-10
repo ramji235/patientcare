@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 760" role="img" aria-labelledby="title desc">
+  <title id="title">Old age care and supported walking at home</title>
+  <desc id="desc">An older adult takes a gentle walk on a garden path with a caregiver walking alongside.</desc>
+  <rect width="900" height="760" fill="#e8e4d7"/>
+  <path d="M0 0h900v485H0z" fill="#f4e9d5"/>
+  <circle cx="702" cy="161" r="69" fill="#e2ad71"/>
+  <path d="M0 397c122-75 213-63 323-16 114 49 211 41 324-10 99-45 179-43 253-11v125H0z" fill="#9eb198"/>
+  <path d="M0 456c161-51 291-21 417 29 161 64 299 60 483-12v54H0z" fill="#778f77"/>
+  <path d="M0 503h900v257H0z" fill="#d6c6a9"/>
+  <path d="M367 760c40-129 82-213 144-266 40-35 79-46 128-49 52-3 101 9 160 31v284z" fill="#e8dbc2"/>
+  <path d="M418 760c28-103 74-177 127-228m-61 228c29-109 77-183 137-237m-26 237c21-85 61-147 112-194" fill="none" stroke="#d2bea0" stroke-width="5" opacity=".65"/>
+  <path d="M0 648c115-62 208-62 310-18 92 40 180 42 276 8" fill="none" stroke="#c1b394" stroke-width="4" opacity=".65"/>
+  <ellipse cx="434" cy="687" rx="243" ry="35" fill="#9c927d" opacity=".25"/>
+  <path d="M305 318c-2-57 31-94 83-94 52 0 82 35 75 88l-6 43c-14 31-42 48-79 45-42-2-67-27-73-65z" fill="#c78b68"/>
+  <path d="M305 315c1-61 31-100 83-100 51 0 79 34 74 84-22-4-43-21-58-44-18 30-53 49-99 60z" fill="#e8e5d9"/>
+  <path d="M296 370c17-17 41-25 72-23 45 2 73 19 82 53l13 130-177-4-12-102c-3-23 5-42 22-54z" fill="#b9785b"/>
+  <path d="M324 391c-11 30-15 65-11 99m87-96c19 24 30 51 35 82" fill="none" stroke="#be805f" stroke-width="17" stroke-linecap="round"/>
+  <path d="M314 537c-3 35-4 72-2 106m114-104c6 35 17 69 33 101" fill="none" stroke="#596777" stroke-width="24" stroke-linecap="round"/>
+  <path d="M291 646h41m116 0h38" stroke="#3f4a52" stroke-width="14" stroke-linecap="round"/>
+  <path d="M462 420c21 15 34 33 41 55" fill="none" stroke="#c78b68" stroke-width="15" stroke-linecap="round"/>
+  <path d="M501 455v177m-9 0h18" fill="none" stroke="#77654f" stroke-width="9" stroke-linecap="round"/>
+  <path d="M514 293c-2-51 26-84 73-84 48 0 75 32 70 78l-4 39c-13 30-39 46-73 44-39-2-60-24-66-61z" fill="#dba47b"/>
+  <path d="M513 290c2-56 31-91 78-91 47 0 73 31 65 78-22-6-42-22-55-43-20 29-48 46-88 56z" fill="#50463d"/>
+  <path d="M508 338c15-16 37-23 66-22 42 2 66 18 75 49l19 138-172-1-10-107c-2-23 5-43 22-57z" fill="#607f83"/>
+  <path d="M541 360c-15 27-22 58-21 94m83-89c18 26 28 55 30 88" fill="none" stroke="#d49b73" stroke-width="16" stroke-linecap="round"/>
+  <path d="M523 505c1 37 1 80 0 136m107-134c9 40 23 77 42 114" fill="none" stroke="#606c78" stroke-width="23" stroke-linecap="round"/>
+  <path d="M502 646h40m118 0h43" stroke="#3e474d" stroke-width="14" stroke-linecap="round"/>
+  <path d="M519 382c-25 8-43 23-58 43" fill="none" stroke="#dba47b" stroke-width="14" stroke-linecap="round"/>
+  <path d="M0 480c21-54 59-83 109-88 11 42 6 77-15 110z" fill="#758c6c"/>
+  <path d="M44 514v133m0-75-31-35m31 70 37-43" fill="none" stroke="#5b765c" stroke-width="8" stroke-linecap="round"/>
+  <path d="M6 645h78l-9 42H17z" fill="#bb8262"/>
+  <path d="M773 447c18-38 48-59 89-61 10 33 5 62-13 88z" fill="#7d966f"/>
+  <path d="M815 473v101m0-59-25-28m25 50 28-31" fill="none" stroke="#627e60" stroke-width="7" stroke-linecap="round"/>
+  <path d="M773 572h81l-9 37h-63z" fill="#b47b5f"/>
+  <path d="M90 200h183" stroke="#fff" stroke-width="7" stroke-linecap="round" opacity=".8"/>
+  <path d="M90 220h117" stroke="#fff" stroke-width="7" stroke-linecap="round" opacity=".5"/>
+</svg>

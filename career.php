@@ -1,14 +1,14 @@
 <!doctype html>
 <html>
 <head>
-<title>Carrers</title>
+<title>Careers at Careright | Home Healthcare Opportunities</title>
 
 <!-- Mirrored from carerighthomehealthcares.com/about-us by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Aug 2025 10:04:00 GMT -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Learn more about Careright Home Health Care Pvt. Ltd., our mission, and our commitment to providing quality home nursing, attendant services, and patient care." />
-<meta name="keywords" content="about us, home health care, nursing services, patient care, elder care" />
-<link rel="canonical" href="about-us.html" />
+<meta name="description" content="Explore careers with Careright Home Health Care. Nurses, attendants, and care professionals can enquire about roles, experience requirements, work locations, and current openings." />
+<meta name="keywords" content="careers in home healthcare, home care jobs, nursing jobs, caregiver jobs, medical attendant jobs, Careright careers" />
+<link rel="canonical" href="career.php" />
 <meta name="google-site-verification" content="FxrmckzPcTYaL7gXPNcvhWAGROvqhvdqNZlgs4IRA2k" />
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <meta charset="utf-8">
@@ -142,93 +142,102 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
 <!--header div end-->
 
 
-<!--breadcump div start-->     
-<section class="page-title-section">
+<!--breadcump div start-->
+<section class="careers-title">
     <div class="container">
-        <h1>Carrers</h1>
+        <span>CARERIGHT HOME HEALTH CARE · CAREER ENQUIRIES</span>
+        <h1>Bring compassion to care at home.</h1>
         <ol class="breadcrumb">
           <li><a href="index.php">Home</a></li>
-          <li class="active">Carrers</li>
+          <li class="active">Careers</li>
         </ol>
     </div>
 </section>
 <!--breadcump div end-->
 
-
-<a name="about"></a>
-<!-- welcome div start -->
-<div class="content">
+<main class="careers-page">
     <div class="container">
-        <div class="row">
-        	<div class="col-md-8 col-sm-8 col-xs-12">
-            <!--weldiv start-->
-            <div class="wel">
-                <h1 style="font-size:25px;"><strong style="color:#0066CC;">Careers at Careright</strong><span></span></h1>
-                <div class="text"><p>Interested in caring for people at home? We welcome enquiries from nurses, attendants, and care professionals who value respectful, dependable support. Contact us with your experience, preferred role, and availability to ask about current opportunities.</p></div>
-            
-                <div class="page-detail-content">
-                    <h2>Understanding the support</h2>
-                    <p>Families considering careers at Careright can begin by describing responsible, respectful support for people receiving home care. The suitable arrangement depends on the individual, the household routine, confirmed availability, and any relevant professional guidance.</p>
-                    <h2>Planning daily routines</h2>
-                    <p>A useful discussion identifies the role sought, relevant experience, training, and work availability. Explain which activities are most important, when help is needed, and what the person receiving care prefers to do independently.</p>
-                    <h2>Preparing for care</h2>
-                    <p>Before support begins, gather a short introduction, work history, preferred location, and contact details. Keeping current information together makes family handovers clearer and helps the care team understand the arrangements already in place.</p>
-                    <h2>Home and access arrangements</h2>
-                    <p>Planning should also take account of questions about duties, assignment location, hours, and reporting. Mention practical constraints early, including access, timing, the household's daily routine, and any equipment that affects the service.</p>
-                    <h2>Family communication</h2>
-                    <p>Agree with family members on how candidates communicate respectfully with clients and families. A clear point of contact and consistent handover can reduce confusion when schedules change or practical questions arise.</p>
-                    <h2>Respectful, personal support</h2>
-                    <p>Support should respect the person's dignity, privacy, and choices. Discuss communication preferences, familiar routines, and how assistance can be offered without taking away independence.</p>
-                    <h2>Working with healthcare professionals</h2>
-                    <p>Keep clinical responsibilities clear: clinical roles require qualifications appropriate to their responsibilities. If health needs change or new symptoms appear, contact the treating professional rather than relying on a routine service discussion.</p>
-                    <h2>Reviewing the care arrangement</h2>
-                    <p>Review the arrangement regularly, especially whether the role and schedule match the candidate's experience. Families can share practical feedback with the coordinator and consult the relevant professional when care instructions need reassessment.</p>
-                    <h2>Questions to discuss</h2>
-                    <p>Before confirming a service, ask about current openings, role expectations, qualifications, and application steps. Discussing duties, hours, communication, and availability in advance helps everyone understand what is and is not included.</p>
-                    <h2>Getting started</h2>
-                    <p>To get started with careers at Careright, share the preferred role, relevant experience, location, and callback details. The team can use those details to discuss the request, explain possible availability, and outline the next step without assuming a booking.</p>
+        <section class="careers-page__hero">
+            <div class="careers-page__copy">
+                <span class="careers-page__eyebrow">A PEOPLE-FIRST APPROACH TO HOME HEALTHCARE</span>
+                <h2>Make a difference in someone's everyday life.</h2>
+                <p>We're interested in hearing from nurses, attendants, and care professionals who value patience, respect, and dependable support. Tell us about your experience and the kind of role you are looking for; our team can discuss current opportunities and next steps.</p>
+                <div class="careers-page__actions">
+                    <a href="contact.php">Enquire about a role <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                    <a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> +91 7668066607</a>
                 </div>
-</div>
+                <div class="careers-page__note"><i class="fa fa-info-circle" aria-hidden="true"></i> Openings, locations, and role requirements vary; please ask the team for current details.</div>
             </div>
-            <div class="col-md-4 col-sm-4 col-xs-12">
-            <!--callback form div start-->
-            <div class="callback">
-                <img src="images/abo.jpg" style="width:91%;">
-            </div>	
-            <!--callback form div end-->
+            <div class="careers-page__visual">
+                <img src="images/careers-home-health-team.svg" alt="Home healthcare professionals meet and coordinate care as a team">
+                <div class="careers-page__visual-label"><i class="fa fa-users" aria-hidden="true"></i><span>COMPASSION<br>IN ACTION</span></div>
             </div>
-        </div>
-    </div>
-</div>
+        </section>
 
-<!-- Statistics Section Start -->
-<div class="content">
-    <div class="container">
-        <div class="row">
-        	<div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-handshake-o" aria-hidden="true"></i> 1000+</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Services Delivered<br><br></p>
-                </div>
+        <section class="careers-page__intro">
+            <div><span>EXPLORE WHERE YOUR EXPERIENCE MAY FIT</span><h2>Different roles. One shared commitment to respectful care.</h2></div>
+            <p>Home healthcare is delivered by people with different skills and responsibilities. The role, qualifications, location, and availability should be discussed and confirmed for each opportunity.</p>
+        </section>
+
+        <section class="careers-page__roles" aria-label="Career areas">
+            <article>
+                <span class="careers-page__role-icon"><i class="fa fa-user-md" aria-hidden="true"></i></span>
+                <small>CLINICAL CARE</small>
+                <h3>Nursing professionals</h3>
+                <p>Share your relevant nursing qualifications, experience, preferred work areas, and availability.</p>
+            </article>
+            <article>
+                <span class="careers-page__role-icon careers-page__role-icon--attendant"><i class="fa fa-heart" aria-hidden="true"></i></span>
+                <small>EVERYDAY SUPPORT</small>
+                <h3>Attendants and caregivers</h3>
+                <p>Tell us about your patient-support experience, strengths, preferred location, and schedule.</p>
+            </article>
+            <article>
+                <span class="careers-page__role-icon careers-page__role-icon--coordination"><i class="fa fa-comments" aria-hidden="true"></i></span>
+                <small>CARE COORDINATION</small>
+                <h3>Support and coordination</h3>
+                <p>Enquire about coordination roles and describe relevant communication or service experience.</p>
+            </article>
+        </section>
+
+        <section class="careers-page__values">
+            <div class="careers-page__values-heading">
+                <span>WHAT MATTERS IN HOME CARE</span>
+                <h2>Skills matter. So does how you show up.</h2>
+                <p>Supporting people in their homes calls for professionalism, thoughtful communication, and respect for each person's privacy and choices.</p>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-thumbs-up" aria-hidden="true"></i> 10+ Yrs</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Of Exeperience In Nursing Care<br><br></p>
-                </div>
+            <div class="careers-page__values-list">
+                <article><b>01</b><div><h3>Respect and dignity</h3><p>Listen carefully and support each person without taking away their choices.</p></div></article>
+                <article><b>02</b><div><h3>Reliability and communication</h3><p>Be clear about availability, arrive as agreed, and share appropriate updates.</p></div></article>
+                <article><b>03</b><div><h3>Role-appropriate practice</h3><p>Work within your training and responsibilities; ask for guidance when needed.</p></div></article>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-star" aria-hidden="true"></i> 100%</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Satisfaction Rate<br><br></p>
-                </div>
+        </section>
+
+        <section class="careers-page__apply">
+            <div class="careers-page__apply-heading">
+                <span>HOW TO MAKE A CAREER ENQUIRY</span>
+                <h2>Help us understand what you are looking for.</h2>
+                <p>Reach out to ask about current openings and the application process. An enquiry is not a job offer or confirmation of a vacancy.</p>
+                <a href="contact.php">Contact the team <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             </div>
-        </div>
+            <div class="careers-page__apply-list">
+                <article><b>01</b><div><h3>Tell us your preferred role</h3><p>Let us know whether you are enquiring about nursing, attendant care, or coordination.</p></div></article>
+                <article><b>02</b><div><h3>Share relevant experience</h3><p>Summarise your training, work experience, preferred area, and availability.</p></div></article>
+                <article><b>03</b><div><h3>Ask about next steps</h3><p>Confirm current openings, role requirements, documents needed, and how follow-up works.</p></div></article>
+            </div>
+        </section>
+
+        <aside class="careers-page__note-panel">
+            <span><i class="fa fa-shield" aria-hidden="true"></i></span>
+            <div><strong>Keep your personal information safe.</strong><p>Share only information relevant to your enquiry through the contact route provided. Do not send original certificates, identity documents, or sensitive personal information until the organization has explained its application and document-handling process.</p></div>
+        </aside>
+
+        <section class="careers-page__contact">
+            <div><span>CAREER ENQUIRIES</span><h2>Ready to tell us about your experience?</h2><p>Share the role you are interested in, relevant experience, preferred location, and availability. We can discuss current opportunities and the appropriate next steps.</p></div>
+            <div><a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> Call +91 7668066607</a><a href="contact.php">Send an online enquiry</a></div>
+        </section>
     </div>
-</div>
-<!-- Statistics Section End -->
+</main>
 
 
 <!--bot links div start-->  
