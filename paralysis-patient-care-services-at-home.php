@@ -273,7 +273,7 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
                 <div class="paralysis-home__note"><i class="fa fa-check-circle" aria-hidden="true"></i> Keep rehabilitation and treatment decisions with qualified professionals.</div>
             </div>
             <div class="paralysis-home__visual">
-                <img src="images/paralysis-care-at-home.svg" alt="A person using a wheelchair at home with a caregiver nearby for support">
+                <img src="images/Physiotherapy2.jpg" alt="Caregiver supporting a person with safe movement during home recovery">
                 <span class="paralysis-home__visual-tag">SUPPORT WITH DIGNITY<br>AND PERSONAL CHOICE</span>
             </div>
         </section>

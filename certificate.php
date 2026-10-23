@@ -276,7 +276,7 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
                 <div class="credentials-page__note"><i class="fa fa-info-circle" aria-hidden="true"></i> Credentials and duties depend on the role and service being discussed.</div>
             </div>
             <div class="credentials-page__visual">
-                <img src="images/care-team-credentials.svg" alt="Illustration of care-team documents being discussed and reviewed">
+                <img src="images/Home-Nursing-Service.png" alt="Care professional ready to discuss home care services and responsibilities">
                 <div class="credentials-page__visual-tag"><i class="fa fa-search" aria-hidden="true"></i><span>ASK · REVIEW<br>· CLARIFY</span></div>
             </div>
         </section>

@@ -243,7 +243,7 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
                 <div class="newborn-page__promise"><span><i class="fa fa-heart-o" aria-hidden="true"></i></span><p><strong>Your baby. Your preferences.</strong><br>Parents guide the routine and agree the support provided.</p></div>
             </div>
             <div class="newborn-page__visual">
-                <img src="images/newborn-care-family-routine.svg" alt="A parent and newborn resting together at home beside a prepared baby-care basket">
+                <img src="images/baby.png" alt="Parent sharing a warm moment with their baby at home">
                 <div class="newborn-page__visual-note"><i class="fa fa-moon-o" aria-hidden="true"></i><span>GENTLE SUPPORT<br>FOR NEW ROUTINES</span></div>
             </div>
         </section>

@@ -109,7 +109,7 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
                 <div class="accident-recovery__hero-note"><i class="fa fa-check-circle" aria-hidden="true"></i> Practical help that follows the treating team’s instructions.</div>
             </div>
             <div class="accident-recovery__visual">
-                <img src="images/accident-recovery-home.svg" alt="Illustration of a person using a walking frame with caregiver support during recovery at home">
+                <img src="images/Physiotherapy2.jpg" alt="Caregiver supporting a patient with movement during recovery at home">
                 <div class="accident-recovery__visual-caption"><span>RECOVERY AT HOME</span><strong>One step at a time.</strong></div>
             </div>
         </section>

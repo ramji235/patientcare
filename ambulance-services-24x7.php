@@ -251,7 +251,7 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
                 <div class="ambulance-care__availability"><i class="fa fa-info-circle" aria-hidden="true"></i><span>Transport is subject to confirmation. A call or enquiry does not confirm a dispatch or booking.</span></div>
             </div>
             <div class="ambulance-care__visual">
-                <img src="images/patient-transport-ambulance.svg" alt="Illustration of an ambulance prepared for a planned patient transport journey">
+                <img src="images/banner/emer.png" alt="Ambulance prepared for patient transport">
                 <div class="ambulance-care__visual-tag"><i class="fa fa-map-marker" aria-hidden="true"></i><span>PICKUP · ROUTE<br>· DESTINATION</span></div>
             </div>
         </section>

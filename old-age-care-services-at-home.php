@@ -248,7 +248,7 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
                 <div class="senior-home__hero-note"><i class="fa fa-heart" aria-hidden="true"></i> Start with what the older adult says matters most.</div>
             </div>
             <div class="senior-home__art">
-                <img src="images/old-age-care-home.svg" alt="An older adult enjoying a supported walk in a home garden">
+                <img src="images/HOME ATTENDANT.webp" alt="Care attendant offering supportive companionship to an older adult">
                 <span class="senior-home__art-label">COMFORT · CHOICE · CONNECTION</span>
             </div>
         </section>

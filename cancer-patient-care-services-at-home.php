@@ -241,7 +241,7 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
     <div class="container">
         <section class="cancer-home__hero">
             <div class="cancer-home__visual">
-                <img src="images/cancer-care-at-home.svg" alt="A person receiving supportive care at home while a family caregiver listens">
+                <img src="images/Patientcare2.webp" alt="Nurse offering attentive bedside support to a patient">
                 <div class="cancer-home__visual-label"><i class="fa fa-heart-o" aria-hidden="true"></i><span>SUPPORT AROUND<br>THE PERSON</span></div>
             </div>
             <div class="cancer-home__copy">

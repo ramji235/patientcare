@@ -255,7 +255,7 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
                 <div class="bedside-care__note"><i class="fa fa-check-circle" aria-hidden="true"></i> Care routines are discussed with the patient, family, and care team.</div>
             </div>
             <div class="bedside-care__visual">
-                <img src="images/bedridden-care-at-home.svg" alt="A person resting in bed while a caregiver offers respectful support at home">
+                <img src="images/Patientcare2.webp" alt="Nurse offering attentive bedside support to a patient resting in bed">
                 <div class="bedside-care__visual-label"><i class="fa fa-heart" aria-hidden="true"></i><span>GENTLE CARE,<br>AT THEIR PACE</span></div>
             </div>
         </section>

@@ -243,7 +243,7 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
                 <div class="home-care-overview__note"><i class="fa fa-heart" aria-hidden="true"></i> Begin with a conversation about preferences, schedule, and location.</div>
             </div>
             <div class="home-care-overview__visual">
-                <img src="images/home-care-family-support.svg" alt="Family members talking with a home care professional in a comfortable living room">
+                <img src="images/HOME ATTENDANT.webp" alt="Home care attendant providing friendly support to an older adult">
                 <div class="home-care-overview__visual-label"><i class="fa fa-home" aria-hidden="true"></i><span>SUPPORT FOR<br>EVERYDAY LIFE</span></div>
             </div>
         </section>

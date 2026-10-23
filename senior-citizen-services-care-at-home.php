@@ -270,7 +270,7 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
                 <div class="citizen-care__phone"><i class="fa fa-phone" aria-hidden="true"></i><span>Speak with our team</span><a href="tel:7668066607">+91 7668066607</a></div>
             </div>
             <div class="citizen-care__image">
-                <img src="images/senior-citizen-care-home.svg" alt="A senior citizen reading comfortably at home with a caregiver nearby">
+                <img src="images/HOME ATTENDANT.webp" alt="Care attendant providing friendly support to an older adult at home">
                 <div class="citizen-care__image-caption"><span>TIME FOR WHAT FEELS FAMILIAR</span><strong>Support, at their pace.</strong></div>
             </div>
             <div class="citizen-care__hero-stamp"><i class="fa fa-home" aria-hidden="true"></i><span>SUPPORT<br>AT HOME</span></div>

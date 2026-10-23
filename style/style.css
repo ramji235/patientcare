@@ -8606,26 +8606,19 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
     align-items:center;
     justify-content:center;
     overflow:hidden;
-    padding:20px;
+    padding:0;
     background:#e4e9dc;
 }
-.accident-recovery__visual::before {
-    position:absolute;
-    top:8%;
-    right:6%;
-    width:87%;
-    height:84%;
-    border:1px solid rgba(49,69,60,.13);
-    border-radius:48% 48% 5px 5px;
-    content:"";
-}
 .accident-recovery__visual img {
-    position:relative;
+    position:absolute;
+    inset:0;
     z-index:1;
     display:block;
     width:100%;
-    max-width:470px;
-    height:auto;
+    max-width:none;
+    height:100%;
+    object-fit:cover;
+    object-position:center;
 }
 .accident-recovery__visual-caption {
     position:absolute;
@@ -8851,6 +8844,7 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
     .accident-recovery__copy { padding:31px 26px; }
     .accident-recovery__copy h2 { font-size:31px; }
     .accident-recovery__visual { min-height:380px; }
+    .accident-recovery__visual img { height:380px; }
     .accident-recovery__intro { gap:28px; }
     .accident-recovery__steps { gap:28px; }
 }
@@ -8862,7 +8856,7 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
     .accident-recovery__copy { padding:27px 23px; }
     .accident-recovery__copy h2 { font-size:30px; }
     .accident-recovery__visual { min-height:320px; }
-    .accident-recovery__visual img { max-width:390px; }
+    .accident-recovery__visual img { height:320px; }
     .accident-recovery__intro { grid-template-columns:minmax(0,1fr); gap:12px; padding:34px 2px 21px; }
     .accident-recovery__intro h2 { max-width:550px; font-size:24px; }
     .accident-recovery__support { grid-template-columns:minmax(0,1fr); gap:10px; }
@@ -8882,7 +8876,8 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
     .accident-recovery__copy > p { font-size:12px; }
     .accident-recovery__hero-actions { gap:11px; }
     .accident-recovery__hero-actions a:last-child { font-size:11px; }
-    .accident-recovery__visual { min-height:250px; padding:12px; }
+    .accident-recovery__visual { min-height:250px; }
+    .accident-recovery__visual img { height:250px; }
     .accident-recovery__visual-caption { right:12px; bottom:12px; padding:9px 11px; }
     .accident-recovery__visual-caption strong { font-size:11px; }
     .accident-recovery__intro h2 { font-size:22px; }
@@ -9364,29 +9359,21 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
 }
 .elder-home__photo {
     position:relative;
-    display:flex;
     min-height:440px;
-    align-items:center;
-    justify-content:center;
     overflow:hidden;
-    padding:25px;
+    padding:0;
     background:#dce5d9;
-    border-radius:48% 48% 5px 5px;
-}
-.elder-home__photo::before {
-    position:absolute;
-    inset:7% 7% 5%;
-    border:1px solid rgba(70,91,77,.18);
-    border-radius:48% 48% 5px 5px;
-    content:"";
 }
 .elder-home__photo img {
-    position:relative;
+    position:absolute;
+    inset:0;
     z-index:1;
     display:block;
     width:100%;
-    max-width:480px;
-    height:auto;
+    max-width:none;
+    height:100%;
+    object-fit:cover;
+    object-position:center 38%;
 }
 .elder-home__photo-note {
     position:absolute;
@@ -9651,8 +9638,8 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
     .elder-home-title h1 { font-size:24px; }
     .elder-home { padding:21px 0 36px; }
     .elder-home__hero { grid-template-columns:minmax(0,1fr); overflow:visible; }
-    .elder-home__photo { min-height:320px; border-radius:46% 46% 4px 4px; }
-    .elder-home__photo img { max-width:390px; }
+    .elder-home__photo { min-height:320px; height:320px; }
+    .elder-home__photo img { height:320px; }
     .elder-home__story { margin:-12px 12px 0; padding:25px 22px; }
     .elder-home__story h2 { font-size:28px; }
     .elder-home__intro { padding:38px 6px 21px; }
@@ -9671,7 +9658,8 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
     .elder-home__contact h2 { font-size:18px; }
 }
 @media screen and (max-width:480px) {
-    .elder-home__photo { min-height:255px; padding:13px; }
+    .elder-home__photo { min-height:255px; height:255px; }
+    .elder-home__photo img { height:255px; }
     .elder-home__photo-note { right:10px; bottom:13px; padding:9px 10px; }
     .elder-home__photo-note span { font-size:9px; }
     .elder-home__story { margin:0 7px; padding:22px 17px; }
@@ -9820,28 +9808,21 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
 .senior-home__hero-note i { color:#a27457; }
 .senior-home__art {
     position:relative;
-    display:flex;
     min-height:430px;
-    align-items:center;
-    justify-content:center;
     overflow:hidden;
-    padding:22px;
+    padding:0;
     background:#eadfc9;
 }
-.senior-home__art::before {
-    position:absolute;
-    inset:9% 8% 7%;
-    border:1px solid rgba(73,63,76,.15);
-    border-radius:48% 48% 4px 4px;
-    content:"";
-}
 .senior-home__art img {
-    position:relative;
+    position:absolute;
+    inset:0;
     z-index:1;
     display:block;
     width:100%;
-    max-width:470px;
-    height:auto;
+    max-width:none;
+    height:100%;
+    object-fit:cover;
+    object-position:center 42%;
 }
 .senior-home__art-label {
     position:absolute;
@@ -10066,8 +10047,8 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
     .senior-home__hero { grid-template-columns:minmax(0,1fr); }
     .senior-home__message { padding:27px 23px; }
     .senior-home__message h2 { font-size:29px; }
-    .senior-home__art { min-height:320px; }
-    .senior-home__art img { max-width:390px; }
+    .senior-home__art { min-height:320px; height:320px; }
+    .senior-home__art img { height:320px; }
     .senior-home__needs { padding:35px 0 24px; }
     .senior-home__needs-heading h2 { font-size:23px; }
     .senior-home__approach { grid-template-columns:minmax(0,1fr); }
@@ -10082,7 +10063,8 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
     .senior-home__message > p { font-size:11px; }
     .senior-home__hero-actions { gap:11px; }
     .senior-home__hero-actions a:last-child { font-size:10px; }
-    .senior-home__art { min-height:250px; padding:13px; }
+    .senior-home__art { min-height:250px; height:250px; }
+    .senior-home__art img { height:250px; }
     .senior-home__art-label { right:10px; bottom:10px; padding:8px 9px; font-size:7px; }
     .senior-home__needs-grid { grid-template-columns:minmax(0,1fr); }
     .senior-home__needs-grid article { min-height:0; }
@@ -10212,28 +10194,21 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
 .citizen-care__phone a:focus { color:#efc579; }
 .citizen-care__image {
     position:relative;
-    display:flex;
     min-height:420px;
-    align-items:center;
-    justify-content:center;
     overflow:hidden;
-    padding:22px;
+    padding:0;
     background:#dfd2b5;
 }
-.citizen-care__image::before {
-    position:absolute;
-    inset:8% 7% 7%;
-    border:1px solid rgba(48,75,91,.16);
-    border-radius:3px 46% 3px 3px;
-    content:"";
-}
 .citizen-care__image img {
-    position:relative;
+    position:absolute;
+    inset:0;
     z-index:1;
     display:block;
     width:100%;
-    max-width:460px;
-    height:auto;
+    max-width:none;
+    height:100%;
+    object-fit:cover;
+    object-position:center 42%;
 }
 .citizen-care__image-caption {
     position:absolute;
@@ -10424,8 +10399,8 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
     .citizen-care__copy { padding:28px 23px; }
     .citizen-care__copy h2 { font-size:29px; }
     .citizen-care__hero-stamp { top:auto; bottom:290px; left:auto; right:17px; }
-    .citizen-care__image { min-height:320px; }
-    .citizen-care__image img { max-width:390px; }
+    .citizen-care__image { min-height:320px; height:320px; }
+    .citizen-care__image img { height:320px; }
     .citizen-care__daily { padding:35px 0 24px; }
     .citizen-care__daily-heading h2 { font-size:23px; }
     .citizen-care__planning { grid-template-columns:minmax(0,1fr); gap:18px; padding:22px 20px; }
@@ -10436,7 +10411,8 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
     .citizen-care__copy { padding:23px 17px; }
     .citizen-care__copy h2 { font-size:26px; }
     .citizen-care__copy > p { font-size:11px; }
-    .citizen-care__image { min-height:255px; padding:13px; }
+    .citizen-care__image { min-height:255px; height:255px; }
+    .citizen-care__image img { height:255px; }
     .citizen-care__image-caption { right:10px; bottom:10px; padding:8px 10px; }
     .citizen-care__image-caption strong { font-size:11px; }
     .citizen-care__hero-stamp { bottom:229px; right:13px; }
@@ -10503,29 +10479,20 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
     position:relative;
     display:flex;
     min-height:435px;
-    align-items:center;
-    justify-content:center;
     overflow:hidden;
-    padding:24px;
+    padding:0;
     background:#ead9c9;
 }
-.attendant-care__visual::before {
-    position:absolute;
-    top:9%;
-    right:7%;
-    width:86%;
-    height:81%;
-    border:1px solid rgba(88,69,62,.2);
-    border-radius:48% 48% 6px 6px;
-    content:"";
-}
 .attendant-care__visual img {
-    position:relative;
+    position:absolute;
+    inset:0;
     z-index:1;
     display:block;
     width:100%;
-    max-width:440px;
-    height:auto;
+    max-width:none;
+    height:100%;
+    object-fit:cover;
+    object-position:center 42%;
 }
 .attendant-care__visual-tag {
     position:absolute;
@@ -10819,8 +10786,8 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
     .attendant-care-title h1 { font-size:24px; }
     .attendant-care { padding:20px 0 36px; }
     .attendant-care__hero { grid-template-columns:minmax(0,1fr); }
-    .attendant-care__visual { min-height:310px; }
-    .attendant-care__visual img { max-width:380px; }
+    .attendant-care__visual { min-height:310px; height:310px; }
+    .attendant-care__visual img { height:310px; }
     .attendant-care__copy { padding:29px 23px; }
     .attendant-care__copy h2 { font-size:29px; }
     .attendant-care__intro { grid-template-columns:minmax(0,1fr); gap:12px; padding:34px 2px 21px; }
@@ -10835,7 +10802,8 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
     .attendant-care__contact h2 { font-size:18px; }
 }
 @media screen and (max-width:480px) {
-    .attendant-care__visual { min-height:250px; padding:13px; }
+    .attendant-care__visual { min-height:250px; height:250px; }
+    .attendant-care__visual img { height:250px; }
     .attendant-care__visual-tag { right:auto; bottom:12px; left:12px; max-width:calc(100% - 55px); padding:9px 11px; font-size:8px; }
     .attendant-care__copy { padding:24px 17px; }
     .attendant-care__copy h2 { font-size:26px; }
@@ -11291,28 +11259,21 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
 }
 .cancer-home__visual {
     position:relative;
-    display:flex;
     min-height:430px;
-    align-items:center;
-    justify-content:center;
     overflow:hidden;
-    padding:23px;
+    padding:0;
     background:#dfded5;
 }
-.cancer-home__visual::before {
-    position:absolute;
-    inset:8% 7%;
-    border:1px solid rgba(61,78,84,.16);
-    border-radius:4px 45% 4px 4px;
-    content:"";
-}
 .cancer-home__visual img {
-    position:relative;
+    position:absolute;
+    inset:0;
     z-index:1;
     display:block;
     width:100%;
-    max-width:460px;
-    height:auto;
+    max-width:none;
+    height:100%;
+    object-fit:cover;
+    object-position:center 40%;
 }
 .cancer-home__visual-label {
     position:absolute;
@@ -11583,8 +11544,8 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
     .cancer-home-title h1 { font-size:24px; }
     .cancer-home { padding:20px 0 36px; }
     .cancer-home__hero { grid-template-columns:minmax(0,1fr); }
-    .cancer-home__visual { min-height:320px; }
-    .cancer-home__visual img { max-width:390px; }
+    .cancer-home__visual { min-height:320px; height:320px; }
+    .cancer-home__visual img { height:320px; }
     .cancer-home__copy { padding:27px 23px; }
     .cancer-home__copy h2 { font-size:29px; }
     .cancer-home__intro { padding:35px 5px 22px; }
@@ -11597,7 +11558,8 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
     .cancer-home__contact { align-items:flex-start; flex-direction:column; gap:14px; padding:19px 18px; }
 }
 @media screen and (max-width:480px) {
-    .cancer-home__visual { min-height:255px; padding:13px; }
+    .cancer-home__visual { min-height:255px; height:255px; }
+    .cancer-home__visual img { height:255px; }
     .cancer-home__visual-label { left:10px; bottom:10px; padding:8px 10px; }
     .cancer-home__visual-label span { font-size:7px; }
     .cancer-home__copy { padding:23px 17px; }
@@ -11741,31 +11703,21 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
 .paralysis-home__note i { color:#64877c; }
 .paralysis-home__visual {
     position:relative;
-    display:flex;
     min-height:425px;
-    align-items:center;
-    justify-content:center;
     overflow:hidden;
-    padding:22px;
+    padding:0;
     background:#d9e2dd;
 }
-.paralysis-home__visual::before {
-    position:absolute;
-    top:7%;
-    right:8%;
-    width:84%;
-    height:86%;
-    border:1px solid rgba(52,74,80,.16);
-    border-radius:3px 48% 3px 3px;
-    content:"";
-}
 .paralysis-home__visual img {
-    position:relative;
+    position:absolute;
+    inset:0;
     z-index:1;
     display:block;
     width:100%;
-    max-width:460px;
-    height:auto;
+    max-width:none;
+    height:100%;
+    object-fit:cover;
+    object-position:center 45%;
 }
 .paralysis-home__visual-tag {
     position:absolute;
@@ -11962,8 +11914,8 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
     .paralysis-home__hero { grid-template-columns:minmax(0,1fr); }
     .paralysis-home__copy { padding:27px 23px; }
     .paralysis-home__copy h2 { font-size:29px; }
-    .paralysis-home__visual { min-height:320px; }
-    .paralysis-home__visual img { max-width:390px; }
+    .paralysis-home__visual { min-height:320px; height:320px; }
+    .paralysis-home__visual img { height:320px; }
     .paralysis-home__intro { grid-template-columns:minmax(0,1fr); gap:12px; padding:34px 3px 21px; }
     .paralysis-home__intro h2 { font-size:23px; }
     .paralysis-home__support { grid-template-columns:minmax(0,1fr); gap:10px; }
@@ -11979,7 +11931,8 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
     .paralysis-home__copy > p { font-size:11px; }
     .paralysis-home__actions { gap:10px; }
     .paralysis-home__actions a:last-child { font-size:10px; }
-    .paralysis-home__visual { min-height:255px; padding:13px; }
+    .paralysis-home__visual { min-height:255px; height:255px; }
+    .paralysis-home__visual img { height:255px; }
     .paralysis-home__visual-tag { right:9px; bottom:9px; padding:8px 9px; font-size:7px; }
     .paralysis-home__intro h2 { font-size:21px; }
     .paralysis-home__plan { padding:19px 15px; }
@@ -12075,22 +12028,12 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
     .bedside-care__note i { margin-right:6px; color:#8b9b72; }
     .bedside-care__visual {
         position:relative;
-        display:flex;
-        align-items:center;
-        justify-content:center;
         min-height:440px;
-        padding:24px;
+        overflow:hidden;
+        padding:0;
         background:#e6e2d7;
     }
-    .bedside-care__visual::before {
-        position:absolute;
-        content:"";
-        width:300px;
-        height:300px;
-        border:1px solid rgba(255,255,255,.56);
-        border-radius:50%;
-    }
-    .bedside-care__visual img { position:relative; z-index:1; display:block; width:100%; max-width:480px; height:auto; }
+    .bedside-care__visual img { position:absolute; inset:0; z-index:1; display:block; width:100%; max-width:none; height:100%; object-fit:cover; object-position:center 40%; }
     .bedside-care__visual-label {
         position:absolute;
         z-index:2;
@@ -12256,8 +12199,8 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
         .bedside-care__hero { grid-template-columns:minmax(0,1fr); }
         .bedside-care__copy { padding:28px 24px; }
         .bedside-care__copy h2 { font-size:31px; }
-        .bedside-care__visual { min-height:320px; }
-        .bedside-care__visual img { max-width:440px; }
+        .bedside-care__visual { min-height:320px; height:320px; }
+        .bedside-care__visual img { height:320px; }
         .bedside-care__intro { grid-template-columns:minmax(0,1fr); gap:12px; padding:39px 3px 22px; }
         .bedside-care__intro h2 { font-size:25px; }
         .bedside-care__support { grid-template-columns:minmax(0,1fr); gap:10px; }
@@ -12275,7 +12218,8 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
         .bedside-care__copy > p { font-size:12px; }
         .bedside-care__actions { align-items:stretch; flex-direction:column; }
         .bedside-care__actions a { text-align:center; }
-        .bedside-care__visual { min-height:260px; padding:12px; }
+        .bedside-care__visual { min-height:260px; height:260px; }
+        .bedside-care__visual img { height:260px; }
         .bedside-care__visual-label { right:9px; bottom:9px; padding:8px 10px; font-size:8px; }
         .bedside-care__intro h2 { font-size:23px; }
         .bedside-care__handover { padding:20px 16px; }
@@ -12371,25 +12315,12 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
     .equipment-rent__note i { margin-right:6px; color:#e2b46f; }
     .equipment-rent__visual {
         position:relative;
-        display:flex;
-        align-items:center;
-        justify-content:center;
         min-height:430px;
-        padding:21px;
+        overflow:hidden;
+        padding:0;
         background:#e8e5d9;
     }
-    .equipment-rent__visual::before {
-        position:absolute;
-        right:8%;
-        bottom:9%;
-        width:230px;
-        height:230px;
-        border:1px solid rgba(77,95,94,.19);
-        border-radius:50%;
-        box-shadow:0 0 0 25px rgba(255,255,255,.22);
-        content:"";
-    }
-    .equipment-rent__visual img { position:relative; z-index:1; display:block; width:100%; max-width:470px; height:auto; }
+    .equipment-rent__visual img { position:absolute; inset:0; z-index:1; display:block; width:100%; max-width:none; height:100%; object-fit:cover; object-position:center; }
     .equipment-rent__visual-stamp {
         position:absolute;
         z-index:2;
@@ -12554,8 +12485,8 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
         .equipment-rent__hero { grid-template-columns:minmax(0,1fr); }
         .equipment-rent__copy { padding:28px 24px; }
         .equipment-rent__copy h2 { font-size:30px; }
-        .equipment-rent__visual { min-height:310px; }
-        .equipment-rent__visual img { max-width:440px; }
+        .equipment-rent__visual { min-height:310px; height:310px; }
+        .equipment-rent__visual img { height:310px; }
         .equipment-rent__intro { grid-template-columns:minmax(0,1fr); gap:12px; padding:38px 3px 22px; }
         .equipment-rent__intro h2 { font-size:24px; }
         .equipment-rent__categories { gap:10px; }
@@ -12571,7 +12502,8 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
         .equipment-rent__copy > p { font-size:11px; }
         .equipment-rent__actions { align-items:stretch; flex-direction:column; }
         .equipment-rent__actions a { text-align:center; }
-        .equipment-rent__visual { min-height:250px; padding:12px; }
+        .equipment-rent__visual { min-height:250px; height:250px; }
+        .equipment-rent__visual img { height:250px; }
         .equipment-rent__visual-stamp { top:9px; right:9px; padding:8px 9px; font-size:8px; }
         .equipment-rent__intro h2 { font-size:22px; }
         .equipment-rent__categories { grid-template-columns:minmax(0,1fr); }
@@ -12670,25 +12602,12 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
     .home-care-overview__note i { margin-right:6px; color:#a47c57; }
     .home-care-overview__visual {
         position:relative;
-        display:flex;
-        align-items:center;
-        justify-content:center;
         min-height:445px;
-        padding:21px;
+        overflow:hidden;
+        padding:0;
         background:#e6e0d3;
     }
-    .home-care-overview__visual::before {
-        position:absolute;
-        top:12%;
-        left:12%;
-        width:270px;
-        height:270px;
-        border:1px solid rgba(255,255,255,.62);
-        border-radius:50%;
-        box-shadow:0 0 0 24px rgba(255,255,255,.13);
-        content:"";
-    }
-    .home-care-overview__visual img { position:relative; z-index:1; display:block; width:100%; max-width:470px; height:auto; }
+    .home-care-overview__visual img { position:absolute; inset:0; z-index:1; display:block; width:100%; max-width:none; height:100%; object-fit:cover; object-position:center 42%; }
     .home-care-overview__visual-label {
         position:absolute;
         z-index:2;
@@ -12854,8 +12773,8 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
         .home-care-overview__hero { grid-template-columns:minmax(0,1fr); }
         .home-care-overview__copy { padding:27px 23px; }
         .home-care-overview__copy h2 { font-size:30px; }
-        .home-care-overview__visual { min-height:310px; }
-        .home-care-overview__visual img { max-width:430px; }
+        .home-care-overview__visual { min-height:310px; height:310px; }
+        .home-care-overview__visual img { height:310px; }
         .home-care-overview__intro { grid-template-columns:minmax(0,1fr); gap:12px; padding:37px 3px 22px; }
         .home-care-overview__intro h2 { font-size:24px; }
         .home-care-overview__services { gap:10px; }
@@ -12872,7 +12791,8 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
         .home-care-overview__copy > p { font-size:11px; }
         .home-care-overview__actions { align-items:stretch; flex-direction:column; }
         .home-care-overview__actions a { text-align:center; }
-        .home-care-overview__visual { min-height:245px; padding:11px; }
+        .home-care-overview__visual { min-height:245px; height:245px; }
+        .home-care-overview__visual img { height:245px; }
         .home-care-overview__visual-label { right:8px; bottom:8px; padding:8px 9px; font-size:7px; }
         .home-care-overview__intro h2 { font-size:22px; }
         .home-care-overview__services { grid-template-columns:minmax(0,1fr); }
@@ -12971,25 +12891,12 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
     .memory-care__note i { margin-right:6px; color:#a47d5d; }
     .memory-care__visual {
         position:relative;
-        display:flex;
-        align-items:center;
-        justify-content:center;
         min-height:435px;
-        padding:20px;
+        overflow:hidden;
+        padding:0;
         background:#e8e3d8;
     }
-    .memory-care__visual::before {
-        position:absolute;
-        top:11%;
-        right:11%;
-        width:265px;
-        height:265px;
-        border:1px solid rgba(255,255,255,.6);
-        border-radius:50%;
-        box-shadow:0 0 0 22px rgba(255,255,255,.14);
-        content:"";
-    }
-    .memory-care__visual img { position:relative; z-index:1; display:block; width:100%; max-width:470px; height:auto; }
+    .memory-care__visual img { position:absolute; inset:0; z-index:1; display:block; width:100%; max-width:none; height:100%; object-fit:cover; object-position:center 40%; }
     .memory-care__visual-label {
         position:absolute;
         z-index:2;
@@ -13149,8 +13056,8 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
         .memory-care__hero { grid-template-columns:minmax(0,1fr); }
         .memory-care__copy { padding:27px 23px; }
         .memory-care__copy h2 { font-size:29px; }
-        .memory-care__visual { min-height:310px; }
-        .memory-care__visual img { max-width:430px; }
+        .memory-care__visual { min-height:310px; height:310px; }
+        .memory-care__visual img { height:310px; }
         .memory-care__intro { grid-template-columns:minmax(0,1fr); gap:12px; padding:37px 3px 21px; }
         .memory-care__intro h2 { font-size:24px; }
         .memory-care__support { grid-template-columns:minmax(0,1fr); gap:10px; }
@@ -13166,7 +13073,8 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
         .memory-care__copy > p { font-size:11px; }
         .memory-care__actions { align-items:stretch; flex-direction:column; }
         .memory-care__actions a { text-align:center; }
-        .memory-care__visual { min-height:245px; padding:11px; }
+        .memory-care__visual { min-height:245px; height:245px; }
+        .memory-care__visual img { height:245px; }
         .memory-care__visual-label { right:8px; bottom:8px; padding:8px 9px; font-size:7px; }
         .memory-care__intro h2 { font-size:22px; }
         .memory-care__familiar { padding:19px 16px; }
@@ -13263,25 +13171,12 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
     .credentials-page__note i { margin-right:6px; color:#a1815b; }
     .credentials-page__visual {
         position:relative;
-        display:flex;
-        align-items:center;
-        justify-content:center;
         min-height:435px;
-        padding:22px;
+        overflow:hidden;
+        padding:0;
         background:#e3e7e2;
     }
-    .credentials-page__visual::before {
-        position:absolute;
-        right:11%;
-        bottom:12%;
-        width:255px;
-        height:255px;
-        border:1px solid rgba(255,255,255,.7);
-        border-radius:50%;
-        box-shadow:0 0 0 22px rgba(255,255,255,.15);
-        content:"";
-    }
-    .credentials-page__visual img { position:relative; z-index:1; display:block; width:100%; max-width:470px; height:auto; }
+    .credentials-page__visual img { position:absolute; inset:0; z-index:1; display:block; width:100%; max-width:none; height:100%; object-fit:cover; object-position:center 35%; }
     .credentials-page__visual-tag {
         position:absolute;
         z-index:2;
@@ -13443,8 +13338,8 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
         .credentials-page__hero { grid-template-columns:minmax(0,1fr); }
         .credentials-page__copy { padding:27px 23px; }
         .credentials-page__copy h2 { font-size:29px; }
-        .credentials-page__visual { min-height:305px; }
-        .credentials-page__visual img { max-width:430px; }
+        .credentials-page__visual { min-height:305px; height:305px; }
+        .credentials-page__visual img { height:305px; }
         .credentials-page__intro { grid-template-columns:minmax(0,1fr); gap:12px; padding:37px 3px 21px; }
         .credentials-page__intro h2 { font-size:24px; }
         .credentials-page__questions { grid-template-columns:minmax(0,1fr); gap:10px; }
@@ -13462,7 +13357,8 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
         .credentials-page__copy > p { font-size:11px; }
         .credentials-page__actions { align-items:stretch; flex-direction:column; }
         .credentials-page__actions a { text-align:center; }
-        .credentials-page__visual { min-height:245px; padding:11px; }
+        .credentials-page__visual { min-height:245px; height:245px; }
+        .credentials-page__visual img { height:245px; }
         .credentials-page__visual-tag { right:8px; bottom:8px; padding:8px 9px; font-size:7px; }
         .credentials-page__intro h2 { font-size:22px; }
         .credentials-page__steps { padding:19px 16px; }
@@ -13563,25 +13459,12 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
     .careers-page__note i { margin-right:6px; color:#aa8054; }
     .careers-page__visual {
         position:relative;
-        display:flex;
-        align-items:center;
-        justify-content:center;
         min-height:440px;
-        padding:20px;
+        overflow:hidden;
+        padding:0;
         background:#e5e6db;
     }
-    .careers-page__visual::before {
-        position:absolute;
-        top:11%;
-        left:11%;
-        width:270px;
-        height:270px;
-        border:1px solid rgba(255,255,255,.65);
-        border-radius:50%;
-        box-shadow:0 0 0 23px rgba(255,255,255,.16);
-        content:"";
-    }
-    .careers-page__visual img { position:relative; z-index:1; display:block; width:100%; max-width:470px; height:auto; }
+    .careers-page__visual img { position:absolute; inset:0; z-index:1; display:block; width:100%; max-width:none; height:100%; object-fit:cover; object-position:center 35%; }
     .careers-page__visual-label {
         position:absolute;
         z-index:2;
@@ -13838,8 +13721,8 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
         .careers-page__hero { grid-template-columns:minmax(0,1fr); }
         .careers-page__copy { padding:27px 23px; }
         .careers-page__copy h2 { font-size:29px; }
-        .careers-page__visual { min-height:305px; }
-        .careers-page__visual img { max-width:430px; }
+        .careers-page__visual { min-height:305px; height:305px; }
+        .careers-page__visual img { height:305px; }
         .careers-page__intro { grid-template-columns:minmax(0,1fr); gap:12px; padding:37px 3px 21px; }
         .careers-page__intro h2 { font-size:24px; }
         .careers-page__roles { grid-template-columns:minmax(0,1fr); gap:10px; }
@@ -13859,7 +13742,8 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
         .careers-page__copy > p { font-size:11px; }
         .careers-page__actions { align-items:stretch; flex-direction:column; }
         .careers-page__actions a { text-align:center; }
-        .careers-page__visual { min-height:245px; padding:11px; }
+        .careers-page__visual { min-height:245px; height:245px; }
+        .careers-page__visual img { height:245px; }
         .careers-page__visual-label { right:8px; bottom:8px; padding:8px 9px; font-size:7px; }
         .careers-page__intro h2 { font-size:22px; }
         .careers-story { padding:19px 16px; }
@@ -14402,25 +14286,12 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
     .ambulance-care__availability i { flex:0 0 auto; margin-top:1px; color:#a67852; }
     .ambulance-care__visual {
         position:relative;
-        display:flex;
-        align-items:center;
-        justify-content:center;
         min-height:435px;
-        padding:22px;
+        overflow:hidden;
+        padding:0;
         background:#e2e9e6;
     }
-    .ambulance-care__visual::before {
-        position:absolute;
-        right:8%;
-        bottom:10%;
-        width:260px;
-        height:260px;
-        border:1px solid rgba(255,255,255,.67);
-        border-radius:50%;
-        box-shadow:0 0 0 24px rgba(255,255,255,.15);
-        content:"";
-    }
-    .ambulance-care__visual img { position:relative; z-index:1; display:block; width:100%; max-width:475px; height:auto; }
+    .ambulance-care__visual img { position:absolute; inset:0; z-index:1; display:block; width:100%; max-width:none; height:100%; object-fit:cover; object-position:center; }
     .ambulance-care__visual-tag {
         position:absolute;
         z-index:2;
@@ -14575,8 +14446,8 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
         .ambulance-care__hero { grid-template-columns:minmax(0,1fr); }
         .ambulance-care__copy { padding:27px 23px; }
         .ambulance-care__copy h2 { font-size:29px; }
-        .ambulance-care__visual { min-height:300px; }
-        .ambulance-care__visual img { max-width:440px; }
+        .ambulance-care__visual { min-height:300px; height:300px; }
+        .ambulance-care__visual img { height:300px; }
         .ambulance-care__intro { grid-template-columns:minmax(0,1fr); gap:12px; padding:36px 3px 21px; }
         .ambulance-care__intro h2 { font-size:24px; }
         .ambulance-care__needs { grid-template-columns:minmax(0,1fr); gap:9px; }
@@ -14591,7 +14462,8 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
         .ambulance-care__copy > p { font-size:11px; }
         .ambulance-care__actions { align-items:stretch; flex-direction:column; }
         .ambulance-care__actions a { text-align:center; }
-        .ambulance-care__visual { min-height:240px; padding:11px; }
+        .ambulance-care__visual { min-height:240px; height:240px; }
+        .ambulance-care__visual img { height:240px; }
         .ambulance-care__visual-tag { right:8px; bottom:8px; padding:8px 9px; font-size:7px; }
         .ambulance-care__intro h2 { font-size:22px; }
         .ambulance-care__checklist { padding:19px 16px; }
@@ -14701,25 +14573,12 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
     .newborn-page__promise strong { color:#fff5e7; font-size:10px; }
     .newborn-page__visual {
         position:relative;
-        display:flex;
-        align-items:center;
-        justify-content:center;
         min-height:438px;
-        padding:20px;
+        overflow:hidden;
+        padding:0;
         background:#eddcc9;
     }
-    .newborn-page__visual::before {
-        position:absolute;
-        top:12%;
-        left:12%;
-        width:270px;
-        height:270px;
-        border:1px solid rgba(255,255,255,.8);
-        border-radius:50%;
-        box-shadow:0 0 0 24px rgba(255,255,255,.21);
-        content:"";
-    }
-    .newborn-page__visual img { position:relative; z-index:1; display:block; width:100%; max-width:475px; height:auto; }
+    .newborn-page__visual img { position:absolute; inset:0; z-index:1; display:block; width:100%; height:100%; object-fit:cover; object-position:center 40%; }
     .newborn-page__visual-note {
         position:absolute;
         z-index:2;
@@ -14879,8 +14738,8 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
         .newborn-page__hero { grid-template-columns:minmax(0,1fr); }
         .newborn-page__copy { padding:27px 23px; }
         .newborn-page__copy h2 { font-size:29px; }
-        .newborn-page__visual { min-height:300px; }
-        .newborn-page__visual img { max-width:440px; }
+        .newborn-page__visual { min-height:300px; height:300px; }
+        .newborn-page__visual img { height:300px; }
         .newborn-page__intro { grid-template-columns:minmax(0,1fr); gap:11px; padding:36px 3px 21px; }
         .newborn-page__intro h2 { font-size:24px; }
         .newborn-page__routines { grid-template-columns:minmax(0,1fr); gap:9px; }
@@ -14898,7 +14757,8 @@ header { margin:0px auto; padding:15px 0;background-color:#fff }
         .newborn-page__copy > p { font-size:11px; }
         .newborn-page__actions { align-items:stretch; flex-direction:column; }
         .newborn-page__actions a { text-align:center; }
-        .newborn-page__visual { min-height:240px; padding:10px; }
+        .newborn-page__visual { min-height:240px; height:240px; }
+        .newborn-page__visual img { height:240px; }
         .newborn-page__visual-note { right:8px; bottom:8px; padding:8px 9px; font-size:7px; }
         .newborn-page__intro h2 { font-size:22px; }
         .newborn-page__plan { padding:19px 16px; }

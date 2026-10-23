@@ -216,7 +216,7 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
     <div class="container">
         <section class="elder-home__hero">
             <div class="elder-home__photo">
-                <img src="images/elder-care-at-home.svg" alt="An older adult sharing a relaxed moment with a family caregiver at home">
+                <img src="images/Dementia Care.png" alt="Care professional sharing a reassuring moment with an older adult at home">
                 <div class="elder-home__photo-note"><i class="fa fa-leaf" aria-hidden="true"></i><span>Familiar surroundings.<br>Personal support.</span></div>
             </div>
             <div class="elder-home__story">

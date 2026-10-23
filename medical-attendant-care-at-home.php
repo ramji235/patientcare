@@ -216,7 +216,7 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
     <div class="container">
         <section class="attendant-care__hero">
             <div class="attendant-care__visual">
-                <img src="images/attendant-care-home.svg" alt="A home care attendant walking alongside an older adult using a cane">
+                <img src="images/HOME ATTENDANT.webp" alt="Home care attendant offering support to an older adult using a wheelchair">
                 <div class="attendant-care__visual-tag"><i class="fa fa-home" aria-hidden="true"></i> EVERYDAY SUPPORT AT HOME</div>
             </div>
             <div class="attendant-care__copy">

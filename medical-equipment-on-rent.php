@@ -259,7 +259,7 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
                 <div class="equipment-rent__note"><i class="fa fa-stethoscope" aria-hidden="true"></i> Equipment type and use should be guided by the treating professional.</div>
             </div>
             <div class="equipment-rent__visual">
-                <img src="images/home-medical-equipment-rental.svg" alt="Illustrated hospital bed, wheelchair, oxygen concentrator and monitoring equipment for home care">
+                <img src="images/med.png" alt="Medical equipment available for home care, including mobility and monitoring devices">
                 <div class="equipment-rent__visual-stamp"><span>HOME<br>CARE</span><i class="fa fa-plus" aria-hidden="true"></i></div>
             </div>
         </section>

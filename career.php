@@ -169,7 +169,7 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
                 <div class="careers-page__note"><i class="fa fa-info-circle" aria-hidden="true"></i> Openings, locations, and role requirements vary; please ask the team for current details.</div>
             </div>
             <div class="careers-page__visual">
-                <img src="images/careers-home-health-team.svg" alt="Home healthcare professionals meet and coordinate care as a team">
+                <img src="https://img.magnific.com/free-photo/team-doctors-walking-row_107420-84770.jpg?semt=ais_hybrid&w=740&q=80" alt="Home healthcare professional ready to support patients and families">
                 <div class="careers-page__visual-label"><i class="fa fa-users" aria-hidden="true"></i><span>COMPASSION<br>IN ACTION</span></div>
             </div>
         </section>

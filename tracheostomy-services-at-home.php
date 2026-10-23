@@ -18,6 +18,112 @@
 <link href="style/media_screen.css" rel="stylesheet">
 <script src="use.fontawesome.com/c5be872b61.html"></script>
 <link rel="stylesheet" href="../maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" type="text/css">
+<style>
+    .tracheostomy-title {
+        position:relative;
+        overflow:hidden;
+        padding:52px 0 46px;
+        color:#fff;
+        background:linear-gradient(115deg,#103b58 0%,#087d79 100%);
+    }
+    .tracheostomy-title::after {
+        position:absolute;
+        top:-125px;
+        right:-55px;
+        width:360px;
+        height:360px;
+        border:1px solid rgba(255,255,255,.14);
+        border-radius:50%;
+        content:"";
+    }
+    .tracheostomy-title .container { position:relative; z-index:1; }
+    .tracheostomy-title .container > span {
+        display:block;
+        margin-bottom:10px;
+        color:#bce9dc;
+        font-size:12px;
+        font-weight:700;
+        letter-spacing:1.4px;
+    }
+    .tracheostomy-title h1 {
+        margin:0 0 13px;
+        color:#fff;
+        font-family:'Roboto',sans-serif;
+        font-size:38px;
+        font-weight:700;
+        line-height:1.2;
+    }
+    .tracheostomy-title .breadcrumb { margin:0; padding:0; background:transparent; }
+    .tracheostomy-title .breadcrumb li,
+    .tracheostomy-title .breadcrumb li a { color:#eaf5f5; font-size:14px; }
+    .tracheostomy-title .breadcrumb > li + li::before { color:#bce9dc; }
+    .tracheostomy-support { margin:0; padding:44px 0 58px; background:#f4f8f8; }
+    .tracheostomy-support__showcase {
+        display:grid;
+        grid-template-columns:minmax(0,.92fr) minmax(0,1.08fr);
+        align-items:stretch;
+        gap:0;
+        overflow:hidden;
+        background:#fff;
+        border:1px solid #e2ebeb;
+        border-radius:16px;
+        box-shadow:0 18px 45px rgba(18,52,81,.11);
+    }
+    .tracheostomy-support__visual { position:relative; min-height:510px; overflow:hidden; background:#dbe9e7; }
+    .tracheostomy-support__visual img { display:block; width:100%; height:100%; min-height:510px; object-fit:cover; object-position:42% center; }
+    .tracheostomy-support__visual::after { position:absolute; inset:35% 0 0; content:""; background:linear-gradient(180deg,transparent,rgba(10,35,50,.72)); }
+    .tracheostomy-support__visual-note { position:absolute; right:24px; bottom:24px; left:24px; z-index:1; padding:17px 19px; color:#fff; background:rgba(16,59,88,.9); border-left:3px solid #9cddc9; border-radius:8px; }
+    .tracheostomy-support__visual-note strong { display:block; margin-bottom:4px; color:#c9f0e4; font-size:15px; }
+    .tracheostomy-support__visual-note span { display:block; font-size:13px; line-height:1.6; }
+    .tracheostomy-support__panel { padding:36px 34px 30px; }
+    .tracheostomy-support__eyebrow { display:block; margin-bottom:9px; color:#087c76; font-size:11px; font-weight:700; letter-spacing:1.2px; }
+    .tracheostomy-support__panel h2 { margin:0 0 12px; color:#123451; font-family:'Roboto',sans-serif; font-size:29px; font-weight:700; line-height:1.25; }
+    .tracheostomy-support__panel > p { margin:0 0 23px; color:#526477; font-size:14px; line-height:1.8; }
+    .tracheostomy-support__list { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:12px; }
+    .tracheostomy-support__item { min-width:0; padding:15px 15px 14px; background:#f4f8f8; border:1px solid #e5eeee; border-radius:9px; }
+    .tracheostomy-support__item h3 { margin:0 0 6px; color:#123451; font-size:15px; font-weight:700; line-height:1.4; }
+    .tracheostomy-support__item p { margin:0; color:#526477; font-size:12px; line-height:1.65; }
+    .tracheostomy-support__feature { display:grid; grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr); gap:38px; align-items:center; margin-top:50px; }
+    .tracheostomy-support__feature-visual { position:relative; min-height:360px; overflow:hidden; border-radius:14px; background:#dbe9e7; box-shadow:0 14px 32px rgba(18,52,81,.12); }
+    .tracheostomy-support__feature-visual img { display:block; width:100%; height:360px; object-fit:cover; }
+    .tracheostomy-support__feature-visual span { position:absolute; right:14px; bottom:14px; left:14px; padding:12px 15px; color:#fff; background:rgba(16,59,88,.9); border-radius:7px; font-size:13px; font-weight:600; }
+    .tracheostomy-support__feature-eyebrow { display:block; margin-bottom:9px; color:#087c76; font-size:11px; font-weight:700; letter-spacing:1.1px; }
+    .tracheostomy-support__feature-copy h2 { margin:0 0 13px; color:#123451; font-family:'Roboto',sans-serif; font-size:27px; font-weight:700; line-height:1.3; }
+    .tracheostomy-support__feature-copy > p { margin:0 0 12px; color:#526477; font-size:14px; line-height:1.8; }
+    .tracheostomy-support__feature-aside { margin-top:18px; padding:18px 20px; background:#e8f3f1; border-left:3px solid #13877e; border-radius:8px; }
+    .tracheostomy-support__feature-aside h3 { margin:0 0 8px; color:#123451; font-size:15px; font-weight:700; }
+    .tracheostomy-support__feature-aside ul { margin:0; padding-left:19px; color:#526477; font-size:13px; line-height:1.75; }
+    .tracheostomy-support__contact { display:flex; align-items:center; justify-content:space-between; gap:25px; margin-top:42px; padding:25px 28px; color:#fff; background:linear-gradient(110deg,#103b58,#087d79); border-radius:13px; }
+    .tracheostomy-support__contact > div:first-child > span { display:block; margin-bottom:7px; color:#bce9dc; font-size:11px; font-weight:700; letter-spacing:1px; }
+    .tracheostomy-support__contact h2 { margin:0 0 7px; color:#fff; font-size:21px; font-weight:700; }
+    .tracheostomy-support__contact p { margin:0; color:#e5f1f1; font-size:13px; line-height:1.6; }
+    .tracheostomy-support__contact > div:last-child { display:flex; flex-shrink:0; flex-wrap:wrap; gap:10px; }
+    .tracheostomy-support__contact > div:last-child a { display:inline-flex; min-height:43px; align-items:center; justify-content:center; gap:8px; padding:10px 15px; color:#123451; background:#c5ecdf; border-radius:6px; font-size:13px; font-weight:700; text-decoration:none; }
+    .tracheostomy-support__contact > div:last-child a + a { color:#fff; background:transparent; border:1px solid rgba(255,255,255,.65); }
+    .tracheostomy-support__contact > div:last-child a:hover { opacity:.88; text-decoration:none; }
+    @media (max-width:900px) {
+        .tracheostomy-support__panel { padding:28px 24px; }
+        .tracheostomy-support__panel h2 { font-size:25px; }
+        .tracheostomy-support__list { gap:9px; }
+        .tracheostomy-support__feature { gap:25px; }
+        .tracheostomy-support__contact { align-items:flex-start; flex-direction:column; }
+    }
+    @media (max-width:767px) {
+        .tracheostomy-title { padding:38px 0 34px; }
+        .tracheostomy-title h1 { font-size:30px; }
+        .tracheostomy-support { padding:26px 0 40px; }
+        .tracheostomy-support__showcase,.tracheostomy-support__feature { grid-template-columns:minmax(0,1fr); }
+        .tracheostomy-support__visual,.tracheostomy-support__visual img { min-height:280px; height:280px; }
+        .tracheostomy-support__panel { padding:25px 20px 21px; }
+        .tracheostomy-support__panel h2 { font-size:24px; }
+        .tracheostomy-support__list { grid-template-columns:minmax(0,1fr); }
+        .tracheostomy-support__feature { gap:23px; margin-top:34px; }
+        .tracheostomy-support__feature-visual,.tracheostomy-support__feature-visual img { min-height:280px; height:280px; }
+        .tracheostomy-support__feature-copy h2 { font-size:23px; }
+        .tracheostomy-support__contact { margin-top:30px; padding:22px 20px; }
+        .tracheostomy-support__contact h2 { font-size:19px; }
+    }
+</style>
 </head>
 <body>
 <a href="tel:7668066607" id="callnowbutton"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNjAgNjAiPjxwYXRoIGQ9Ik03LjEwNCAxNC4wMzJsMTUuNTg2IDEuOTg0YzAgMC0wLjAxOSAwLjUgMCAwLjk1M2MwLjAyOSAwLjc1Ni0wLjI2IDEuNTM0LTAuODA5IDIuMSBsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDE2LjUgMTcuNCAxOS44IDE5LjhsMTYuODEzIDEuMTQxYzAgMCAwIDAuNCAwIDEuMSBjLTAuMDAyIDAuNDc5LTAuMTc2IDAuOTUzLTAuNTQ5IDEuMzI3bC02LjUwNCA2LjUwNWMwIDAtMTEuMjYxIDAuOTg4LTI1LjkyNS0xMy42NzRDNi4xMTcgMjUuMyA3LjEgMTQgNy4xIDE0IiBmaWxsPSIjMDA2NzAwIi8+PHBhdGggZD0iTTcuMTA0IDEzLjAzMmw2LjUwNC02LjUwNWMwLjg5Ni0wLjg5NSAyLjMzNC0wLjY3OCAzLjEgMC4zNWw1ijtggYzAuNzM4IDEgMC41IDIuNTMxLTAuMzYgMy40MjZsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDUuMyA2LjkgOS4xIDEwLjY5OWMzLjg0MiAzLjggNy40IDYuNyAxMC43IDkuMSBsNC43NC00Ljc0MmMwLjg5Ny0wLjg5NSAyLjQ3MS0xLjAyNiAzLjQ5OC0wLjI4OWw3LjY0NiA1LjQ1NWMxLjAyNSAwLjcgMS4zIDIuMiAwLjQgMy4xMDVsLTYuNTA0IDYuNSBjMCAwLTExLjI2MiAwLjk4OC0yNS45MjUtMTMuNjc0QzYuMTE3IDI0LjMgNy4xIDEzIDcuMSAxMyIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg=="width="40"> Click To Call +91 7668066607 </a>
@@ -101,35 +207,42 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
 <div class="content tracheostomy-support">
     <div class="container">
         <section class="tracheostomy-support__showcase">
-            <div class="tracheostomy-support__spacer" aria-hidden="true"></div>
+            <div class="tracheostomy-support__visual">
+                <img src="images/banner/slide1.jpg" alt="Nurse providing attentive in-home care to an older adult">
+                <div class="tracheostomy-support__visual-note">
+                    <strong>Care planned around the individual</strong>
+                    <span>Home nursing support discussed with the patient's care plan and family in mind.</span>
+                </div>
+            </div>
             <div class="tracheostomy-support__panel">
-                <h2>Home nursing support for<br>tracheostomy care</h2>
-                <p>Tracheostomy care should follow the treating team's written instructions and be provided by appropriately trained staff. Share the prescribed care tasks, equipment, location, and schedule so we can discuss the request and check service availability.</p>
+                <span class="tracheostomy-support__eyebrow">PERSONALISED HOME NURSING SUPPORT</span>
+                <h2>Tracheostomy care at home, planned with confidence.</h2>
+                <p>Supporting someone with a tracheostomy at home takes thoughtful coordination. Tell us about the treating team's current instructions, required support, equipment, and preferred schedule. We can discuss the request and check availability before any arrangement is confirmed.</p>
 
                 <div class="tracheostomy-support__list">
                     <article class="tracheostomy-support__item">
-                        <h3>Follow the care plan</h3>
-                        <p>Keep the current written instructions from the patient's treating professionals available and discuss which support tasks are required.</p>
+                        <h3><i class="fa fa-file-text-o" aria-hidden="true"></i> Start with the care plan</h3>
+                        <p>Keep the latest written instructions from the treating team ready and identify the support tasks requested.</p>
                     </article>
                     <article class="tracheostomy-support__item">
-                        <h3>Confirm training</h3>
-                        <p>Before arranging support, discuss the experience and training required for the prescribed tasks and service hours.</p>
+                        <h3><i class="fa fa-user-md" aria-hidden="true"></i> Discuss staff requirements</h3>
+                        <p>Talk through the experience and training relevant to the prescribed care tasks and requested hours.</p>
                     </article>
                     <article class="tracheostomy-support__item">
-                        <h3>Prepare the home</h3>
-                        <p>Explain what equipment and supplies have been prescribed or arranged, where they will be kept, and any access needs.</p>
+                        <h3><i class="fa fa-medkit" aria-hidden="true"></i> Prepare equipment details</h3>
+                        <p>Share what equipment and supplies have been arranged, along with any practical access considerations.</p>
                     </article>
                     <article class="tracheostomy-support__item">
-                        <h3>Make handovers clear</h3>
-                        <p>Choose a family contact and agree how routine updates, shift handovers, and changes will be communicated.</p>
+                        <h3><i class="fa fa-comments-o" aria-hidden="true"></i> Keep communication clear</h3>
+                        <p>Choose a family contact and discuss how routine updates and handovers should be shared.</p>
                     </article>
                     <article class="tracheostomy-support__item">
-                        <h3>Know the emergency plan</h3>
-                        <p>Ask the treating team for patient-specific instructions and make sure family members know how to access them.</p>
+                        <h3><i class="fa fa-heartbeat" aria-hidden="true"></i> Know the escalation plan</h3>
+                        <p>Ask the treating team for patient-specific guidance and make sure it is easy for the family to find.</p>
                     </article>
                     <article class="tracheostomy-support__item">
-                        <h3>Starting an enquiry</h3>
-                        <p>Share the patient's location, care instructions, equipment list, and preferred schedule to discuss the next step.</p>
+                        <h3><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Plan a suitable schedule</h3>
+                        <p>Share the care location and preferred hours so the request and local availability can be discussed.</p>
                     </article>
                 </div>
             </div>

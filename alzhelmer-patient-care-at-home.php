@@ -275,7 +275,7 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
                 <div class="memory-care__note"><i class="fa fa-heart" aria-hidden="true"></i> A calm approach, guided by what feels familiar and reassuring.</div>
             </div>
             <div class="memory-care__visual">
-                <img src="images/alzheimers-care-at-home.svg" alt="An older adult and family caregiver sharing a calm moment at home">
+                <img src="images/Dementia Care.png" alt="Care professional sharing a calm, reassuring moment with an older adult">
                 <div class="memory-care__visual-label"><i class="fa fa-leaf" aria-hidden="true"></i><span>FAMILIAR MOMENTS,<br>GENTLE SUPPORT</span></div>
             </div>
         </section>
