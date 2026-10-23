@@ -80,6 +80,112 @@
         content: "/\00a0";
         padding: 0 5px;
     }
+    .credentials-reading {
+        margin: 24px 0 0;
+        padding: 30px 34px;
+        border: 1px solid #e5e1d8;
+        border-radius: 12px;
+        background: #fff;
+    }
+    .credentials-reading__heading {
+        display: grid;
+        grid-template-columns: minmax(0, .82fr) minmax(0, 1.18fr);
+        gap: 34px;
+        align-items: end;
+        padding-bottom: 21px;
+        border-bottom: 1px solid #e9e7e0;
+    }
+    .credentials-reading__heading > div > span {
+        color: #96724e;
+        font-size: 9px;
+        font-weight: 700;
+        letter-spacing: 1.5px;
+    }
+    .credentials-reading__heading h2 {
+        margin: 9px 0 0;
+        color: #30434b;
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: 28px;
+        line-height: 1.2;
+    }
+    .credentials-reading__heading > p,
+    .credentials-reading__passage p {
+        margin: 0;
+        color: #6f7b7e;
+        font-size: 11px;
+        line-height: 1.9;
+    }
+    .credentials-reading__body {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) 220px;
+        gap: 35px;
+        padding-top: 22px;
+    }
+    .credentials-reading__passages article {
+        display: grid;
+        grid-template-columns: 90px minmax(0, 1fr);
+        gap: 17px;
+        padding: 0 0 18px;
+        border-bottom: 1px solid #efede8;
+    }
+    .credentials-reading__passages article + article { padding-top: 18px; }
+    .credentials-reading__passages article:last-child { padding-bottom: 0; border: 0; }
+    .credentials-reading__passages article > span {
+        padding-top: 3px;
+        color: #a1825c;
+        font-size: 8px;
+        font-weight: 700;
+        letter-spacing: 1px;
+        line-height: 1.6;
+    }
+    .credentials-reading__passage h3 {
+        margin: 0 0 7px;
+        color: #354b51;
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: 18px;
+        line-height: 1.35;
+    }
+    .credentials-reading__passage p + p { margin-top: 9px; }
+    .credentials-reading__aside {
+        align-self: start;
+        padding: 19px 18px;
+        border-left: 3px solid #b28b60;
+        background: #f4f1e9;
+    }
+    .credentials-reading__aside > span {
+        color: #96724e;
+        font-size: 8px;
+        font-weight: 700;
+        letter-spacing: 1.2px;
+    }
+    .credentials-reading__aside h3 {
+        margin: 9px 0 8px;
+        color: #354b51;
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: 19px;
+        line-height: 1.35;
+    }
+    .credentials-reading__aside p {
+        margin: 0;
+        color: #6f7b7e;
+        font-size: 10px;
+        line-height: 1.85;
+    }
+    @media screen and (max-width: 767px) {
+        .credentials-reading { padding: 24px 21px; }
+        .credentials-reading__heading { grid-template-columns: minmax(0, 1fr); gap: 11px; }
+        .credentials-reading__body { grid-template-columns: minmax(0, 1fr); gap: 20px; }
+        .credentials-reading__aside { max-width: none; }
+    }
+    @media screen and (max-width: 480px) {
+        .credentials-reading { padding: 20px 15px; }
+        .credentials-reading__heading h2 { font-size: 24px; }
+        .credentials-reading__heading > p,
+        .credentials-reading__passage p { font-size: 12px; }
+        .credentials-reading__passages article { grid-template-columns: minmax(0, 1fr); gap: 5px; }
+        .credentials-reading__passages article + article { padding-top: 15px; }
+        .credentials-reading__passage h3 { font-size: 17px; }
+    }
 </style>
 <a href="tel:7668066607" id="callnowbutton"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNjAgNjAiPjxwYXRoIGQ9Ik03LjEwNCAxNC4wMzJsMTUuNTg2IDEuOTg0YzAgMC0wLjAxOSAwLjUgMCAwLjk1M2MwLjAyOSAwLjc1Ni0wLjI2IDEuNTM0LTAuODA5IDIuMSBsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDE2LjUgMTcuNCAxOS44IDE5LjhsMTYuODEzIDEuMTQxYzAgMCAwIDAuNCAwIDEuMSBjLTAuMDAyIDAuNDc5LTAuMTc2IDAuOTUzLTAuNTQ5IDEuMzI3bC02LjUwNCA2LjUwNWMwIDAtMTEuMjYxIDAuOTg4LTI1LjkyNS0xMy42NzRDNi4xMTcgMjUuMyA3LjEgMTQgNy4xIDE0IiBmaWxsPSIjMDA2NzAwIi8+PHBhdGggZD0iTTcuMTA0IDEzLjAzMmw2LjUwNC02LjUwNWMwLjg5Ni0wLjg5NSAyLjMzNC0wLjY3OCAzLjEgMC4zNWw1ijtggYzAuNzM4IDEgMC41IDIuNTMxLTAuMzYgMy40MjZsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDUuMyA2LjkgOS4xIDEwLjY5OWMzLjg0MiAzLjggNy40IDYuNyAxMC43IDkuMSBsNC43NC00Ljc0MmMwLjg5Ny0wLjg5NSAyLjQ3MS0xLjAyNiAzLjQ5OC0wLjI4OWw3LjY0NiA1LjQ1NWMxLjAyNSAwLjcgMS4zIDIuMiAwLjQgMy4xMDVsLTYuNTA0IDYuNSBjMCAwLTExLjI2MiAwLjk4OC0yNS45MjUtMTMuNjc0QzYuMTE3IDI0LjMgNy4xIDEzIDcuMSAxMyIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg=="width="40"> Click To Call +91 7668066607 </a>
 	 <style>
@@ -178,6 +284,49 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
         <section class="credentials-page__intro">
             <div><span>WHAT TO CLARIFY BEFORE CARE STARTS</span><h2>Focus on the role, not just a document title.</h2></div>
             <p>A certificate alone does not define a person's scope of practice or guarantee a particular service outcome. Ask how the proposed role relates to the support requested, and direct clinical questions to the appropriate healthcare professional.</p>
+        </section>
+
+        <section class="credentials-reading" aria-labelledby="credentials-reading-title">
+            <header class="credentials-reading__heading">
+                <div>
+                    <span>A FAMILY GUIDE TO ROLE CLARITY</span>
+                    <h2 id="credentials-reading-title">Read the document in the context of the care.</h2>
+                </div>
+                <p>When a family sees a certificate or training record, it is natural to wonder what it means for the person coming into the home. The most useful discussion connects the document to the actual service: who will provide support, what they are expected to do, and where another professional should be involved.</p>
+            </header>
+            <div class="credentials-reading__body">
+                <div class="credentials-reading__passages">
+                    <article>
+                        <span>FIRST, THE ROLE</span>
+                        <div class="credentials-reading__passage">
+                            <h3>A title should lead to a clear description of duties.</h3>
+                            <p>Care at home can involve different kinds of support, and similar-sounding titles do not necessarily mean that two people have the same responsibilities. Ask the coordinator to explain the proposed role in plain language: what help is planned during an ordinary visit, which tasks are not part of the service, and who is responsible for decisions that require clinical assessment.</p>
+                            <p>It can help to describe the family's practical needs before discussing a document. For example, explain the routines or assistance required and ask whether those needs fit the service being arranged. If a task is unclear, agree on who will answer it before care starts rather than relying on an assumption.</p>
+                        </div>
+                    </article>
+                    <article>
+                        <span>THEN, THE RECORD</span>
+                        <div class="credentials-reading__passage">
+                            <h3>Ask what a document confirms—and what it does not.</h3>
+                            <p>If role-related training or qualification documents are available to review, ask what they refer to, who issued them, and whether there is a way to confirm the details with the relevant issuer. The care provider can explain what information it is able to share and how it handles a request. A document's name by itself should not be treated as proof of every skill, permission, or responsibility a family may have in mind.</p>
+                            <p>Keep the conversation specific and respectful. You can ask how experience relates to the support requested without asking the caregiver to make a diagnosis, interpret a treatment plan, or take on duties outside the agreed role.</p>
+                        </div>
+                    </article>
+                    <article>
+                        <span>BEFORE CARE BEGINS</span>
+                        <div class="credentials-reading__passage">
+                            <h3>Turn answers into shared expectations.</h3>
+                            <p>Once the role has been discussed, confirm practical arrangements with the coordinator: the service being provided, the expected duties, the family contact for routine questions, and the route for raising a concern or reporting a change in needs. If clinical instructions are relevant, ask which qualified professional should provide or clarify them and how updates will be communicated.</p>
+                            <p>Families may also want to know what happens if the planned support no longer matches the person's needs. Agree on whom to contact and what information to share, while keeping medical records and sensitive documents out of general enquiry forms unless the provider gives a suitable, secure process.</p>
+                        </div>
+                    </article>
+                </div>
+                <aside class="credentials-reading__aside">
+                    <span>KEEP THIS DISTINCTION</span>
+                    <h3>Documents inform the conversation; they do not replace it.</h3>
+                    <p>Confirm the proposed worker's role and any available credentials directly with the care provider. Diagnosis, treatment, and clinical instructions should come from the patient's qualified healthcare professional.</p>
+                </aside>
+            </div>
         </section>
 
         <section class="credentials-page__questions" aria-label="Questions about care team credentials">

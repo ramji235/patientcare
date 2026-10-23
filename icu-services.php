@@ -140,6 +140,30 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
             </div>
         </section>
 
+        <section class="icu-home-care__story">
+            <div class="icu-home-care__story-header">
+                <span>WHY HOME ICU CARE IS PLANNED CAREFULLY</span>
+                <h2>Support at home works best when it is structured, monitored, and clinically guided.</h2>
+            </div>
+            <div class="icu-home-care__story-grid">
+                <div class="icu-home-care__story-copy">
+                    <p>Home ICU support is not a general service request; it is a carefully considered arrangement that depends on the patient’s medical condition, the treatment plan, and whether the home environment can support the prescribed care safely. In some situations, support may be arranged after discharge when a patient still needs close monitoring, equipment, and trained assistance during recovery.</p>
+                    <p>For families, the goal is to reduce stress while keeping the patient comfortable, monitored, and supported in a familiar setting. That means having the right care plan, understanding the equipment involved, and confirming who will coordinate updates between the family, the care team, and the treating physician. A clear plan helps make home care practical while reducing confusion in an already sensitive situation.</p>
+                    <p>Careright focuses on careful communication at the beginning of the enquiry so the home care setup fits the patient's clinical needs and the family’s day-to-day routine. We help families understand what needs to be prepared, what information should be shared, and how the service can align with instructions from the hospital or treating healthcare provider.</p>
+                </div>
+                <div class="icu-home-care__story-points">
+                    <h3>Common considerations include:</h3>
+                    <ul>
+                        <li>Clinical instructions and equipment recommended by the treating team.</li>
+                        <li>Patient monitoring requirements during the prescribed recovery period.</li>
+                        <li>Home access, space, and safety arrangements for medical devices.</li>
+                        <li>Availability of family support and communication between care contacts.</li>
+                        <li>Emergency response planning when symptoms change suddenly.</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
         <section class="icu-home-care__safety">
             <div class="icu-home-care__safety-mark"><i class="fa fa-stethoscope" aria-hidden="true"></i></div>
             <div>

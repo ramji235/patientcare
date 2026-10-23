@@ -80,6 +80,79 @@
         content: "/\00a0";
         padding: 0 5px;
     }
+    .home-care-overview__story {
+        display: grid;
+        grid-template-columns: minmax(0, 1.55fr) minmax(220px, .65fr);
+        gap: 32px;
+        align-items: start;
+        margin-top: 30px;
+    }
+    .home-care-overview__story-copy {
+        padding: 8px 5px;
+    }
+    .home-care-overview__story-copy > span {
+        color: #668579;
+        font-size: 9px;
+        font-weight: 700;
+        letter-spacing: 1.5px;
+    }
+    .home-care-overview__story-copy h2 {
+        margin: 9px 0 12px;
+        color: #304b5b;
+        font-size: 27px;
+        font-weight: 700;
+        line-height: 1.3;
+    }
+    .home-care-overview__story-copy p {
+        margin: 0 0 13px;
+        color: #63716e;
+        font-size: 12px;
+        line-height: 1.9;
+    }
+    .home-care-overview__story-copy p:last-child { margin-bottom: 0; }
+    .home-care-overview__story-aside {
+        padding: 22px 20px;
+        color: #fff;
+        background: #304b5b;
+        border-radius: 2px 20px 2px 2px;
+    }
+    .home-care-overview__story-aside i {
+        color: #efc579;
+        font-size: 20px;
+    }
+    .home-care-overview__story-aside h3 {
+        margin: 12px 0 8px;
+        color: #fff;
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 1.4;
+    }
+    .home-care-overview__story-aside p {
+        margin: 0;
+        color: #dbe4e8;
+        font-size: 11px;
+        line-height: 1.85;
+    }
+    .home-care-overview__story-aside blockquote {
+        margin: 17px 0 0;
+        padding: 12px 0 0;
+        color: #efc579;
+        border-top: 1px solid rgba(255,255,255,.2);
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 1.75;
+    }
+    @media screen and (max-width: 767px) {
+        .home-care-overview__story { grid-template-columns: minmax(0, 1fr); gap: 16px; margin-top: 24px; }
+        .home-care-overview__story-copy { padding: 0 3px; }
+        .home-care-overview__story-copy h2 { font-size: 24px; }
+    }
+    @media screen and (max-width: 480px) {
+        .home-care-overview__story-copy h2 { font-size: 21px; }
+        .home-care-overview__story-copy p,
+        .home-care-overview__story-aside p { font-size: 12px; line-height: 1.8; }
+        .home-care-overview__story-aside { padding: 18px 16px; }
+    }
 </style>
 <a href="tel:7668066607" id="callnowbutton"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNjAgNjAiPjxwYXRoIGQ9Ik03LjEwNCAxNC4wMzJsMTUuNTg2IDEuOTg0YzAgMC0wLjAxOSAwLjUgMCAwLjk1M2MwLjAyOSAwLjc1Ni0wLjI2IDEuNTM0LTAuODA5IDIuMSBsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDE2LjUgMTcuNCAxOS44IDE5LjhsMTYuODEzIDEuMTQxYzAgMCAwIDAuNCAwIDEuMSBjLTAuMDAyIDAuNDc5LTAuMTc2IDAuOTUzLTAuNTQ5IDEuMzI3bC02LjUwNCA2LjUwNWMwIDAtMTEuMjYxIDAuOTg4LTI1LjkyNS0xMy42NzRDNi4xMTcgMjUuMyA3LjEgMTQgNy4xIDE0IiBmaWxsPSIjMDA2NzAwIi8+PHBhdGggZD0iTTcuMTA0IDEzLjAzMmw2LjUwNC02LjUwNWMwLjg5Ni0wLjg5NSAyLjMzNC0wLjY3OCAzLjEgMC4zNWw1ijtggYzAuNzM4IDEgMC41IDIuNTMxLTAuMzYgMy40MjZsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDUuMyA2LjkgOS4xIDEwLjY5OWMzLjg0MiAzLjggNy40IDYuNyAxMC43IDkuMSBsNC43NC00Ljc0MmMwLjg5Ny0wLjg5NSAyLjQ3MS0xLjAyNiAzLjQ5OC0wLjI4OWw3LjY0NiA1LjQ1NWMxLjAyNSAwLjcgMS4zIDIuMiAwLjQgMy4xMDVsLTYuNTA0IDYuNSBjMCAwLTExLjI2MiAwLjk4OC0yNS45MjUtMTMuNjc0QzYuMTE3IDI0LjMgNy4xIDEzIDcuMSAxMyIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg=="width="40"> Click To Call +91 7668066607 </a>
 	 <style>
@@ -209,6 +282,23 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
                 <p>Discuss baby care or support for a particular condition, keeping clinical guidance at the centre.</p>
                 <a href="services.php">Explore care services <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             </article>
+        </section>
+
+        <section class="home-care-overview__story" aria-labelledby="home-care-overview-story-title">
+            <article class="home-care-overview__story-copy">
+                <span>HOME CARE IS A CONVERSATION, NOT A CHECKLIST</span>
+                <h2 id="home-care-overview-story-title">Start with the person. Build the support around them.</h2>
+                <p>Choosing home care often begins with a change in everyday life: someone needs more help getting through their routine, a family caregiver needs support, or a healthcare professional has recommended care at home. There is no single service plan that suits every household. A useful first step is to describe what is happening, listen to what the person wants, and identify where assistance would genuinely make the day easier.</p>
+                <p>Home nursing and attendant support have different responsibilities. Nursing needs and clinical instructions should be discussed with qualified healthcare professionals, while an attendant arrangement focuses on agreed non-clinical daily support. Older adults, people returning home after a stay in hospital, and families caring for a baby may each have very different routines and questions. Explaining the circumstances helps the care team discuss which type of service may be relevant without assuming that one kind of care covers everything.</p>
+                <p>The home environment and family schedule matter too. The service location, preferred days and hours, mobility or access considerations, equipment already in use, and the family member who will coordinate communication can all shape a practical discussion. Share only the information needed to explain the request, and keep current clinical guidance with the patient's treating team. If professional instructions apply to daily support, make sure they are clearly understood before arranging a task.</p>
+                <p>Before confirming any service, ask what duties are included, who will provide the care, how availability and timings are confirmed, how changes are communicated, and whom to contact with questions. Clear expectations help the person receiving support, their family, and the care team understand the arrangement. Care preferences can change, so it is sensible to revisit the plan when the person's routine or circumstances shift.</p>
+            </article>
+            <aside class="home-care-overview__story-aside">
+                <i class="fa fa-compass" aria-hidden="true"></i>
+                <h3>Not sure where to begin?</h3>
+                <p>Describe one ordinary day: what is going well, which moment feels difficult, what help the person welcomes, and when the family would like support. That gives the team a practical starting point for discussing suitable services and next steps.</p>
+                <blockquote>Good support begins by listening to the person who will receive it.</blockquote>
+            </aside>
         </section>
 
         <section class="home-care-overview__planning">

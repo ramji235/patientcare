@@ -80,6 +80,62 @@
         content: "/\00a0";
         padding: 0 5px;
     }
+    .attendant-care__passages {
+        margin-top: 35px;
+        padding: 29px 34px;
+        background: #fff;
+        border: 1px solid #eee5dc;
+        border-top: 3px solid #a56546;
+        box-shadow: 0 10px 28px rgba(88, 69, 62, .055);
+    }
+    .attendant-care__passages-header {
+        max-width: 790px;
+        margin-bottom: 20px;
+    }
+    .attendant-care__passages-header > span {
+        color: #a56546;
+        font-size: 9px;
+        font-weight: 700;
+        letter-spacing: 1.5px;
+    }
+    .attendant-care__passages-header h2 {
+        margin: 8px 0 10px;
+        color: #58453e;
+        font-size: 27px;
+        font-weight: 700;
+        line-height: 1.3;
+    }
+    .attendant-care__passages-header p,
+    .attendant-care__passage p {
+        color: #71645e;
+        font-size: 12px;
+        line-height: 1.9;
+    }
+    .attendant-care__passages-header p { margin: 0; }
+    .attendant-care__passage {
+        padding: 17px 0;
+        border-top: 1px solid #eee5dc;
+    }
+    .attendant-care__passage h3 {
+        margin: 0 0 7px;
+        color: #58453e;
+        font-size: 16px;
+        font-weight: 700;
+    }
+    .attendant-care__passage p { margin: 0 0 9px; }
+    .attendant-care__passage p:last-child { margin-bottom: 0; }
+    @media screen and (max-width: 767px) {
+        .attendant-care__passages { margin-top: 27px; padding: 23px 20px; }
+        .attendant-care__passages-header h2 { font-size: 24px; }
+        .attendant-care__passage { padding: 14px 0; }
+    }
+    @media screen and (max-width: 480px) {
+        .attendant-care__passages { padding: 20px 16px; }
+        .attendant-care__passages-header h2 { font-size: 22px; }
+        .attendant-care__passages-header p,
+        .attendant-care__passage p { font-size: 12px; line-height: 1.8; }
+        .attendant-care__passage h3 { font-size: 15px; }
+    }
 </style>
 <a href="tel:7668066607" id="callnowbutton"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNjAgNjAiPjxwYXRoIGQ9Ik03LjEwNCAxNC4wMzJsMTUuNTg2IDEuOTg0YzAgMC0wLjAxOSAwLjUgMCAwLjk1M2MwLjAyOSAwLjc1Ni0wLjI2IDEuNTM0LTAuODA5IDIuMSBsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDE2LjUgMTcuNCAxOS44IDE5LjhsMTYuODEzIDEuMTQxYzAgMCAwIDAuNCAwIDEuMSBjLTAuMDAyIDAuNDc5LTAuMTc2IDAuOTUzLTAuNTQ5IDEuMzI3bC02LjUwNCA2LjUwNWMwIDAtMTEuMjYxIDAuOTg4LTI1LjkyNS0xMy42NzRDNi4xMTcgMjUuMyA3LjEgMTQgNy4xIDE0IiBmaWxsPSIjMDA2NzAwIi8+PHBhdGggZD0iTTcuMTA0IDEzLjAzMmw2LjUwNC02LjUwNWMwLjg5Ni0wLjg5NSAyLjMzNC0wLjY3OCAzLjEgMC4zNWw1ijtggYzAuNzM4IDEgMC41IDIuNTMxLTAuMzYgMy40MjZsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDUuMyA2LjkgOS4xIDEwLjY5OWMzLjg0MiAzLjggNy40IDYuNyAxMC43IDkuMSBsNC43NC00Ljc0MmMwLjg5Ny0wLjg5NSAyLjQ3MS0xLjAyNiAzLjQ5OC0wLjI4OWw3LjY0NiA1LjQ1NWMxLjAyNSAwLjcgMS4zIDIuMiAwLjQgMy4xMDVsLTYuNTA0IDYuNSBjMCAwLTExLjI2MiAwLjk4OC0yNS45MjUtMTMuNjc0QzYuMTE3IDI0LjMgNy4xIDEzIDcuMSAxMyIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg=="width="40"> Click To Call +91 7668066607 </a>
 	 <style>
@@ -201,6 +257,39 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
                 <small>03 / COMPANIONSHIP</small>
                 <h3>Familiar company and family updates</h3>
                 <p>Agree on conversation, activities, and a family contact so everyday updates and schedule changes have a clear point of coordination.</p>
+            </article>
+        </section>
+
+        <section class="attendant-care__passages" aria-labelledby="attendant-care-passages-title">
+            <header class="attendant-care__passages-header">
+                <span>UNDERSTANDING HOME ATTENDANT CARE</span>
+                <h2 id="attendant-care-passages-title">Thoughtful support for everyday life at home</h2>
+                <p>When someone needs a little more help through the day, familiar surroundings and a considerate routine can make everyday tasks feel more manageable. Medical attendant care at home is non-clinical personal support, discussed with the individual and family and shaped around the assistance that is actually needed.</p>
+            </header>
+            <article class="attendant-care__passage">
+                <h3>Personal assistance with comfort and dignity</h3>
+                <p>Everyday activities that once felt simple can become tiring or difficult because of age, limited mobility, recovery, or a change in a person's circumstances. Depending on the needs discussed with the family, an attendant may provide practical help with getting ready, dressing, personal hygiene, meals, and other agreed daily routines. The purpose is to make the day easier while encouraging the person to do what they can comfortably do for themselves.</p>
+                <p>Personal care should always be approached with patience, respect, and sensitivity to privacy. Each person has their own preferences about how they start the day, what they like to eat, and how they want help to be offered. Sharing these preferences in advance helps establish a familiar routine and avoids making the person feel rushed or overlooked. Specific duties should be clearly agreed with the family and remain within the attendant's role.</p>
+            </article>
+            <article class="attendant-care__passage">
+                <h3>Mobility, meals, and a familiar daily routine</h3>
+                <p>Moving around the home, sitting down for a meal, or getting ready for an appointment may require extra time and assistance. Families can explain the person's usual routine, the areas of the home they use, and any mobility or access considerations. If a treating professional has provided guidance about safe movement or daily activities, share that guidance so that the planned support can be discussed appropriately. Changes to the home routine should be considered carefully rather than improvised.</p>
+                <p>Meal-related assistance can be part of an agreed daily routine, such as helping the person settle in for a meal or making everyday arrangements more manageable. Any prescribed diet, swallowing concern, or other health-related food instruction should be discussed with the person's healthcare professional; an attendant does not replace clinical or dietary advice. Keeping familiar mealtimes, rest periods, and preferred activities in mind can help support a calmer, more comfortable day.</p>
+            </article>
+            <article class="attendant-care__passage">
+                <h3>Companionship and reassurance for the family</h3>
+                <p>Good attendant support is not only about completing tasks. A friendly presence, conversation, and time for familiar interests can help a person feel more settled at home. Families can share topics, activities, and communication preferences that matter to the person, while also explaining when they would like updates. Support should follow the individual's comfort and wishes, without taking away their independence or making promises about clinical outcomes.</p>
+                <p>For relatives balancing work, travel, or other responsibilities, agreeing on a schedule and a clear family contact can make day-to-day coordination easier. Before care begins, discuss the expected hours, the attendant's agreed responsibilities, access to the home, and how routine changes or non-clinical observations will be communicated. Keeping these expectations clear helps the person, their family, and the attendant understand the plan.</p>
+            </article>
+            <article class="attendant-care__passage">
+                <h3>Support after a hospital stay or a change in circumstances</h3>
+                <p>Returning home after a hospital stay or adjusting to a new health or mobility challenge can bring changes to ordinary routines. Families may wish to discuss temporary or ongoing assistance with everyday activities while the person settles back into their home environment. The care plan should reflect what the person can manage, what help the family is requesting, and any instructions given by the treating team. Needs may change, so it is useful to review the agreed duties and schedule with the family when circumstances change.</p>
+                <p>Medical attendants provide practical, non-clinical support; they do not diagnose conditions, give medical advice, carry out nursing procedures, change treatment, or take the place of a qualified nurse. Medication management, wound care, clinical monitoring, and treatment decisions belong with qualified healthcare professionals. If you are unsure whether a requested task is appropriate, check with the treating team before including it in the attendant's duties.</p>
+            </article>
+            <article class="attendant-care__passage">
+                <h3>Planning care around the individual</h3>
+                <p>Before making an enquiry, it may help to note the person's location, preferred timings, daily routine, the specific activities where support would be useful, and any practical considerations such as stairs or home access. You can also share the family's preferred method of communication and who will coordinate changes. These details provide a helpful starting point for discussing a suitable arrangement; availability, timings, and responsibilities should be confirmed directly with the care team.</p>
+                <p>The best plan is one that is clear, respectful, and realistic about the support being requested. Include the individual in the conversation wherever possible, listen to their preferences, and agree on how they can ask for help or privacy. If their health needs change or they need clinical care, contact their treating professional; in an emergency, contact local emergency services.</p>
             </article>
         </section>
 

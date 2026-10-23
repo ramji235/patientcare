@@ -80,6 +80,91 @@
         content: "/\00a0";
         padding: 0 5px;
     }
+    .bedside-care__day-story {
+        display: grid;
+        grid-template-columns: minmax(220px, .72fr) minmax(0, 1.28fr);
+        gap: 34px;
+        margin-top: 31px;
+        padding: 28px;
+        background: #edf0e9;
+        border-radius: 2px 28px 2px 2px;
+    }
+    .bedside-care__day-story-intro {
+        position: sticky;
+        top: 24px;
+        align-self: start;
+        padding: 22px 20px;
+        color: #fff;
+        background: #354c48;
+    }
+    .bedside-care__day-story-intro i {
+        display: flex;
+        width: 39px;
+        height: 39px;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 17px;
+        color: #354c48;
+        background: #e5d1b0;
+        border-radius: 50%;
+        font-size: 16px;
+    }
+    .bedside-care__day-story-intro > span {
+        color: #e5d1b0;
+        font-size: 9px;
+        font-weight: 700;
+        letter-spacing: 1.4px;
+    }
+    .bedside-care__day-story-intro h2 {
+        margin: 9px 0;
+        color: #fff;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 1.3;
+    }
+    .bedside-care__day-story-intro p {
+        margin: 0;
+        color: #d6ded9;
+        font-size: 11px;
+        line-height: 1.85;
+    }
+    .bedside-care__day-story-copy {
+        padding: 1px 5px;
+    }
+    .bedside-care__day-story-copy > p {
+        margin: 0 0 15px;
+        color: #65716c;
+        font-size: 12px;
+        line-height: 1.9;
+    }
+    .bedside-care__day-story-copy > p:first-child {
+        color: #354c48;
+        font-size: 14px;
+        font-weight: 700;
+    }
+    .bedside-care__day-story-copy h3 {
+        margin: 20px 0 7px;
+        padding-top: 14px;
+        color: #354c48;
+        border-top: 1px solid #d5ddd6;
+        font-size: 16px;
+        font-weight: 700;
+    }
+    .bedside-care__day-story-copy > p:last-child { margin-bottom: 0; }
+    @media screen and (max-width: 767px) {
+        .bedside-care__day-story { grid-template-columns: minmax(0, 1fr); gap: 16px; margin-top: 24px; padding: 21px; }
+        .bedside-care__day-story-intro { position: static; }
+        .bedside-care__day-story-intro h2 { font-size: 22px; }
+    }
+    @media screen and (max-width: 480px) {
+        .bedside-care__day-story { padding: 15px; }
+        .bedside-care__day-story-intro { padding: 17px 15px; }
+        .bedside-care__day-story-copy { padding: 0; }
+        .bedside-care__day-story-copy > p,
+        .bedside-care__day-story-intro p { font-size: 12px; line-height: 1.8; }
+        .bedside-care__day-story-copy > p:first-child { font-size: 13px; }
+        .bedside-care__day-story-copy h3 { font-size: 15px; }
+    }
 </style>
 <a href="tel:7668066607" id="callnowbutton"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNjAgNjAiPjxwYXRoIGQ9Ik03LjEwNCAxNC4wMzJsMTUuNTg2IDEuOTg0YzAgMC0wLjAxOSAwLjUgMCAwLjk1M2MwLjAyOSAwLjc1Ni0wLjI2IDEuNTM0LTAuODA5IDIuMSBsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDE2LjUgMTcuNCAxOS44IDE5LjhsMTYuODEzIDEuMTQxYzAgMCAwIDAuNCAwIDEuMSBjLTAuMDAyIDAuNDc5LTAuMTc2IDAuOTUzLTAuNTQ5IDEuMzI3bC02LjUwNCA2LjUwNWMwIDAtMTEuMjYxIDAuOTg4LTI1LjkyNS0xMy42NzRDNi4xMTcgMjUuMyA3LjEgMTQgNy4xIDE0IiBmaWxsPSIjMDA2NzAwIi8+PHBhdGggZD0iTTcuMTA0IDEzLjAzMmw2LjUwNC02LjUwNWMwLjg5Ni0wLjg5NSAyLjMzNC0wLjY3OCAzLjEgMC4zNWw1ijtggYzAuNzM4IDEgMC41IDIuNTMxLTAuMzYgMy40MjZsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDUuMyA2LjkgOS4xIDEwLjY5OWMzLjg0MiAzLjggNy40IDYuNyAxMC43IDkuMSBsNC43NC00Ljc0MmMwLjg5Ny0wLjg5NSAyLjQ3MS0xLjAyNiAzLjQ5OC0wLjI4OWw3LjY0NiA1LjQ1NWMxLjAyNSAwLjcgMS4zIDIuMiAwLjQgMy4xMDVsLTYuNTA0IDYuNSBjMCAwLTExLjI2MiAwLjk4OC0yNS45MjUtMTMuNjc0QzYuMTE3IDI0LjMgNy4xIDEzIDcuMSAxMyIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg=="width="40"> Click To Call +91 7668066607 </a>
 	 <style>
@@ -199,6 +284,26 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
                 <h3>Help with agreed daily tasks</h3>
                 <p>Plan assistance around meals, hydration routines, and familiar activities in line with the patient's current guidance.</p>
             </article>
+        </section>
+
+        <section class="bedside-care__day-story" aria-labelledby="bedside-care-day-story-title">
+            <header class="bedside-care__day-story-intro">
+                <i class="fa fa-bed" aria-hidden="true"></i>
+                <span>A DAY AT THE BEDSIDE</span>
+                <h2 id="bedside-care-day-story-title">Care is in the small details.</h2>
+                <p>When someone spends much of the day in bed, ordinary routines can call for extra time, coordination, and attention to personal comfort. The patient and their current care instructions should guide the approach.</p>
+            </header>
+            <div class="bedside-care__day-story-copy">
+                <p>Bed-ridden patient care at home is not simply about staying close by. It is about understanding how the person wants their day to feel, which daily activities they would like assistance with, and what instructions the treating professionals have provided. Every patient's situation is different, so families should agree on specific responsibilities and make sure everyone involved understands what is—and is not—part of the attendant's role.</p>
+                <h3>Beginning the day without rushing</h3>
+                <p>The start of the day may include personal routines, fresh clothing, grooming, a meal, or a little conversation. A patient may need more time or prefer a particular order for these familiar activities. Ask how they would like assistance to be offered, explain what you are doing, and respect their privacy and choices. A calm routine can help the patient feel included instead of having care happen around them without their say.</p>
+                <h3>Comfort and rest follow the individual plan</h3>
+                <p>Comfort needs can change, and families may receive specific instructions about positioning, movement, skin care, or equipment from the patient's healthcare professionals. Follow those individual instructions rather than relying on a general schedule or trying a new technique without guidance. If the patient seems uncomfortable or a routine no longer appears suitable, stop and check with the treating team. Attendants should not assess skin concerns, perform clinical procedures, or alter a professional's plan.</p>
+                <h3>Meals, familiar moments, and communication</h3>
+                <p>Families can discuss how the patient's usual meals and daily preferences fit into the agreed support routine. Any feeding instructions, swallowing concerns, prescribed diet, or fluid guidance must come from the patient's qualified healthcare professional; do not change or interpret that guidance on the patient's behalf. Conversation, a favourite programme, a visit, or quiet rest may also be important parts of the day. Let the patient guide the amount of activity and company they want.</p>
+                <h3>A handover that helps the next person</h3>
+                <p>When family members share responsibilities, choose a primary contact and agree how practical updates will be passed along. A clear handover can cover the patient's preferences, the agreed routine, equipment instructions, and any changes the family needs to discuss with the care team. New symptoms, a change in alertness, pain, breathing or swallowing difficulty, or any other clinical concern should be reported promptly to a qualified healthcare professional. In an emergency, contact local emergency services.</p>
+            </div>
         </section>
 
         <section class="bedside-care__handover">

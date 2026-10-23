@@ -116,6 +116,24 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
             </div>
         </section>
 
+        <section class="neuro-care__story">
+            <div class="neuro-care__story-copy">
+                <p>Neurological patient care at home is most effective when it is planned around the individual’s condition, routine, and recovery goals. People living with neurological conditions may need help with mobility, communication, positioning, personal care, or day-to-day activities that feel more tiring than they used to.</p>
+                <p>For many families, the goal is not only support with daily tasks, but a calmer and more predictable routine that reduces confusion, fatigue, and stress. A well-structured home care plan can help maintain dignity, support independence where possible, and make it easier for the patient to feel safe and comfortable in familiar surroundings.</p>
+                <p>At home, support should be guided by the treating team, rehabilitation plan, and the person’s current needs. This may include assistance with safe transfers, routine reminders, hygiene support, mealtimes, medication coordination, and emotional reassurance during recovery or long-term care.</p>
+            </div>
+            <div class="neuro-care__story-points">
+                <h3>Important care considerations include:</h3>
+                <ul>
+                    <li>Mobility, posture, transfers, and any prescribed equipment or precautions.</li>
+                    <li>Communication needs, cognition, memory support, and familiar routines.</li>
+                    <li>Personal-care assistance, hygiene needs, and rest periods.</li>
+                    <li>Family handovers, update points, and coordination with the treating team.</li>
+                    <li>Any changes in strength, behaviour, speech, swallowing, or comfort that need attention.</li>
+                </ul>
+            </div>
+        </section>
+
         <section class="neuro-care__support" aria-labelledby="neuro-support-title">
             <div class="neuro-care__support-heading">
                 <span>SUPPORT FOR EVERYDAY LIFE</span>

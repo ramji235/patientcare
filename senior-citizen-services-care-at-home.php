@@ -80,6 +80,109 @@
         content: "/\00a0";
         padding: 0 5px;
     }
+    .citizen-care__journal {
+        margin-top: 34px;
+        padding: 31px 34px;
+        background: #fff;
+        box-shadow: 0 12px 32px rgba(48, 75, 91, .065);
+    }
+    .citizen-care__journal-heading {
+        display: grid;
+        grid-template-columns: minmax(0, .9fr) minmax(0, 1.1fr);
+        gap: 36px;
+        align-items: end;
+        padding-bottom: 22px;
+        border-bottom: 1px solid #e2e9e8;
+    }
+    .citizen-care__journal-heading > div > span {
+        color: #688276;
+        font-size: 9px;
+        font-weight: 700;
+        letter-spacing: 1.5px;
+    }
+    .citizen-care__journal-heading h2 {
+        margin: 9px 0 0;
+        color: #304b5b;
+        font-size: 27px;
+        font-weight: 700;
+        line-height: 1.3;
+    }
+    .citizen-care__journal-heading > p {
+        margin: 0;
+        color: #63716e;
+        font-size: 12px;
+        line-height: 1.9;
+    }
+    .citizen-care__journal-body {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) 205px;
+        gap: 38px;
+        align-items: start;
+        padding-top: 23px;
+    }
+    .citizen-care__reading > section {
+        padding: 0 0 19px;
+        margin-bottom: 18px;
+        border-bottom: 1px solid #e9eeec;
+    }
+    .citizen-care__reading > section:last-child {
+        padding-bottom: 0;
+        margin-bottom: 0;
+        border-bottom: 0;
+    }
+    .citizen-care__reading h3 {
+        margin: 0 0 9px;
+        color: #304b5b;
+        font-size: 17px;
+        font-weight: 700;
+        line-height: 1.4;
+    }
+    .citizen-care__reading p {
+        margin: 0 0 10px;
+        color: #63716e;
+        font-size: 12px;
+        line-height: 1.9;
+    }
+    .citizen-care__reading p:last-child { margin-bottom: 0; }
+    .citizen-care__journal-aside {
+        position: sticky;
+        top: 24px;
+        padding: 21px 18px;
+        color: #fff;
+        background: #304b5b;
+        border-bottom: 4px solid #efc579;
+    }
+    .citizen-care__journal-aside i {
+        color: #efc579;
+        font-size: 18px;
+    }
+    .citizen-care__journal-aside p {
+        margin: 11px 0;
+        color: #fff;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 1.7;
+    }
+    .citizen-care__journal-aside span {
+        color: #dbe4e8;
+        font-size: 9px;
+        line-height: 1.7;
+    }
+    @media screen and (max-width: 767px) {
+        .citizen-care__journal { margin-top: 26px; padding: 24px 20px; }
+        .citizen-care__journal-heading { grid-template-columns: minmax(0, 1fr); gap: 12px; }
+        .citizen-care__journal-heading h2 { font-size: 24px; }
+        .citizen-care__journal-body { grid-template-columns: minmax(0, 1fr); gap: 19px; }
+        .citizen-care__journal-aside { position: static; }
+    }
+    @media screen and (max-width: 480px) {
+        .citizen-care__journal { padding: 20px 15px; }
+        .citizen-care__journal-heading h2 { font-size: 21px; }
+        .citizen-care__reading h3 { font-size: 15px; }
+        .citizen-care__journal-heading > p,
+        .citizen-care__reading p { font-size: 12px; line-height: 1.8; }
+        .citizen-care__journal-aside { padding: 17px 15px; }
+    }
 </style>
 <a href="tel:7668066607" id="callnowbutton"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNjAgNjAiPjxwYXRoIGQ9Ik03LjEwNCAxNC4wMzJsMTUuNTg2IDEuOTg0YzAgMC0wLjAxOSAwLjUgMCAwLjk1M2MwLjAyOSAwLjc1Ni0wLjI2IDEuNTM0LTAuODA5IDIuMSBsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDE2LjUgMTcuNCAxOS44IDE5LjhsMTYuODEzIDEuMTQxYzAgMCAwIDAuNCAwIDEuMSBjLTAuMDAyIDAuNDc5LTAuMTc2IDAuOTUzLTAuNTQ5IDEuMzI3bC02LjUwNCA2LjUwNWMwIDAtMTEuMjYxIDAuOTg4LTI1LjkyNS0xMy42NzRDNi4xMTcgMjUuMyA3LjEgMTQgNy4xIDE0IiBmaWxsPSIjMDA2NzAwIi8+PHBhdGggZD0iTTcuMTA0IDEzLjAzMmw2LjUwNC02LjUwNWMwLjg5Ni0wLjg5NSAyLjMzNC0wLjY3OCAzLjEgMC4zNWw1ijtggYzAuNzM4IDEgMC41IDIuNTMxLTAuMzYgMy40MjZsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDUuMyA2LjkgOS4xIDEwLjY5OWMzLjg0MiAzLjggNy40IDYuNyAxMC43IDkuMSBsNC43NC00Ljc0MmMwLjg5Ny0wLjg5NSAyLjQ3MS0xLjAyNiAzLjQ5OC0wLjI4OWw3LjY0NiA1LjQ1NWMxLjAyNSAwLjcgMS4zIDIuMiAwLjQgMy4xMDVsLTYuNTA0IDYuNSBjMCAwLTExLjI2MiAwLjk4OC0yNS45MjUtMTMuNjc0QzYuMTE3IDI0LjMgNy4xIDEzIDcuMSAxMyIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg=="width="40"> Click To Call +91 7668066607 </a>
 	 <style>
@@ -182,6 +285,45 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
                 <article><span>01</span><h3>Daily activities</h3><p>Discuss assistance with personal routines, meals, and the tasks that shape an ordinary day.</p></article>
                 <article><span>02</span><h3>Mobility at home</h3><p>Share access or movement considerations and any guidance from the older adult's treating team.</p></article>
                 <article><span>03</span><h3>Companionship</h3><p>Plan conversation or favourite pastimes around the person's interests and preferred pace.</p></article>
+            </div>
+        </section>
+
+        <section class="citizen-care__journal" aria-labelledby="citizen-care-journal-title">
+            <header class="citizen-care__journal-heading">
+                <div>
+                    <span>A NOTE FOR FAMILIES AND SENIOR CITIZENS</span>
+                    <h2 id="citizen-care-journal-title">Care should fit the person, not the other way around.</h2>
+                </div>
+                <p>Senior citizen care at home is often about finding the right balance: lend a hand with the parts of daily life that have become harder, while preserving the routines, relationships, and choices that still make the day feel like their own. That balance looks different for every household, so it is worth taking time to understand what the older adult wants before planning support.</p>
+            </header>
+            <div class="citizen-care__journal-body">
+                <article class="citizen-care__reading">
+                    <section>
+                        <h3>Independence can include accepting help on your own terms</h3>
+                        <p>For many senior citizens, home is where they know how things are done: the place for familiar meals, favourite belongings, neighbours, family photographs, and a comfortable daily rhythm. Needing assistance with one or two activities does not mean giving up that independence. It can simply mean choosing support for the moments that require more time or energy, while continuing other tasks in the way the person prefers.</p>
+                        <p>Families can make this transition easier by asking specific, open questions. Which parts of the morning would you like help with? Is there something you prefer to do yourself? How would you like someone to offer assistance? Answers to these questions help avoid assumptions and allow the older adult to guide the arrangement. Preferences around personal space, language, clothing, meals, and timing matter just as much as the practical task itself.</p>
+                    </section>
+                    <section>
+                        <h3>A supportive day is made up of ordinary moments</h3>
+                        <p>A day may involve getting ready at an unhurried pace, organising a meal, moving around the home, enjoying a conversation, or spending time on a familiar interest. When an extra pair of hands is welcome, these everyday moments can be discussed as part of an agreed routine. Support should be guided by the older adult's comfort and preferences—not by pressure to make every hour busy or to change habits that are working well.</p>
+                        <p>Families can describe what a usual day looks like, which activities feel tiring, when company is appreciated, and when the person prefers quiet. If movement, diet, or other daily activity is subject to professional guidance, check with the treating team and share the relevant instructions. An attendant provides agreed non-clinical assistance and should not replace professional advice or attempt a task beyond that role.</p>
+                    </section>
+                    <section>
+                        <h3>Connection matters, whether family lives nearby or far away</h3>
+                        <p>Some older adults want a companion for conversation and familiar pastimes; others may prefer practical assistance with less conversation. Both preferences deserve respect. Families can share the person's interests and communication style, while allowing them to decide how much company they want. A calm presence can help make a routine feel less solitary, but companionship should always be offered in a way that feels natural to the individual.</p>
+                        <p>When relatives cannot be present throughout the day, it can help to agree who will coordinate support and how ordinary updates or schedule changes will be passed along. Ask the senior citizen how they would like family to stay involved and what information they consider private. Clear, considerate communication helps families coordinate without making the older adult feel that decisions are happening around them instead of with them.</p>
+                    </section>
+                    <section>
+                        <h3>Give the arrangement room to change</h3>
+                        <p>A support plan is not something that must remain fixed if the person's routine, preferences, or family circumstances change. A move, a period of recovery, a change in mobility, or simply a different preference about timing may be a reason to revisit the agreed assistance. Families can periodically check in with the older adult: what is working well, what feels unnecessary, and what would make the next few weeks easier? Any health-related change or new safety concern should be discussed with the person's qualified healthcare professional.</p>
+                        <p>Before making an enquiry, it is useful to note the senior citizen's location, preferred schedule, the activities where help is wanted, any practical access considerations, and a family contact. These details create a starting point for discussing options; the actual duties, timing, and availability should be confirmed with the care team so everyone understands what has been agreed.</p>
+                    </section>
+                </article>
+                <aside class="citizen-care__journal-aside">
+                    <i class="fa fa-quote-left" aria-hidden="true"></i>
+                    <p>Ask what help feels welcome—and what they would like to keep doing themselves.</p>
+                    <span>A GOOD CONVERSATION STARTS WITH LISTENING</span>
+                </aside>
             </div>
         </section>
 

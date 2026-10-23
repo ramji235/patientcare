@@ -100,50 +100,65 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
 <!-- welcome div start -->
 <div class="content tracheostomy-support">
     <div class="container">
-        <div class="row">
-        	<div class="col-md-8 col-sm-8 col-xs-12">
-            <!--weldiv start-->
-            <div class="wel">
-                <h1 class="tracheostomy-support__heading"><strong>Home nursing support for tracheostomy care</strong></h1>
-                <div class="text"><p>Tracheostomy care should follow the treating team's written instructions and be provided by appropriately trained staff. Share the prescribed care tasks, equipment, location, and schedule so we can discuss the request and check service availability.</p></div>
-            
-                <div class="page-detail-content">
-                    <article>
-                        <h2>Follow the individual care plan</h2>
-                        <p>Care needs vary. Keep the current written instructions from the patient's treating professionals available and discuss which support tasks are requested. Clinical procedures and any changes to care must remain guided by the responsible healthcare team.</p>
+        <section class="tracheostomy-support__showcase">
+            <div class="tracheostomy-support__spacer" aria-hidden="true"></div>
+            <div class="tracheostomy-support__panel">
+                <h2>Home nursing support for<br>tracheostomy care</h2>
+                <p>Tracheostomy care should follow the treating team's written instructions and be provided by appropriately trained staff. Share the prescribed care tasks, equipment, location, and schedule so we can discuss the request and check service availability.</p>
+
+                <div class="tracheostomy-support__list">
+                    <article class="tracheostomy-support__item">
+                        <h3>Follow the care plan</h3>
+                        <p>Keep the current written instructions from the patient's treating professionals available and discuss which support tasks are required.</p>
                     </article>
-                    <article>
-                        <h2>Confirm training and service scope</h2>
-                        <p>Before arranging support, discuss the experience and training required for the prescribed tasks, what duties are included, and the planned care hours. Nursing scope and availability should be confirmed for the specific request.</p>
+                    <article class="tracheostomy-support__item">
+                        <h3>Confirm training</h3>
+                        <p>Before arranging support, discuss the experience and training required for the prescribed tasks and service hours.</p>
                     </article>
-                    <article>
-                        <h2>Prepare the home and prescribed equipment</h2>
-                        <p>Explain what equipment and supplies have been prescribed or arranged, where they will be kept, and any practical requirements for access or space. Do not change or substitute clinical equipment without guidance from the treating team.</p>
+                    <article class="tracheostomy-support__item">
+                        <h3>Prepare the home</h3>
+                        <p>Explain what equipment and supplies have been prescribed or arranged, where they will be kept, and any access needs.</p>
                     </article>
-                    <article>
-                        <h2>Make family handovers clear</h2>
-                        <p>Choose a family contact and agree how routine updates, shift handovers, and relevant changes will be communicated. Keep contact details for the treating team and the patient's written instructions accessible to those involved in care.</p>
+                    <article class="tracheostomy-support__item">
+                        <h3>Make handovers clear</h3>
+                        <p>Choose a family contact and agree how routine updates, shift handovers, and changes will be communicated.</p>
                     </article>
-                    <article>
-                        <h2>Know the emergency plan</h2>
-                        <p>Ask the treating team for patient-specific emergency instructions and make sure family members know how to access them. Home nursing is not emergency care; for breathing difficulty, sudden deterioration, or another emergency, follow the emergency plan and contact local emergency services.</p>
+                    <article class="tracheostomy-support__item">
+                        <h3>Know the emergency plan</h3>
+                        <p>Ask the treating team for patient-specific instructions and make sure family members know how to access them.</p>
                     </article>
-                    <article>
-                        <h2>Starting an enquiry</h2>
-                        <p>To discuss tracheostomy support at home, share the patient's location, current care instructions, prescribed tasks and equipment, and preferred schedule. The team can explain whether the request may be accommodated and clarify next steps without presuming a booking.</p>
+                    <article class="tracheostomy-support__item">
+                        <h3>Starting an enquiry</h3>
+                        <p>Share the patient's location, care instructions, equipment list, and preferred schedule to discuss the next step.</p>
                     </article>
                 </div>
-</div>
             </div>
-            <div class="col-md-4 col-sm-4 col-xs-12">
-            <!--callback form div start-->
-            <div class="callback">
+        </section>
+
+        <section class="tracheostomy-support__feature">
+            <div class="tracheostomy-support__feature-visual">
                 <img src="images/banner/slide1.jpg" alt="Nurse checking a patient's blood pressure during planned home nursing support">
-                <p>Support planned around the patient's care instructions.</p>
-            </div>	
-            <!--callback form div end-->
+                <span>Support around the patient's care instructions.</span>
             </div>
-        </div>
+
+            <div class="tracheostomy-support__feature-copy">
+                <span class="tracheostomy-support__feature-eyebrow">WHY CARE MUST BE CAREFULLY PLANNED</span>
+                <h2>Home tracheostomy support works best when it follows a clear, clinician-guided routine.</h2>
+                <p>Tracheostomy care can be a part of a longer recovery or home-based care plan for patients who still require specialist support after discharge. Because the routine often includes medical equipment, hygiene needs, and close observation, it must be planned around the specific instructions provided by the treating healthcare team.</p>
+                <p>For families, it is often reassuring to know exactly what will be needed at home, what equipment is already in place, and how the care team will coordinate updates. A well-structured plan helps reduce uncertainty and supports a calmer routine for both the patient and the family members involved in day-to-day care.</p>
+                <div class="tracheostomy-support__feature-aside">
+                    <h3>Important considerations include:</h3>
+                    <ul>
+                        <li>Current care instructions given by the treating medical team.</li>
+                        <li>Any prescribed equipment, supplies, and cleaning routines.</li>
+                        <li>Family communication and handover arrangements during each shift.</li>
+                        <li>Patient comfort, positioning, hygiene, and routine reminders.</li>
+                        <li>Emergency response readiness when the patient’s condition changes.</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
         <section class="tracheostomy-support__contact">
                 <div>
                     <span>TRACHEOSTOMY CARE ENQUIRIES</span>

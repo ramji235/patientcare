@@ -200,6 +200,46 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
             </article>
         </section>
 
+        <section class="careers-story" aria-labelledby="careers-story-title">
+            <header class="careers-story__heading">
+                <span>A CLOSER LOOK AT WORKING IN HOME CARE</span>
+                <h2 id="careers-story-title">Good care is built in the small, everyday moments.</h2>
+                <p>Working in someone's home is personal. It asks for practical skill, but also for the judgement to listen, respect boundaries, and communicate clearly with the person and the people coordinating their support.</p>
+            </header>
+            <div class="careers-story__body">
+                <div class="careers-story__passages">
+                    <article>
+                        <span>01 · ARRIVING</span>
+                        <div>
+                            <h3>Begin by understanding the person and the plan.</h3>
+                            <p>Every home has its own routines, preferences, and ways of doing things. A thoughtful start means listening to the person, understanding the agreed duties, and checking with the appropriate coordinator when an instruction or expectation is unclear. Respect for privacy, consent, and personal choice is part of dependable support—not an extra task to fit in later. Small courtesies, such as explaining what you are doing, giving someone time to respond, and keeping personal information private, help make support feel considerate.</p>
+                        </div>
+                    </article>
+                    <article>
+                        <span>02 · THROUGH THE DAY</span>
+                        <div>
+                            <h3>Bring consistency without assuming every day is the same.</h3>
+                            <p>Schedules and support needs can vary. Being reliable includes communicating honestly about availability, following the agreed role, and sharing relevant updates through the proper contact. Care professionals should work within their training and responsibilities, and seek guidance rather than taking on a clinical decision or task that has not been assigned to them.</p>
+                            <p>Home care also depends on clear handovers. Passing on relevant observations through the agreed channel, arriving prepared for the shift, and speaking up when something is unclear can help the wider team coordinate support. If a person's needs appear to change, follow the provider's reporting process and leave clinical assessment to an appropriate healthcare professional.</p>
+                        </div>
+                    </article>
+                    <article>
+                        <span>03 · BEFORE YOU APPLY</span>
+                        <div>
+                            <h3>Make the conversation specific to the opportunity.</h3>
+                            <p>When you enquire, describe the role you are interested in, relevant experience or qualifications, the areas you can work in, and your availability. Ask the team to explain current vacancies, duties, required documents, selection steps, work arrangements, and how compensation and scheduling are discussed. These details can differ between opportunities, so seek direct confirmation rather than relying on assumptions.</p>
+                            <p>You can also ask how orientation is handled, who provides day-to-day guidance, how concerns are escalated, and what to expect if a shift or assignment changes. Share only information relevant to the enquiry at first; wait for the organization to explain its process before sending identity documents or original certificates.</p>
+                        </div>
+                    </article>
+                </div>
+                <aside class="careers-story__aside">
+                    <span>A NOTE FOR APPLICANTS</span>
+                    <h3>Enquiring is the first conversation, not a job offer.</h3>
+                    <p>Openings and requirements may change. Confirm the role and application steps with the team, and share personal documents only through a process the organization has explained.</p>
+                </aside>
+            </div>
+        </section>
+
         <section class="careers-page__values">
             <div class="careers-page__values-heading">
                 <span>WHAT MATTERS IN HOME CARE</span>

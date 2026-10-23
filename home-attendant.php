@@ -1,14 +1,14 @@
 <!doctype html>
 <html>
 <head>
-<title>About Us | Careright Home Health Care Pvt. Ltd.</title>
+<title>Home Attendant Care at Home | Careright Home Health Care Pvt. Ltd.</title>
 
 <!-- Mirrored from carerighthomehealthcares.com/about-us by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Aug 2025 10:04:00 GMT -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Learn more about Careright Home Health Care Pvt. Ltd., our mission, and our commitment to providing quality home nursing, attendant services, and patient care." />
-<meta name="keywords" content="about us, home health care, nursing services, patient care, elder care" />
-<link rel="canonical" href="about-us.html" />
+<meta name="description" content="Explore non-clinical home attendant support for daily routines, personal assistance, mobility, companionship, and family communication." />
+<meta name="keywords" content="home attendant care, daily living assistance at home, personal care attendant, companionship" />
+<link rel="canonical" href="home-attendant.php" />
 <meta name="google-site-verification" content="FxrmckzPcTYaL7gXPNcvhWAGROvqhvdqNZlgs4IRA2k" />
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <meta charset="utf-8">
@@ -18,6 +18,18 @@
 <link href="style/media_screen.css" rel="stylesheet">
 <script src="use.fontawesome.com/c5be872b61.html"></script>
 <link rel="stylesheet" href="../maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" type="text/css">
+<style>
+    .attendant-care__visual { padding:0; }
+    .attendant-care__visual img { width:100%; max-width:none; height:100%; min-height:435px; object-fit:cover; }
+    .attendant-care__copy > p,.attendant-care__intro > p,.attendant-care__routine-heading p,.attendant-care__boundary p,.attendant-care__contact p { font-size:14px; }
+    .attendant-care__support p,.attendant-care__routine-list p { font-size:13px; }
+    .attendant-care__routine-list h3 { font-size:15px; }
+    .attendant-care__boundary strong { font-size:14px; }
+    .attendant-care__hero-actions a,.attendant-care__routine-heading a,.attendant-care__contact > div:last-child a { font-size:14px; }
+    @media (max-width:991px) { .attendant-care__visual img { min-height:390px; } }
+    @media (max-width:767px) { .attendant-care__visual img { min-height:310px; } }
+    @media (max-width:480px) { .attendant-care__visual img { min-height:250px; } }
+</style>
 </head>
 <body>
 <style type="text/css">
@@ -142,93 +154,96 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
 <!--header div end-->
 
 
-<!--breadcump div start-->     
-<section class="page-title-section">
+<section class="attendant-care-title" aria-label="Page heading">
     <div class="container">
-        <h1>Home Attendant</h1>
+        <span>CARERIGHT HOME HEALTH CARE</span>
+        <h1>Home Attendant Care</h1>
         <ol class="breadcrumb">
           <li><a href="index.php">Home</a></li>
-          <li class="active">Home Attendant</li>
+          <li class="active">Home Attendant Care</li>
         </ol>
     </div>
 </section>
-<!--breadcump div end-->
-
-
-<a name="about"></a>
-<!-- welcome div start -->
-<div class="content">
+<main class="attendant-care">
     <div class="container">
-        <div class="row">
-        	<div class="col-md-8 col-sm-8 col-xs-12">
-            <!--weldiv start-->
-            <div class="wel">
-                <h1 style="font-size:25px;"><strong style="color:#0066CC;">Reliable Home Attendant Services</strong><span></span></h1>
-                <div class="text"><p>Home attendants support people who need a helping hand with everyday activities. Depending on the agreed care plan, assistance can include personal care, meal support, mobility, and companionship, with respectful service shaped around each client's routine.</p></div>
-            
-                <div class="page-detail-content">
-                    <h2>Understanding the support</h2>
-                    <p>Families considering home attendant care can begin by describing everyday non-clinical assistance and companionship. The suitable arrangement depends on the individual, the household routine, confirmed availability, and any relevant professional guidance.</p>
-                    <h2>Planning daily routines</h2>
-                    <p>A useful discussion identifies personal routines, meals, mobility assistance, and agreed daily activities. Explain which activities are most important, when help is needed, and what the person receiving care prefers to do independently.</p>
-                    <h2>Preparing for care</h2>
-                    <p>Before support begins, gather the person's preferences, usual routine, mobility needs, and family contacts. Keeping current information together makes family handovers clearer and helps the care team understand the arrangements already in place.</p>
-                    <h2>Home and access arrangements</h2>
-                    <p>Planning should also take account of clear walkways and familiar items within comfortable reach. Mention practical constraints early, including access, timing, the household's daily routine, and any equipment that affects the service.</p>
-                    <h2>Family communication</h2>
-                    <p>Agree with family members on the named family member who can answer routine questions. A clear point of contact and consistent handover can reduce confusion when schedules change or practical questions arise.</p>
-                    <h2>Respectful, personal support</h2>
-                    <p>Support should respect the person's dignity, privacy, and choices. Discuss communication preferences, familiar routines, and how assistance can be offered without taking away independence.</p>
-                    <h2>Working with healthcare professionals</h2>
-                    <p>Keep clinical responsibilities clear: attendants provide daily assistance, not diagnosis or clinical treatment. If health needs change or new symptoms appear, contact the treating professional rather than relying on a routine service discussion.</p>
-                    <h2>Reviewing the care arrangement</h2>
-                    <p>Review the arrangement regularly, especially whether the agreed duties continue to fit the person's abilities. Families can share practical feedback with the coordinator and consult the relevant professional when care instructions need reassessment.</p>
-                    <h2>Questions to discuss</h2>
-                    <p>Before confirming a service, ask about included duties, proposed schedule, handovers, and how changes are handled. Discussing duties, hours, communication, and availability in advance helps everyone understand what is and is not included.</p>
-                    <h2>Getting started</h2>
-                    <p>To get started with home attendant care, share the person's location, requested daily help, hours, and callback number. The team can use those details to discuss the request, explain possible availability, and outline the next step without assuming a booking.</p>
+        <section class="attendant-care__hero" aria-labelledby="attendant-care-title">
+            <div class="attendant-care__visual">
+                <img src="images/HOME%20ATTENDANT.webp" alt="A home care attendant supporting an older adult in a wheelchair">
+                <span class="attendant-care__visual-tag"><i class="fa fa-home" aria-hidden="true"></i> DAILY SUPPORT, AT HOME</span>
+            </div>
+            <div class="attendant-care__copy">
+                <span class="attendant-care__eyebrow">PRACTICAL HELP FOR EVERYDAY LIVING</span>
+                <h2 id="attendant-care-title">A helping hand, shaped around your daily routine.</h2>
+                <p>Home attendants can assist with agreed non-clinical daily activities, offering practical help and companionship in familiar surroundings. Share the person's preferences, routine, and the kind of help that would make each day easier.</p>
+                <div class="attendant-care__hero-actions">
+                    <a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> Talk to our team</a>
+                    <a href="#attendant-support">Explore attendant support <i class="fa fa-arrow-down" aria-hidden="true"></i></a>
                 </div>
-</div>
+                <div class="attendant-care__hero-note"><i class="fa fa-heart" aria-hidden="true"></i> Respectful assistance that supports independence</div>
             </div>
-            <div class="col-md-4 col-sm-4 col-xs-12">
-            <!--callback form div start-->
-            <div class="callback">
-                <img src="images/abo.jpg" style="width:91%;">
-            </div>	
-            <!--callback form div end-->
-            </div>
-        </div>
-    </div>
-</div>
+        </section>
 
-<!-- Statistics Section Start -->
-<div class="content">
-    <div class="container">
-        <div class="row">
-        	<div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-handshake-o" aria-hidden="true"></i> 1000+</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Services Delivered<br><br></p>
-                </div>
+        <section class="attendant-care__intro" aria-labelledby="attendant-care-intro-title">
+            <div>
+                <span>SUPPORT THAT STARTS WITH LISTENING</span>
+                <h2 id="attendant-care-intro-title">Everyday assistance, with the person's choices at the centre</h2>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-thumbs-up" aria-hidden="true"></i> 10+ Yrs</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Of Exeperience In Nursing Care<br><br></p>
-                </div>
+            <p>Each household has its own habits and priorities. Discuss which daily activities need assistance, the times support is preferred, and what the person wants to continue doing independently. A clear conversation helps families understand the proposed duties and how attendant support fits into the home routine.</p>
+        </section>
+
+        <section class="attendant-care__support" id="attendant-support" aria-label="Home attendant support areas">
+            <article>
+                <span class="attendant-care__support-icon"><i class="fa fa-hand-paper-o" aria-hidden="true"></i></span>
+                <small>PERSONAL ROUTINES</small>
+                <h3>Daily living assistance</h3>
+                <p>Discuss the personal-care and everyday tasks where the person would welcome help, always respecting privacy and preferences.</p>
+            </article>
+            <article>
+                <span class="attendant-care__support-icon"><i class="fa fa-cutlery" aria-hidden="true"></i></span>
+                <small>AT HOME</small>
+                <h3>Meals and mobility</h3>
+                <p>Share mealtime routines, mobility considerations, and any agreed household assistance needed during the day.</p>
+            </article>
+            <article>
+                <span class="attendant-care__support-icon"><i class="fa fa-comments-o" aria-hidden="true"></i></span>
+                <small>FAMILIAR COMPANY</small>
+                <h3>Companionship and handovers</h3>
+                <p>Agree on familiar activities, a family point of contact, and a simple way to share routine updates or questions.</p>
+            </article>
+        </section>
+
+        <section class="attendant-care__routine" aria-labelledby="attendant-routine-title">
+            <div class="attendant-care__routine-heading">
+                <span>PLAN THE DAILY SUPPORT</span>
+                <h2 id="attendant-routine-title">A clear routine helps everyone feel prepared</h2>
+                <p>Before care begins, discuss the person's priorities and the details that make support comfortable at home.</p>
+                <a href="enquiry.php">Send your care enquiry <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-star" aria-hidden="true"></i> 100%</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Satisfaction Rate<br><br></p>
-                </div>
+            <div class="attendant-care__routine-list">
+                <article><span>01</span><div><h3>Describe the preferred assistance</h3><p>List the tasks where support is wanted and the activities the person prefers to do independently.</p></div></article>
+                <article><span>02</span><div><h3>Share the home routine</h3><p>Mention timings, access needs, mobility considerations, and any familiar household preferences.</p></div></article>
+                <article><span>03</span><div><h3>Agree on communication</h3><p>Choose a family contact and discuss how schedule changes or routine questions should be shared.</p></div></article>
             </div>
-        </div>
+        </section>
+
+        <aside class="attendant-care__boundary" aria-label="Important service information">
+            <span><i class="fa fa-info" aria-hidden="true"></i></span>
+            <div><strong>Understanding the service</strong><p>Home attendants provide agreed daily assistance and companionship; they do not diagnose or provide clinical treatment. For health concerns or changes in condition, contact the person's healthcare professional.</p></div>
+        </aside>
+
+        <section class="attendant-care__contact" aria-labelledby="attendant-contact-title">
+            <div>
+                <span>LET'S DISCUSS YOUR REQUIREMENTS</span>
+                <h2 id="attendant-contact-title">Looking for everyday support at home?</h2>
+                <p>Share your locality, preferred schedule, and the type of assistance being considered. The team can discuss service details and availability with you.</p>
+            </div>
+            <div>
+                <a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> Call +91 76680 66607</a>
+                <a href="enquiry.php">Send an enquiry</a>
+            </div>
+        </section>
     </div>
-</div>
-<!-- Statistics Section End -->
+</main>
 
 
 <!--bot links div start-->  

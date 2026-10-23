@@ -80,6 +80,111 @@
         content: "/\00a0";
         padding: 0 5px;
     }
+    .memory-care__daybook {
+        position: relative;
+        margin-top: 30px;
+        padding: 27px 29px;
+        background: #e9ede6;
+        border-radius: 28px 3px 3px 3px;
+    }
+    .memory-care__daybook::before {
+        position: absolute;
+        top: 108px;
+        bottom: 35px;
+        left: 51px;
+        width: 1px;
+        background: #cbd5c9;
+        content: "";
+    }
+    .memory-care__daybook-heading {
+        max-width: 700px;
+        margin: 0 auto 16px;
+        text-align: center;
+    }
+    .memory-care__daybook-heading > span {
+        color: #788b76;
+        font-size: 9px;
+        font-weight: 700;
+        letter-spacing: 1.5px;
+    }
+    .memory-care__daybook-heading h2 {
+        margin: 8px 0;
+        color: #3c4b49;
+        font-size: 26px;
+        font-weight: 700;
+        line-height: 1.3;
+    }
+    .memory-care__daybook-heading p {
+        margin: 0;
+        color: #6d786f;
+        font-size: 12px;
+        line-height: 1.85;
+    }
+    .memory-care__daybook-moment {
+        position: relative;
+        display: grid;
+        grid-template-columns: 56px minmax(0, 1fr);
+        gap: 20px;
+        padding: 14px 0;
+    }
+    .memory-care__daybook-moment > span {
+        position: relative;
+        z-index: 1;
+        display: flex;
+        width: 36px;
+        height: 36px;
+        align-items: center;
+        justify-content: center;
+        color: #fff;
+        background: #718574;
+        border: 5px solid #e9ede6;
+        border-radius: 50%;
+        box-sizing: content-box;
+        font-size: 14px;
+    }
+    .memory-care__daybook-moment:nth-of-type(3) > span { background: #aa8061; }
+    .memory-care__daybook-moment:nth-of-type(4) > span { background: #75858a; }
+    .memory-care__daybook-moment h3 {
+        margin: 3px 0 6px;
+        color: #3c4b49;
+        font-size: 15px;
+        font-weight: 700;
+    }
+    .memory-care__daybook-moment p {
+        margin: 0;
+        color: #68746c;
+        font-size: 11px;
+        line-height: 1.85;
+    }
+    .memory-care__daybook-moment p + p { margin-top: 8px; }
+    .memory-care__daybook-note {
+        margin: 10px 0 0 76px;
+        padding: 12px 16px;
+        color: #655039;
+        background: #fff;
+        border-left: 3px solid #a17959;
+        font-size: 11px;
+        line-height: 1.8;
+    }
+    @media screen and (max-width: 767px) {
+        .memory-care__daybook { margin-top: 23px; padding: 23px 19px; }
+        .memory-care__daybook::before { top: 154px; bottom: 31px; left: 39px; }
+        .memory-care__daybook-heading h2 { font-size: 23px; }
+        .memory-care__daybook-moment { grid-template-columns: 41px minmax(0, 1fr); gap: 17px; }
+        .memory-care__daybook-moment > span { width: 29px; height: 29px; border-width: 4px; }
+        .memory-care__daybook-note { margin-left: 58px; }
+    }
+    @media screen and (max-width: 480px) {
+        .memory-care__daybook { padding: 20px 14px; }
+        .memory-care__daybook::before { top: 180px; left: 27px; }
+        .memory-care__daybook-heading h2 { font-size: 21px; }
+        .memory-care__daybook-heading p,
+        .memory-care__daybook-moment p { font-size: 12px; line-height: 1.8; }
+        .memory-care__daybook-moment { grid-template-columns: 29px minmax(0, 1fr); gap: 14px; padding: 12px 0; }
+        .memory-care__daybook-moment > span { width: 24px; height: 24px; border-width: 4px; font-size: 11px; }
+        .memory-care__daybook-moment h3 { font-size: 14px; }
+        .memory-care__daybook-note { margin-left: 43px; padding: 11px 12px; }
+    }
 </style>
 <a href="tel:7668066607" id="callnowbutton"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNjAgNjAiPjxwYXRoIGQ9Ik03LjEwNCAxNC4wMzJsMTUuNTg2IDEuOTg0YzAgMC0wLjAxOSAwLjUgMCAwLjk1M2MwLjAyOSAwLjc1Ni0wLjI2IDEuNTM0LTAuODA5IDIuMSBsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDE2LjUgMTcuNCAxOS44IDE5LjhsMTYuODEzIDEuMTQxYzAgMCAwIDAuNCAwIDEuMSBjLTAuMDAyIDAuNDc5LTAuMTc2IDAuOTUzLTAuNTQ5IDEuMzI3bC02LjUwNCA2LjUwNWMwIDAtMTEuMjYxIDAuOTg4LTI1LjkyNS0xMy42NzRDNi4xMTcgMjUuMyA3LjEgMTQgNy4xIDE0IiBmaWxsPSIjMDA2NzAwIi8+PHBhdGggZD0iTTcuMTA0IDEzLjAzMmw2LjUwNC02LjUwNWMwLjg5Ni0wLjg5NSAyLjMzNC0wLjY3OCAzLjEgMC4zNWw1ijtggYzAuNzM4IDEgMC41IDIuNTMxLTAuMzYgMy40MjZsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDUuMyA2LjkgOS4xIDEwLjY5OWMzLjg0MiAzLjggNy40IDYuNyAxMC43IDkuMSBsNC43NC00Ljc0MmMwLjg5Ny0wLjg5NSAyLjQ3MS0xLjAyNiAzLjQ5OC0wLjI4OWw3LjY0NiA1LjQ1NWMxLjAyNSAwLjcgMS4zIDIuMiAwLjQgMy4xMDVsLTYuNTA0IDYuNSBjMCAwLTExLjI2MiAwLjk4OC0yNS45MjUtMTMuNjc0QzYuMTE3IDI0LjMgNy4xIDEzIDcuMSAxMyIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg=="width="40"> Click To Call +91 7668066607 </a>
 	 <style>
@@ -199,6 +304,46 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
                 <h3>Consistent family handovers</h3>
                 <p>Agree on a family contact, useful updates, and how changes to the routine will be communicated.</p>
             </article>
+        </section>
+
+        <section class="memory-care__daybook" aria-labelledby="memory-care-daybook-title">
+            <header class="memory-care__daybook-heading">
+                <span>SMALL MOMENTS, GENTLE ROUTINES</span>
+                <h2 id="memory-care-daybook-title">A day does not have to feel exactly the same to feel familiar.</h2>
+                <p>Alzheimer's affects each person differently, and preferences can vary from one day to the next. These moments are not a schedule to enforce; they are a way to think about offering calm, respectful support around the person's cues and established routine.</p>
+            </header>
+            <article class="memory-care__daybook-moment">
+                <span><i class="fa fa-sun-o" aria-hidden="true"></i></span>
+                <div>
+                    <h3>Morning: begin with recognition and time</h3>
+                    <p>A gentle greeting, a familiar name, and enough time to understand what is happening can make the first interaction feel less hurried. If help with getting ready or personal routines has been agreed, explain each step in simple, respectful language and offer choices where possible. A familiar order to the morning may be reassuring, but the person's comfort and response should guide how quickly things proceed.</p>
+                    <p>Families can tell a caregiver which words, routines, or everyday details the person recognises, and how they prefer privacy to be respected. What feels supportive for one person may not suit another, so listen and adjust rather than insisting on a particular approach.</p>
+                </div>
+            </article>
+            <article class="memory-care__daybook-moment">
+                <span><i class="fa fa-coffee" aria-hidden="true"></i></span>
+                <div>
+                    <h3>Midday: make room for familiar activities</h3>
+                    <p>A favourite song, looking through photographs, a simple household activity, or a quiet conversation may provide a familiar point of connection. Keep suggestions easy to follow and allow the person to take part—or decline—at their own pace. Meals, drinks, and rest should follow the person's established routine and any current guidance from their healthcare professional; do not introduce diet or hydration changes without that advice.</p>
+                    <p>If a conversation becomes difficult, a calm tone and patient listening may be more helpful than correcting or testing the person's memory. Notice what seems to make the moment easier and share that practical observation with the family contact.</p>
+                </div>
+            </article>
+            <article class="memory-care__daybook-moment">
+                <span><i class="fa fa-leaf" aria-hidden="true"></i></span>
+                <div>
+                    <h3>Later in the day: respect energy and changing cues</h3>
+                    <p>Some days the person may welcome company or a usual activity; at other times they may show that they want a break, quiet, or a change of surroundings. Keep expectations flexible and avoid turning a preferred routine into a demand. Families can share what the person usually enjoys, what signs suggest they need a pause, and how they prefer others to respond when they appear unsettled.</p>
+                    <p>Changes in mood, sleep, memory, mobility, or general health should not be assumed to be part of Alzheimer's. Share concerns with the person's treating professional so they can advise appropriately. A caregiver should not diagnose the reason for a change or alter clinical instructions.</p>
+                </div>
+            </article>
+            <article class="memory-care__daybook-moment">
+                <span><i class="fa fa-moon-o" aria-hidden="true"></i></span>
+                <div>
+                    <h3>At handover: pass on what helps the next day</h3>
+                    <p>A useful family handover focuses on practical, agreed information: activities the person welcomed, preferred routines, changes to the household schedule, and any concern that should be shared with the treating team. Decide in advance which family member is the main contact and how updates should be communicated. Keep the person's privacy in mind and involve them in conversations wherever possible.</p>
+                </div>
+            </article>
+            <p class="memory-care__daybook-note"><strong>Keep care roles clear:</strong> Home support can assist with agreed daily routines and companionship; it does not diagnose or treat Alzheimer's. For clinical concerns, contact the treating professional. For an emergency, contact local emergency services.</p>
         </section>
 
         <section class="memory-care__familiar">

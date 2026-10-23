@@ -80,6 +80,62 @@
         content: "/\00a0";
         padding: 0 5px;
     }
+    .elder-home__passages {
+        margin-top: 35px;
+        padding: 29px 34px;
+        background: #fff;
+        border: 1px solid #e8e8df;
+        border-top: 3px solid #758c73;
+        box-shadow: 0 10px 28px rgba(70, 83, 70, .06);
+    }
+    .elder-home__passages-header {
+        max-width: 790px;
+        margin-bottom: 20px;
+    }
+    .elder-home__passages-header > span {
+        color: #71876f;
+        font-size: 9px;
+        font-weight: 700;
+        letter-spacing: 1.5px;
+    }
+    .elder-home__passages-header h2 {
+        margin: 8px 0 10px;
+        color: #584b42;
+        font-size: 27px;
+        font-weight: 700;
+        line-height: 1.3;
+    }
+    .elder-home__passages-header p,
+    .elder-home__passage p {
+        color: #6b675f;
+        font-size: 12px;
+        line-height: 1.9;
+    }
+    .elder-home__passages-header p { margin: 0; }
+    .elder-home__passage {
+        padding: 17px 0;
+        border-top: 1px solid #e8e8df;
+    }
+    .elder-home__passage h3 {
+        margin: 0 0 7px;
+        color: #584b42;
+        font-size: 16px;
+        font-weight: 700;
+    }
+    .elder-home__passage p { margin: 0 0 9px; }
+    .elder-home__passage p:last-child { margin-bottom: 0; }
+    @media screen and (max-width: 767px) {
+        .elder-home__passages { margin-top: 27px; padding: 23px 20px; }
+        .elder-home__passages-header h2 { font-size: 24px; }
+        .elder-home__passage { padding: 14px 0; }
+    }
+    @media screen and (max-width: 480px) {
+        .elder-home__passages { padding: 20px 16px; }
+        .elder-home__passages-header h2 { font-size: 22px; }
+        .elder-home__passages-header p,
+        .elder-home__passage p { font-size: 12px; line-height: 1.8; }
+        .elder-home__passage h3 { font-size: 15px; }
+    }
 </style>
 <a href="tel:7668066607" id="callnowbutton"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNjAgNjAiPjxwYXRoIGQ9Ik03LjEwNCAxNC4wMzJsMTUuNTg2IDEuOTg0YzAgMC0wLjAxOSAwLjUgMCAwLjk1M2MwLjAyOSAwLjc1Ni0wLjI2IDEuNTM0LTAuODA5IDIuMSBsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDE2LjUgMTcuNCAxOS44IDE5LjhsMTYuODEzIDEuMTQxYzAgMCAwIDAuNCAwIDEuMSBjLTAuMDAyIDAuNDc5LTAuMTc2IDAuOTUzLTAuNTQ5IDEuMzI3bC02LjUwNCA2LjUwNWMwIDAtMTEuMjYxIDAuOTg4LTI1LjkyNS0xMy42NzRDNi4xMTcgMjUuMyA3LjEgMTQgNy4xIDE0IiBmaWxsPSIjMDA2NzAwIi8+PHBhdGggZD0iTTcuMTA0IDEzLjAzMmw2LjUwNC02LjUwNWMwLjg5Ni0wLjg5NSAyLjMzNC0wLjY3OCAzLjEgMC4zNWw1ijtggYzAuNzM4IDEgMC41IDIuNTMxLTAuMzYgMy40MjZsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDUuMyA2LjkgOS4xIDEwLjY5OWMzLjg0MiAzLjggNy40IDYuNyAxMC43IDkuMSBsNC43NC00Ljc0MmMwLjg5Ny0wLjg5NSAyLjQ3MS0xLjAyNiAzLjQ5OC0wLjI4OWw3LjY0NiA1LjQ1NWMxLjAyNSAwLjcgMS4zIDIuMiAwLjQgMy4xMDVsLTYuNTA0IDYuNSBjMCAwLTExLjI2MiAwLjk4OC0yNS45MjUtMTMuNjc0QzYuMTE3IDI0LjMgNy4xIDEzIDcuMSAxMyIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg=="width="40"> Click To Call +91 7668066607 </a>
 	 <style>
@@ -206,6 +262,39 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
                 <span class="elder-home__service-number">04</span>
                 <h3>Family coordination</h3>
                 <p>Agree on a family point of contact, support schedule, and how routine updates or changes should be shared.</p>
+            </article>
+        </section>
+
+        <section class="elder-home__passages" aria-labelledby="elder-home-passages-title">
+            <header class="elder-home__passages-header">
+                <span>UNDERSTANDING ELDER CARE AT HOME</span>
+                <h2 id="elder-home-passages-title">Personalised care that helps older adults feel at home</h2>
+                <p>Ageing brings different experiences for every person. Some older adults want help with a few parts of the day, while others and their families may need to rethink a larger part of the household routine. Elder care at home begins with listening: what the older adult values, what they can comfortably manage, and where practical support would make daily life easier. A thoughtful plan should preserve familiar choices and include the older person in decisions wherever possible.</p>
+            </header>
+            <article class="elder-home__passage">
+                <h3>Respecting independence, privacy, and personal choice</h3>
+                <p>Accepting help can be an important change for an older adult and for the people close to them. The aim of home support is not to take over familiar activities, but to offer assistance where it is welcome. A conversation about preferred wake-up times, clothing, personal routines, meals, and the way help is offered can give everyone a clearer place to start. It is equally important to understand which activities the person prefers to continue doing on their own.</p>
+                <p>Personal care should be approached with patience and respect for privacy. Give the older adult time to express what feels comfortable, and do not assume that one family's routine will suit another person's needs. Preferences may change from day to day, so families should agree on a considerate way to communicate requests and changes. Including the older adult in these discussions helps the care arrangement feel more familiar and personal.</p>
+            </article>
+            <article class="elder-home__passage">
+                <h3>Daily routines, mobility, and comfort at home</h3>
+                <p>Getting ready, preparing for a meal, moving between rooms, or following a familiar daily schedule may call for extra assistance over time. Families can describe the parts of the day that have become difficult and discuss what help would be useful. The arrangement might include agreed support with everyday personal routines, meals, or companionship. The specific tasks, timing, and boundaries should be talked through in advance rather than assumed.</p>
+                <p>Every home and every person's mobility needs are different. Stairs, narrow spaces, pets, equipment, and frequently used rooms may all be relevant when planning support. If a doctor, nurse, physiotherapist, or other treating professional has provided guidance about movement or safety, share it with the family member coordinating care and follow the professional's advice. An attendant should not attempt a transfer or activity that falls outside the agreed role or the person's guidance.</p>
+            </article>
+            <article class="elder-home__passage">
+                <h3>Companionship, meaningful activities, and connection</h3>
+                <p>Wellbeing at home is shaped by more than practical tasks. Conversation, favourite music, reading, time outdoors when appropriate, and familiar hobbies can all be part of a person's preferred day. Families can share what the older adult enjoys, how much activity feels comfortable, and when they prefer quiet or rest. Support should adapt to the person's interests and energy rather than putting pressure on them to follow a fixed set of activities.</p>
+                <p>For relatives who live at a distance or cannot always be present, agreeing on a family contact can make everyday coordination simpler. Decide who should receive routine updates, how schedule changes will be shared, and how the older adult can ask to speak with family. These small communication arrangements can help everyone stay informed while continuing to treat the older adult as the central voice in their own care.</p>
+            </article>
+            <article class="elder-home__passage">
+                <h3>Support for families as needs change</h3>
+                <p>Families may look for additional help after a change in mobility, a hospital stay, the loss of a spouse, or another shift in a person's circumstances. Needs can also evolve gradually, as certain activities become more tiring or the family's availability changes. Discussing the routine regularly helps identify which assistance is still useful and whether timings or responsibilities need to be reviewed. If a change relates to the person's health, seek advice from their treating professional rather than relying on an attendant to assess it.</p>
+                <p>Before support begins, families can note the older adult's location, preferred routine, activities where help is requested, access considerations, and a contact person for coordination. Share relevant professional instructions and discuss how privacy, visitors, and household access should be handled. Be clear about what is and is not included in the arrangement, and confirm availability and schedules directly with the care team.</p>
+            </article>
+            <article class="elder-home__passage">
+                <h3>Understanding the difference between elder care and nursing</h3>
+                <p>Elder care attendants can offer agreed non-clinical support with daily living and companionship, but this is not the same as nursing or medical treatment. Diagnosis, clinical monitoring, wound care, nursing procedures, medical advice, and changes to treatment must be handled by qualified healthcare professionals. Medication arrangements should follow the instructions of the treating professional and be discussed clearly with the family and care team.</p>
+                <p>If the older adult develops a new symptom, appears unwell, or needs a task that may be clinical, contact their treating professional for guidance. If there is an emergency, contact local emergency services. Keeping these roles clear helps families seek the right kind of care and supports a safer, more realistic plan at home.</p>
             </article>
         </section>
 

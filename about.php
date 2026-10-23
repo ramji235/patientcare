@@ -80,6 +80,47 @@
         content: "/\00a0";
         padding: 0 5px;
     }
+    .about-page { margin: 0; padding: 42px 0 52px; background: #f7faf8; }
+    .about-intro { display: grid; grid-template-columns: minmax(0, 1.45fr) minmax(240px, .8fr); gap: 36px; align-items: center; margin-bottom: 34px; }
+    .about-intro h1 { line-height: 1.35; margin: 0 0 16px; }
+    .about-intro .text p, .about-page p { font-size: 14px; line-height: 1.8; }
+    .about-intro .text p:last-child { margin-bottom: 0; }
+    .about-photo { padding: 14px; background: #fff; border: 1px solid #dce8e2; border-radius: 8px; box-shadow: 0 12px 30px rgba(18, 58, 45, .08); }
+    .about-photo img { display: block; width: 100%; height: auto; }
+    .about-photo__caption { margin-top: 10px; padding: 12px 4px 2px; border-top: 1px solid #e4ece7; color: #087255; font-weight: 600; }
+    .about-summary, .about-service-grid, .about-values-grid, .about-steps-grid { display: grid; gap: 14px; }
+    .about-summary { grid-template-columns: repeat(3, minmax(0, 1fr)); margin-bottom: 42px; }
+    .about-summary article { padding: 18px 20px; background: #fff; border: 1px solid #e2ebe6; border-top: 3px solid #16845e; border-radius: 6px; }
+    .about-summary h3, .about-service-card h3, .about-value h3, .about-step h3 { margin: 0 0 8px; color: #173e35; }
+    .about-summary p, .about-service-card p, .about-value p, .about-step p { margin: 0; }
+    .about-section-heading { margin-bottom: 20px; }
+    .about-section-heading h2, .about-values > h2, .about-steps > h2 { margin: 0 0 9px; color: #173e35; }
+    .about-section-heading p { margin: 0; }
+    .about-services { margin-bottom: 42px; }
+    .about-service-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .about-service-card { min-height: 150px; padding: 20px; background: #fff; border: 1px solid #e2ebe6; border-radius: 6px; }
+    .about-service-card:nth-child(2) { background: #f0f6f2; }
+    .about-service-card:nth-child(3) { background: #f2f6f8; }
+    .about-service-icon { display: inline-flex; width: 36px; height: 36px; align-items: center; justify-content: center; margin-bottom: 12px; color: #087255; background: #e2f1e9; border-radius: 50%; }
+    .about-values { margin-bottom: 42px; }
+    .about-values-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    .about-value { padding: 18px 20px; border-left: 3px solid #16845e; background: #edf4f0; }
+    .about-steps { margin-bottom: 32px; padding: 24px; background: #eef4f7; border-left: 4px solid #176e9c; border-radius: 6px; }
+    .about-steps-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    .about-step-number { display: inline-block; margin-bottom: 8px; color: #176e9c; font-weight: 700; }
+    .about-contact { display: flex; align-items: center; justify-content: space-between; gap: 20px; padding: 24px 26px; color: #fff; background: #075c49; border-radius: 6px; }
+    .about-contact h2 { margin: 0 0 8px; color: #fff; }
+    .about-contact p { margin: 0; }
+    .about-contact a { display: inline-block; flex: 0 0 auto; padding: 11px 18px; color: #075c49; background: #fff; border-radius: 4px; font-weight: 600; text-decoration: none; }
+    .about-contact a:hover, .about-contact a:focus { color: #064332; background: #e8f3ed; }
+    @media (max-width: 767px) {
+        .about-page { padding: 28px 0 36px; }
+        .about-intro { grid-template-columns: minmax(0, 1fr); gap: 20px; }
+        .about-summary, .about-values-grid, .about-steps-grid, .about-service-grid { grid-template-columns: minmax(0, 1fr); }
+        .about-summary, .about-services, .about-values { margin-bottom: 30px; }
+        .about-steps { padding: 19px; }
+        .about-contact { align-items: flex-start; flex-direction: column; padding: 21px; }
+    }
 </style>
 <a href="tel:7668066607" id="callnowbutton"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNjAgNjAiPjxwYXRoIGQ9Ik03LjEwNCAxNC4wMzJsMTUuNTg2IDEuOTg0YzAgMC0wLjAxOSAwLjUgMCAwLjk1M2MwLjAyOSAwLjc1Ni0wLjI2IDEuNTM0LTAuODA5IDIuMSBsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDE2LjUgMTcuNCAxOS44IDE5LjhsMTYuODEzIDEuMTQxYzAgMCAwIDAuNCAwIDEuMSBjLTAuMDAyIDAuNDc5LTAuMTc2IDAuOTUzLTAuNTQ5IDEuMzI3bC02LjUwNCA2LjUwNWMwIDAtMTEuMjYxIDAuOTg4LTI1LjkyNS0xMy42NzRDNi4xMTcgMjUuMyA3LjEgMTQgNy4xIDE0IiBmaWxsPSIjMDA2NzAwIi8+PHBhdGggZD0iTTcuMTA0IDEzLjAzMmw2LjUwNC02LjUwNWMwLjg5Ni0wLjg5NSAyLjMzNC0wLjY3OCAzLjEgMC4zNWw1ijtggYzAuNzM4IDEgMC41IDIuNTMxLTAuMzYgMy40MjZsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDUuMyA2LjkgOS4xIDEwLjY5OWMzLjg0MiAzLjggNy40IDYuNyAxMC43IDkuMSBsNC43NC00Ljc0MmMwLjg5Ny0wLjg5NSAyLjQ3MS0xLjAyNiAzLjQ5OC0wLjI4OWw3LjY0NiA1LjQ1NWMxLjAyNSAwLjcgMS4zIDIuMiAwLjQgMy4xMDVsLTYuNTA0IDYuNSBjMCAwLTExLjI2MiAwLjk4OC0yNS45MjUtMTMuNjc0QzYuMTE3IDI0LjMgNy4xIDEzIDcuMSAxMyIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg=="width="40"> Click To Call +91 7668066607 </a>
 	 <style>
@@ -155,72 +196,69 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
 <!--breadcump div end-->
 
 
-<a name="about"></a>
-<!-- welcome div start -->
-<div class="content">
+<main id="about" class="about-page">
     <div class="container">
-        <div class="row">
-        	<div class="col-md-8 col-sm-8 col-xs-12">
-            <!--weldiv start-->
+        <section class="about-intro">
             <div class="wel">
-                <h1 style="font-size:25px;"><strong style="color:#0066CC;">Careright Home Health Care Pvt. Ltd.</strong><span></span></h1>
-                <div class="text"><p>Careright Home Health Care Pvt. Ltd. connects individuals and families with home-care support in familiar surroundings. Based in Shakarpur, New Delhi, we bring together a range of care services to help families explore support that suits their needs.</p><p>We believe care should be thoughtful, respectful, and centred on the person receiving it. We listen to families, learn about their requirements, and help them understand the services they can enquire about.</p><p>Our goal is to make it easier for families to discuss care at home with a team that values clear communication, dignity, and personal preferences.</p></div>
-            
-                <div class="page-detail-content">
-                    <h2>Who we are</h2>
-                    <p>Careright Home Health Care Pvt. Ltd. is a home-care provider based in Shakarpur, New Delhi. We work with families looking for support for a loved one at home and aim to make it straightforward to enquire about the care they need.</p>
-                    <h2>Care that feels personal</h2>
-                    <p>Every person and household is different. We value listening to the individual and their family, understanding their preferences, and communicating clearly while discussing suitable home-care options.</p>
-                    <h2>Our care services</h2>
-                    <p>Our services include home nursing, patient-care attendants, elder care, dementia care, baby and mother care, and physiotherapy. Families can contact us to ask about a specific service and its availability for their area and needs.</p>
-                    <h2>Our approach</h2>
-                    <p>We believe home care should respect each person's dignity, privacy, and independence. We encourage open communication with families so expectations and support requirements can be discussed clearly.</p>
-                    <h2>Supporting families in Delhi NCR</h2>
-                    <p>From our New Delhi base, families can get in touch to enquire about home-care support in Delhi NCR. Service availability may depend on the location and the care required.</p>
-                    <h2>Get in touch with us</h2>
-                    <p>To learn more about Careright or discuss a home-care enquiry, call us on <a href="tel:7668066607">+91 7668066607</a> or email <a href="mailto:carerighthomehealthcare@gmail.com">carerighthomehealthcare@gmail.com</a>. You can also visit us at U-68-A, Upadhyay Block, Shakarpur, New Delhi-110092.</p>
+                <h1 style="font-size:25px;"><strong style="color:#0066CC;">Careright Home Health Care Pvt. Ltd.</strong></h1>
+                <div class="text">
+                    <p>Careright Home Health Care Pvt. Ltd. connects individuals and families with home-care support in familiar surroundings. Based in Shakarpur, New Delhi, we help families explore care options that fit their needs.</p>
+                    <p>We believe care should be thoughtful, respectful, and centred on the person receiving it. We listen to families, learn about their requirements, and help them understand the services they can enquire about.</p>
+                    <p>Our goal is to make it easier to discuss care at home through clear communication, respect for personal preferences, and practical guidance about the next steps.</p>
                 </div>
-</div>
             </div>
-            <div class="col-md-4 col-sm-4 col-xs-12">
-            <!--callback form div start-->
-            <div class="callback">
-                <img src="images/abo.jpg" style="width:91%;">
-            </div>	
-            <!--callback form div end-->
-            </div>
-        </div>
-    </div>
-</div>
+            <aside class="about-photo">
+                <img src="images/abo.jpg" alt="A care professional supporting an older adult at home">
+                <div class="about-photo__caption"><i class="fa fa-heart-o" aria-hidden="true"></i> Thoughtful support in familiar surroundings</div>
+            </aside>
+        </section>
 
-<!-- Statistics Section Start -->
-<div class="content">
-    <div class="container">
-        <div class="row">
-        	<div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-handshake-o" aria-hidden="true"></i> 1000+</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Services Delivered<br><br></p>
-                </div>
+        <section class="about-summary" aria-label="About our care">
+            <article><h3><i class="fa fa-map-marker" aria-hidden="true"></i> Local base</h3><p>Based in Shakarpur, New Delhi, with enquiries for Delhi NCR.</p></article>
+            <article><h3><i class="fa fa-medkit" aria-hidden="true"></i> Care options</h3><p>Explore nursing, attendant, elder, and specialized care services.</p></article>
+            <article><h3><i class="fa fa-comments-o" aria-hidden="true"></i> Family first</h3><p>Discuss needs and preferences before deciding on next steps.</p></article>
+        </section>
+
+        <section class="about-services">
+            <div class="about-section-heading">
+                <h2>Care options for different needs</h2>
+                <p>Every home and care situation is different. Families can contact us to discuss the support they are looking for and check availability for their area.</p>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-thumbs-up" aria-hidden="true"></i> 10+ Yrs</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Of Exeperience In Nursing Care<br><br></p>
-                </div>
+            <div class="about-service-grid">
+                <article class="about-service-card"><span class="about-service-icon"><i class="fa fa-stethoscope" aria-hidden="true"></i></span><h3>Home nursing</h3><p>Ask about nursing services and care support for a loved one at home.</p></article>
+                <article class="about-service-card"><span class="about-service-icon"><i class="fa fa-wheelchair" aria-hidden="true"></i></span><h3>Patient and elder care</h3><p>Explore attendant and elder-care options for everyday support and assistance.</p></article>
+                <article class="about-service-card"><span class="about-service-icon"><i class="fa fa-heartbeat" aria-hidden="true"></i></span><h3>Specialized care</h3><p>Enquire about dementia, neuro, critical-patient, and other specific care needs.</p></article>
+                <article class="about-service-card"><span class="about-service-icon"><i class="fa fa-child" aria-hidden="true"></i></span><h3>Family and recovery care</h3><p>Learn about baby and mother care, physiotherapy, and related home services.</p></article>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-star" aria-hidden="true"></i> 100%</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Satisfaction Rate<br><br></p>
-                </div>
+        </section>
+
+        <section class="about-values">
+            <h2>What matters in care</h2>
+            <div class="about-values-grid">
+                <article class="about-value"><h3>Dignity and respect</h3><p>Care conversations should respect privacy, independence, and each person's preferences.</p></article>
+                <article class="about-value"><h3>Listening first</h3><p>Understanding routines and family concerns helps make an enquiry more useful.</p></article>
+                <article class="about-value"><h3>Clear communication</h3><p>Families should be able to discuss requirements, availability, and expectations openly.</p></article>
             </div>
-        </div>
+        </section>
+
+        <section class="about-steps">
+            <h2>Starting a care enquiry</h2>
+            <div class="about-steps-grid">
+                <article class="about-step"><span class="about-step-number">01</span><h3>Share your needs</h3><p>Tell us about the person who needs support and the type of care you are exploring.</p></article>
+                <article class="about-step"><span class="about-step-number">02</span><h3>Discuss options</h3><p>Talk through the service, location, and any preferences or questions your family has.</p></article>
+                <article class="about-step"><span class="about-step-number">03</span><h3>Confirm next steps</h3><p>Check service availability and clarify the details before moving forward.</p></article>
+            </div>
+        </section>
+
+        <section class="about-contact">
+            <div>
+                <h2>Talk with our team</h2>
+                <p>Call +91 7668066607 or write to carerighthomehealthcare@gmail.com. Based in Shakarpur, New Delhi; service availability depends on location and care requirements.</p>
+            </div>
+            <a href="enquiry.php">Make an enquiry <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+        </section>
     </div>
-</div>
-<!-- Statistics Section End -->
+</main>
 
 
 <!--bot links div start-->  

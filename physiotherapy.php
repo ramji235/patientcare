@@ -1,14 +1,14 @@
 <!doctype html>
 <html>
 <head>
-<title>Physiotherapy.</title>
+<title>Physiotherapy at Home | Careright Home Health Care Pvt. Ltd.</title>
 
 <!-- Mirrored from carerighthomehealthcares.com/about-us by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Aug 2025 10:04:00 GMT -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Learn more about Careright Home Health Care Pvt. Ltd., our mission, and our commitment to providing quality home nursing, attendant services, and patient care." />
-<meta name="keywords" content="about us, home health care, nursing services, patient care, elder care" />
-<link rel="canonical" href="about-us.html" />
+<meta name="description" content="Explore home physiotherapy, rehabilitation planning, mobility goals, home preparation, and ways to coordinate with a qualified physiotherapist." />
+<meta name="keywords" content="physiotherapy at home, home physiotherapy, rehabilitation support, mobility exercises" />
+<link rel="canonical" href="physiotherapy.php" />
 <meta name="google-site-verification" content="FxrmckzPcTYaL7gXPNcvhWAGROvqhvdqNZlgs4IRA2k" />
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <meta charset="utf-8">
@@ -18,6 +18,76 @@
 <link href="style/media_screen.css" rel="stylesheet">
 <script src="use.fontawesome.com/c5be872b61.html"></script>
 <link rel="stylesheet" href="../maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" type="text/css">
+<style>
+    .physio-title { padding:27px 0 23px; color:#fff; background:#17454a; }
+    .physio-title .container > span,.physio__eyebrow,.physio__intro > div > span,.physio__plan > div:first-child > span,.physio__contact > div:first-child > span { color:#a7d8cc; font-size:12px; font-weight:700; letter-spacing:1px; }
+    .physio-title h1 { margin:8px 0; color:#fff; font-size:30px; font-weight:700; }
+    .physio-title .breadcrumb { margin:0; padding:0; background:transparent; }
+    .physio-title .breadcrumb li,.physio-title .breadcrumb > .active { color:#dcebea; font-size:13px; }
+    .physio-title .breadcrumb li a { color:#fff; text-decoration:none; }
+    .physio-title .breadcrumb>li+li:before { color:#a7d8cc; }
+    .physio { padding:34px 0 52px; background:#f2f7f5; }
+    .physio__hero { display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1fr); min-height:425px; overflow:hidden; background:#fff; box-shadow:0 16px 38px rgba(23,69,74,.11); }
+    .physio__photo { position:relative; min-height:425px; margin:0; overflow:hidden; background:#dce8e4; }
+    .physio__photo img { display:block; width:100%; height:100%; min-height:425px; object-fit:cover; object-position:center; }
+    .physio__photo figcaption { position:absolute; right:16px; bottom:16px; max-width:calc(100% - 32px); padding:10px 13px; color:#17454a; background:#fff; border-left:3px solid #75b6a6; font-size:13px; font-weight:700; }
+    .physio__copy { display:flex; flex-direction:column; align-items:flex-start; justify-content:center; padding:40px; color:#fff; background:#17454a; }
+    .physio__copy h2 { max-width:490px; margin:12px 0; color:#fff; font-size:36px; font-weight:700; line-height:1.2; }
+    .physio__copy > p { max-width:520px; margin:0; color:#e1ece9; font-size:14px; line-height:1.85; }
+    .physio__actions { display:flex; flex-wrap:wrap; align-items:center; gap:17px; margin-top:23px; }
+    .physio__actions a:first-child { display:inline-flex; align-items:center; gap:8px; padding:12px 15px; color:#17454a; background:#a7d8cc; font-size:14px; font-weight:700; text-decoration:none; }
+    .physio__actions a:first-child:hover { background:#c7e8df; }
+    .physio__actions a:last-child { color:#fff; font-size:14px; text-decoration:none; }
+    .physio__intro { display:grid; grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr); gap:40px; align-items:center; padding:43px 4px 25px; }
+    .physio__intro > div > span { color:#087c76; }
+    .physio__intro h2 { margin:8px 0 0; color:#17454a; font-size:27px; font-weight:700; line-height:1.3; }
+    .physio__intro > p { margin:0; color:#526477; font-size:14px; line-height:1.85; }
+    .physio__services { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:15px; }
+    .physio__services article { min-height:205px; padding:21px; background:#fff; border:1px solid #dce8e4; border-top:3px solid #75b6a6; box-shadow:0 7px 21px rgba(23,69,74,.05); }
+    .physio__services article > i { display:flex; width:42px; height:42px; align-items:center; justify-content:center; margin-bottom:14px; color:#087c76; background:#e1f0eb; border-radius:50%; font-size:18px; }
+    .physio__services h3 { margin:0 0 7px; color:#17454a; font-size:17px; font-weight:700; }
+    .physio__services p { margin:0; color:#526477; font-size:14px; line-height:1.75; }
+    .physio__details { display:grid; grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr); gap:38px; margin-top:30px; padding:32px; background:#fff; border:1px solid #e0e9e5; }
+    .physio__details h2 { margin:8px 0 0; color:#17454a; font-size:25px; font-weight:700; line-height:1.3; }
+    .physio__details-copy p { margin:0 0 12px; color:#526477; font-size:14px; line-height:1.8; }
+    .physio__details-copy p:last-child { margin-bottom:0; }
+    .physio__plan { display:grid; grid-template-columns:minmax(0,.8fr) minmax(0,1.2fr); gap:36px; align-items:center; margin-top:18px; padding:29px; color:#fff; background:#17454a; }
+    .physio__plan > div:first-child > span,.physio__contact > div:first-child > span { color:#a7d8cc; }
+    .physio__plan h2 { margin:8px 0; color:#fff; font-size:25px; font-weight:700; line-height:1.3; }
+    .physio__plan > div:first-child > p { margin:0; color:#e1ece9; font-size:14px; line-height:1.75; }
+    .physio__steps { display:grid; gap:12px; }
+    .physio__steps article { display:grid; grid-template-columns:35px minmax(0,1fr); gap:12px; padding-bottom:12px; border-bottom:1px solid rgba(255,255,255,.16); }
+    .physio__steps article:last-child { padding-bottom:0; border:0; }
+    .physio__steps article > span { display:flex; width:31px; height:31px; align-items:center; justify-content:center; color:#17454a; background:#a7d8cc; border-radius:50%; font-size:14px; font-weight:700; }
+    .physio__steps h3 { margin:0 0 4px; color:#fff; font-size:15px; font-weight:700; }
+    .physio__steps p { margin:0; color:#e1ece9; font-size:14px; line-height:1.7; }
+    .physio__note { display:grid; grid-template-columns:38px minmax(0,1fr); gap:12px; margin-top:15px; padding:16px 18px; background:#fff7e9; border:1px solid #f1e2c8; }
+    .physio__note > span { display:flex; width:32px; height:32px; align-items:center; justify-content:center; color:#fff; background:#bf8860; border-radius:50%; }
+    .physio__note strong { color:#66503e; font-size:14px; }
+    .physio__note p { margin:4px 0 0; color:#776b5d; font-size:14px; line-height:1.7; }
+    .physio__contact { display:flex; align-items:center; justify-content:space-between; gap:22px; margin-top:15px; padding:23px 25px; color:#fff; background:#087c76; }
+    .physio__contact h2 { margin:7px 0; color:#fff; font-size:21px; font-weight:700; }
+    .physio__contact p { max-width:640px; margin:0; color:#e7f4f1; font-size:14px; line-height:1.7; }
+    .physio__contact > div:last-child { display:flex; flex:0 0 auto; flex-direction:column; align-items:flex-start; gap:9px; }
+    .physio__contact > div:last-child a:first-child { display:inline-flex; align-items:center; gap:8px; padding:11px 14px; color:#17454a; background:#a7d8cc; font-size:14px; font-weight:700; text-decoration:none; }
+    .physio__contact > div:last-child a:last-child { color:#fff; font-size:14px; text-decoration:underline; }
+    @media (max-width:900px) { .physio__copy { padding:30px 26px; } .physio__copy h2 { font-size:30px; } .physio__intro { gap:24px; } .physio__plan { gap:23px; } }
+    @media (max-width:767px) {
+        .physio { padding:21px 0 37px; }
+        .physio__hero { grid-template-columns:minmax(0,1fr); }
+        .physio__photo,.physio__photo img { min-height:0; height:290px; }
+        .physio__copy { padding:28px 22px; }
+        .physio__copy h2 { font-size:28px; }
+        .physio__intro,.physio__details { grid-template-columns:minmax(0,1fr); gap:13px; }
+        .physio__intro { padding:32px 2px 21px; }
+        .physio__details { margin-top:24px; padding:22px 19px; }
+        .physio__intro h2,.physio__details h2 { font-size:23px; }
+        .physio__services { grid-template-columns:minmax(0,1fr); gap:10px; }
+        .physio__services article { min-height:0; padding:18px; }
+        .physio__plan { grid-template-columns:minmax(0,1fr); gap:18px; margin-top:22px; padding:22px 19px; }
+        .physio__contact { align-items:flex-start; flex-direction:column; gap:14px; padding:20px; }
+    }
+</style>
 </head>
 <body>
 <style type="text/css">
@@ -142,93 +212,103 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
 <!--header div end-->
 
 
-<!--breadcump div start-->     
-<section class="page-title-section">
+<section class="physio-title" aria-label="Page heading">
     <div class="container">
+        <span>CARERIGHT HOME HEALTH CARE</span>
         <h1>Physiotherapy</h1>
         <ol class="breadcrumb">
           <li><a href="index.php">Home</a></li>
-          <li class="active">Physiotherapy</li>
+          <li class="active">Physiotherapy at Home</li>
         </ol>
     </div>
 </section>
-<!--breadcump div end-->
-
-
-<a name="about"></a>
-<!-- welcome div start -->
-<div class="content">
+<main class="physio">
     <div class="container">
-        <div class="row">
-        	<div class="col-md-8 col-sm-8 col-xs-12">
-            <!--weldiv start-->
-            <div class="wel">
-                <h1 style="font-size:25px;"><strong style="color:#0066CC;">Physiotherapy Services at Home</strong><span></span></h1>
-                <div class="text"><p>Home physiotherapy can make rehabilitation more convenient for people who find it difficult to travel. Sessions should follow an assessment and plan from a qualified physiotherapist, with exercises and progress adapted to the patient's abilities and clinical guidance.</p></div>
-            
-                <div class="page-detail-content">
-                    <h2>Understanding the support</h2>
-                    <p>Families considering home physiotherapy can begin by describing a professional rehabilitation plan in familiar surroundings. The suitable arrangement depends on the individual, the household routine, confirmed availability, and any relevant professional guidance.</p>
-                    <h2>Planning daily routines</h2>
-                    <p>A useful discussion identifies assessment-led exercises and mobility work selected by a physiotherapist. Explain which activities are most important, when help is needed, and what the person receiving care prefers to do independently.</p>
-                    <h2>Preparing for care</h2>
-                    <p>Before support begins, gather mobility goals, relevant assessment details, and clinician advice. Keeping current information together makes family handovers clearer and helps the care team understand the arrangements already in place.</p>
-                    <h2>Home and access arrangements</h2>
-                    <p>Planning should also take account of a clear exercise area and information about mobility aids or access. Mention practical constraints early, including access, timing, the household's daily routine, and any equipment that affects the service.</p>
-                    <h2>Family communication</h2>
-                    <p>Agree with family members on how family members can support the agreed routine without taking over. A clear point of contact and consistent handover can reduce confusion when schedules change or practical questions arise.</p>
-                    <h2>Respectful, personal support</h2>
-                    <p>Support should respect the person's dignity, privacy, and choices. Discuss communication preferences, familiar routines, and how assistance can be offered without taking away independence.</p>
-                    <h2>Working with healthcare professionals</h2>
-                    <p>Keep clinical responsibilities clear: exercises should not be changed without professional guidance. If health needs change or new symptoms appear, contact the treating professional rather than relying on a routine service discussion.</p>
-                    <h2>Reviewing the care arrangement</h2>
-                    <p>Review the arrangement regularly, especially whether progress or symptoms call for therapist reassessment. Families can share practical feedback with the coordinator and consult the relevant professional when care instructions need reassessment.</p>
-                    <h2>Questions to discuss</h2>
-                    <p>Before confirming a service, ask about assessment, session timing, exercise instructions, and follow-up. Discussing duties, hours, communication, and availability in advance helps everyone understand what is and is not included.</p>
-                    <h2>Getting started</h2>
-                    <p>To get started with home physiotherapy, share the patient's location, mobility goals, assessment, and preferred schedule. The team can use those details to discuss the request, explain possible availability, and outline the next step without assuming a booking.</p>
+        <section class="physio__hero" aria-labelledby="physio-hero-title">
+            <figure class="physio__photo">
+                <img src="images/Physiotherapy2.jpg" alt="A physiotherapist guiding a seated patient through a rehabilitation movement">
+                <figcaption>Movement goals guided by a qualified professional</figcaption>
+            </figure>
+            <div class="physio__copy">
+                <span class="physio__eyebrow">REHABILITATION, AT HOME</span>
+                <h2 id="physio-hero-title">Build confidence in movement, one step at a time.</h2>
+                <p>Home physiotherapy can bring rehabilitation into familiar surroundings. A qualified physiotherapist can assess the person's needs and guide an appropriate plan, with goals and activities based on their abilities and professional advice.</p>
+                <div class="physio__actions">
+                    <a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> Talk to our team</a>
+                    <a href="#physio-support">Explore support <i class="fa fa-arrow-down" aria-hidden="true"></i></a>
                 </div>
-</div>
             </div>
-            <div class="col-md-4 col-sm-4 col-xs-12">
-            <!--callback form div start-->
-            <div class="callback">
-                <img src="images/abo.jpg" style="width:91%;">
-            </div>	
-            <!--callback form div end-->
-            </div>
-        </div>
-    </div>
-</div>
+        </section>
 
-<!-- Statistics Section Start -->
-<div class="content">
-    <div class="container">
-        <div class="row">
-        	<div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-handshake-o" aria-hidden="true"></i> 1000+</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Services Delivered<br><br></p>
-                </div>
+        <section class="physio__intro" aria-labelledby="physio-intro-title">
+            <div>
+                <span>PERSONALISED REHABILITATION</span>
+                <h2 id="physio-intro-title">A plan that starts with an assessment</h2>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-thumbs-up" aria-hidden="true"></i> 10+ Yrs</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Of Exeperience In Nursing Care<br><br></p>
-                </div>
+            <p>Physiotherapy needs vary from person to person. Share the reason for seeking support, existing assessments or clinician guidance, and the activities that matter most in daily life. Session plans, exercise instructions, and progress reviews should be guided by a qualified physiotherapist.</p>
+        </section>
+
+        <section class="physio__services" id="physio-support" aria-label="Physiotherapy support areas">
+            <article>
+                <i class="fa fa-street-view" aria-hidden="true"></i>
+                <h3>Mobility and movement</h3>
+                <p>Discuss movement goals and daily activities that a physiotherapist can consider during assessment and planning.</p>
+            </article>
+            <article>
+                <i class="fa fa-refresh" aria-hidden="true"></i>
+                <h3>Recovery and rehabilitation</h3>
+                <p>Coordinate home sessions with relevant professional advice, the person's abilities, and agreed rehabilitation priorities.</p>
+            </article>
+            <article>
+                <i class="fa fa-home" aria-hidden="true"></i>
+                <h3>Home routine and family support</h3>
+                <p>Share available space, mobility aids, preferred timings, and how family members can support the agreed routine.</p>
+            </article>
+        </section>
+
+        <section class="physio__details" aria-labelledby="physio-details-title">
+            <div>
+                <span class="physio__eyebrow">PREPARING FOR A SESSION</span>
+                <h2 id="physio-details-title">Make the home visit easier to plan</h2>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-star" aria-hidden="true"></i> 100%</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Satisfaction Rate<br><br></p>
-                </div>
+            <div class="physio__details-copy">
+                <p>Before a visit, note the person's movement goals, relevant medical or discharge guidance, and any mobility equipment they use. A clear area for movement can help the physiotherapist understand the home setting and discuss suitable activities.</p>
+                <p>Families can ask how progress will be reviewed, what instructions should be followed between sessions, and who to contact with questions. Keep exercises within the physiotherapist's guidance and avoid changing the plan independently.</p>
+                <p>Share feedback about comfort, daily function, and any difficulties at follow-up. If symptoms change or a new health concern arises, contact the treating healthcare professional for advice.</p>
             </div>
-        </div>
+        </section>
+
+        <section class="physio__plan" aria-labelledby="physio-plan-title">
+            <div>
+                <span>GETTING STARTED</span>
+                <h2 id="physio-plan-title">Plan the next step together</h2>
+                <p>A few details can help the team understand the request and discuss the available service arrangements.</p>
+            </div>
+            <div class="physio__steps">
+                <article><span>1</span><div><h3>Describe the mobility goals</h3><p>Share what daily activities the person hopes to work toward with professional guidance.</p></div></article>
+                <article><span>2</span><div><h3>Share the relevant background</h3><p>Mention locality, existing assessment or clinician advice, and any equipment used at home.</p></div></article>
+                <article><span>3</span><div><h3>Discuss sessions and follow-up</h3><p>Ask about assessment, timing, professional responsibilities, and how progress is reviewed.</p></div></article>
+            </div>
+        </section>
+
+        <aside class="physio__note" aria-label="Important physiotherapy guidance">
+            <span><i class="fa fa-info" aria-hidden="true"></i></span>
+            <div><strong>Important physiotherapy guidance</strong><p>Exercises and progression should follow the qualified physiotherapist's assessment and instructions. For new symptoms, pain, or changes in health, contact the treating healthcare professional before changing the routine.</p></div>
+        </aside>
+
+        <section class="physio__contact" aria-labelledby="physio-contact-title">
+            <div>
+                <span>DISCUSS YOUR REHABILITATION NEEDS</span>
+                <h2 id="physio-contact-title">Considering physiotherapy at home?</h2>
+                <p>Share your locality, preferred schedule, and the movement goals or assessment details you would like to discuss. The team can explain service details and next steps.</p>
+            </div>
+            <div>
+                <a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> Call +91 76680 66607</a>
+                <a href="enquiry.php">Send an enquiry</a>
+            </div>
+        </section>
     </div>
-</div>
-<!-- Statistics Section End -->
+</main>
 
 
 <!--bot links div start-->  

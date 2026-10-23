@@ -80,6 +80,87 @@
         content: "/\00a0";
         padding: 0 5px;
     }
+    .cancer-home__daybook {
+        margin-top: 30px;
+        padding: 28px 31px;
+        background: #fff;
+        border-top: 1px solid #d9dfdb;
+        border-bottom: 1px solid #d9dfdb;
+    }
+    .cancer-home__daybook-heading {
+        display: grid;
+        grid-template-columns: minmax(0, .8fr) minmax(0, 1.2fr);
+        gap: 34px;
+        align-items: end;
+        margin-bottom: 16px;
+    }
+    .cancer-home__daybook-heading > div > span {
+        color: #718a7d;
+        font-size: 9px;
+        font-weight: 700;
+        letter-spacing: 1.5px;
+    }
+    .cancer-home__daybook-heading h2 {
+        margin: 9px 0 0;
+        color: #3d4e54;
+        font-size: 26px;
+        font-weight: 700;
+        line-height: 1.3;
+    }
+    .cancer-home__daybook-heading > p,
+    .cancer-home__daybook-entry p {
+        margin: 0;
+        color: #687276;
+        font-size: 12px;
+        line-height: 1.9;
+    }
+    .cancer-home__daybook-entry {
+        display: grid;
+        grid-template-columns: 132px minmax(0, 1fr);
+        gap: 24px;
+        padding: 20px 0;
+        border-top: 1px solid #e7eae7;
+    }
+    .cancer-home__daybook-entry > span {
+        padding-top: 3px;
+        color: #a47557;
+        font-size: 9px;
+        font-weight: 700;
+        letter-spacing: 1.1px;
+    }
+    .cancer-home__daybook-entry h3 {
+        margin: 0 0 8px;
+        color: #3d4e54;
+        font-size: 16px;
+        font-weight: 700;
+    }
+    .cancer-home__daybook-entry p + p { margin-top: 9px; }
+    .cancer-home__daybook-quote {
+        margin: 5px 0 0 156px;
+        padding: 14px 18px;
+        color: #526760;
+        background: #eef2ef;
+        border-left: 3px solid #718a7d;
+        font-size: 13px;
+        font-weight: 700;
+        line-height: 1.8;
+    }
+    @media screen and (max-width: 767px) {
+        .cancer-home__daybook { margin-top: 23px; padding: 23px 20px; }
+        .cancer-home__daybook-heading { grid-template-columns: minmax(0, 1fr); gap: 11px; }
+        .cancer-home__daybook-heading h2 { font-size: 23px; }
+        .cancer-home__daybook-entry { grid-template-columns: 105px minmax(0, 1fr); gap: 15px; padding: 17px 0; }
+        .cancer-home__daybook-quote { margin-left: 120px; }
+    }
+    @media screen and (max-width: 480px) {
+        .cancer-home__daybook { padding: 19px 15px; }
+        .cancer-home__daybook-heading h2 { font-size: 21px; }
+        .cancer-home__daybook-heading > p,
+        .cancer-home__daybook-entry p { font-size: 12px; line-height: 1.8; }
+        .cancer-home__daybook-entry { grid-template-columns: minmax(0, 1fr); gap: 5px; padding: 15px 0; }
+        .cancer-home__daybook-entry h3 { font-size: 15px; }
+        .cancer-home__daybook-quote { margin-left: 0; padding: 12px 14px; font-size: 12px; }
+    }
 </style>
 <a href="tel:7668066607" id="callnowbutton"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNjAgNjAiPjxwYXRoIGQ9Ik03LjEwNCAxNC4wMzJsMTUuNTg2IDEuOTg0YzAgMC0wLjAxOSAwLjUgMCAwLjk1M2MwLjAyOSAwLjc1Ni0wLjI2IDEuNTM0LTAuODA5IDIuMSBsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDE2LjUgMTcuNCAxOS44IDE5LjhsMTYuODEzIDEuMTQxYzAgMCAwIDAuNCAwIDEuMSBjLTAuMDAyIDAuNDc5LTAuMTc2IDAuOTUzLTAuNTQ5IDEuMzI3bC02LjUwNCA2LjUwNWMwIDAtMTEuMjYxIDAuOTg4LTI1LjkyNS0xMy42NzRDNi4xMTcgMjUuMyA3LjEgMTQgNy4xIDE0IiBmaWxsPSIjMDA2NzAwIi8+PHBhdGggZD0iTTcuMTA0IDEzLjAzMmw2LjUwNC02LjUwNWMwLjg5Ni0wLjg5NSAyLjMzNC0wLjY3OCAzLjEgMC4zNWw1ijtggYzAuNzM4IDEgMC41IDIuNTMxLTAuMzYgMy40MjZsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDUuMyA2LjkgOS4xIDEwLjY5OWMzLjg0MiAzLjggNy40IDYuNyAxMC43IDkuMSBsNC43NC00Ljc0MmMwLjg5Ny0wLjg5NSAyLjQ3MS0xLjAyNiAzLjQ5OC0wLjI4OWw3LjY0NiA1LjQ1NWMxLjAyNSAwLjcgMS4zIDIuMiAwLjQgMy4xMDVsLTYuNTA0IDYuNSBjMCAwLTExLjI2MiAwLjk4OC0yNS45MjUtMTMuNjc0QzYuMTE3IDI0LjMgNy4xIDEzIDcuMSAxMyIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg=="width="40"> Click To Call +91 7668066607 </a>
 	 <style>
@@ -200,6 +281,49 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
                 <h3>Clear plans and updates</h3>
                 <p>Coordinate the agreed support schedule, family contact, and practical planning around treatment appointments.</p>
             </article>
+        </section>
+
+        <section class="cancer-home__daybook" aria-labelledby="cancer-home-daybook-title">
+            <header class="cancer-home__daybook-heading">
+                <div>
+                    <span>HOME LIFE ALONGSIDE CANCER CARE</span>
+                    <h2 id="cancer-home-daybook-title">A plan with room for the unexpected</h2>
+                </div>
+                <p>Cancer care can bring appointments, changes to familiar routines, and days that do not feel alike. Home support is not about predicting how someone will feel or taking charge of their treatment. It is about asking what would be useful now, agreeing practical help, and leaving space for the patient to change their mind or rest.</p>
+            </header>
+            <article class="cancer-home__daybook-entry">
+                <span>WHEN ENERGY VARIES</span>
+                <div>
+                    <h3>Let the patient's pace set the day</h3>
+                    <p>During cancer treatment, a person's energy and interest in everyday activities may change from day to day. Some days they may welcome help with a household routine or company for a while; on other days they may prefer quiet and more time to rest. Ask the patient which practical tasks they would like help with and which they would rather manage themselves. An arrangement that can be discussed and adjusted around those preferences is more considerate than expecting every day to follow the same schedule.</p>
+                    <p>Families can agree on how the attendant should check in, what the patient prefers when plans change, and who should be contacted about routine arrangements. Rest, privacy, and the ability to say “not today” are important parts of a patient-led home routine.</p>
+                </div>
+            </article>
+            <article class="cancer-home__daybook-entry">
+                <span>AROUND APPOINTMENTS</span>
+                <div>
+                    <h3>Keep practical arrangements clear</h3>
+                    <p>Treatment and follow-up appointments can shape the household schedule. Families may want to discuss the support hours they are seeking, the dates or times that affect the usual routine, and any agreed help needed before or after an appointment. Confirm who is arranging transport, who will accompany the patient if needed, and which family contact should receive schedule updates. Do not assume an attendant's availability for transport or appointment accompaniment; discuss and confirm those responsibilities with the care team in advance.</p>
+                    <p>For advice about preparation, treatment effects, medicines, or what to do if a patient feels unwell, use the instructions provided by the oncology team. An attendant can help with agreed everyday tasks but cannot interpret treatment instructions or decide whether symptoms need medical attention.</p>
+                </div>
+            </article>
+            <article class="cancer-home__daybook-entry">
+                <span>AT HOME</span>
+                <div>
+                    <h3>Offer help without making home feel like a clinic</h3>
+                    <p>Home can remain a personal space for familiar meals, conversations, relationships, and quiet. Practical support might be planned around the tasks the patient has identified, while leaving their preferred belongings, routines, and private time undisturbed. Families can share any relevant guidance from the treating team that affects agreed daily activities, and explain how they would like routine changes to be communicated.</p>
+                    <p>Care should be respectful and discreet. Ask before helping, listen to what feels comfortable, and avoid sharing the patient's personal information beyond the people they have agreed should be involved. The patient's own preferences should guide the arrangement wherever possible.</p>
+                </div>
+            </article>
+            <article class="cancer-home__daybook-entry">
+                <span>FOR FAMILY CAREGIVERS</span>
+                <div>
+                    <h3>Make coordination easier for everyone</h3>
+                    <p>Relatives often coordinate appointments, household responsibilities, and communication while also trying to be present for someone they care about. Agreeing on one family contact, a clear support schedule, and a simple way to share routine updates may help avoid crossed messages. Before support begins, make a note of requested tasks, boundaries, preferred timings, home access, and the person's wishes about family involvement. Revisit that conversation if the patient's needs or preferences change.</p>
+                    <p>It is understandable for family members to have questions, but care arrangements should not put an attendant in the position of making clinical judgements. When in doubt about what is safe or appropriate, ask the patient's oncology team.</p>
+                </div>
+            </article>
+            <blockquote class="cancer-home__daybook-quote">The patient leads the day. Practical help can fit around their choices, treatment-team guidance, and need for rest.</blockquote>
         </section>
 
         <section class="cancer-home__conversation">

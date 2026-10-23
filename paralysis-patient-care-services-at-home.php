@@ -80,6 +80,109 @@
         content: "/\00a0";
         padding: 0 5px;
     }
+    .paralysis-home__field-guide {
+        position: relative;
+        margin-top: 31px;
+        padding: 27px 30px 27px 35px;
+        background: #fff;
+        border: 1px solid #e2e9e5;
+        box-shadow: 0 10px 28px rgba(52, 74, 80, .06);
+    }
+    .paralysis-home__field-guide::before {
+        position: absolute;
+        top: 143px;
+        bottom: 35px;
+        left: 63px;
+        width: 1px;
+        background: #d7e1dc;
+        content: "";
+    }
+    .paralysis-home__field-guide-heading {
+        max-width: 720px;
+        margin: 0 0 21px 83px;
+    }
+    .paralysis-home__field-guide-heading > span {
+        color: #64877c;
+        font-size: 9px;
+        font-weight: 700;
+        letter-spacing: 1.5px;
+    }
+    .paralysis-home__field-guide-heading h2 {
+        margin: 8px 0;
+        color: #344a50;
+        font-size: 26px;
+        font-weight: 700;
+        line-height: 1.3;
+    }
+    .paralysis-home__field-guide-heading p,
+    .paralysis-home__field-note p {
+        margin: 0;
+        color: #667377;
+        font-size: 12px;
+        line-height: 1.9;
+    }
+    .paralysis-home__field-note {
+        position: relative;
+        display: grid;
+        grid-template-columns: 56px minmax(0, 1fr);
+        gap: 27px;
+        padding: 16px 0;
+    }
+    .paralysis-home__field-note-index {
+        position: relative;
+        z-index: 1;
+        display: flex;
+        width: 42px;
+        height: 42px;
+        align-items: center;
+        justify-content: center;
+        color: #fff;
+        background: #64877c;
+        border: 5px solid #fff;
+        border-radius: 50%;
+        box-sizing: content-box;
+        font-size: 10px;
+        font-weight: 700;
+    }
+    .paralysis-home__field-note:nth-of-type(3) .paralysis-home__field-note-index { background: #a67947; }
+    .paralysis-home__field-note:nth-of-type(4) .paralysis-home__field-note-index { background: #698b97; }
+    .paralysis-home__field-note h3 {
+        margin: 4px 0 8px;
+        color: #344a50;
+        font-size: 16px;
+        font-weight: 700;
+    }
+    .paralysis-home__field-note p + p { margin-top: 9px; }
+    .paralysis-home__field-reminder {
+        margin: 10px 0 0 83px;
+        padding: 13px 16px;
+        color: #574c3c;
+        background: #f8f3e9;
+        border-left: 3px solid #a67947;
+        font-size: 12px;
+        line-height: 1.8;
+    }
+    @media screen and (max-width: 767px) {
+        .paralysis-home__field-guide { margin-top: 23px; padding: 23px 20px; }
+        .paralysis-home__field-guide::before { top: 167px; bottom: 31px; left: 40px; }
+        .paralysis-home__field-guide-heading { margin: 0 0 16px 62px; }
+        .paralysis-home__field-guide-heading h2 { font-size: 23px; }
+        .paralysis-home__field-note { grid-template-columns: 40px minmax(0, 1fr); gap: 21px; padding: 14px 0; }
+        .paralysis-home__field-note-index { width: 32px; height: 32px; border-width: 4px; }
+        .paralysis-home__field-reminder { margin-left: 61px; }
+    }
+    @media screen and (max-width: 480px) {
+        .paralysis-home__field-guide { padding: 19px 14px; }
+        .paralysis-home__field-guide::before { top: 181px; left: 29px; }
+        .paralysis-home__field-guide-heading { margin-left: 47px; }
+        .paralysis-home__field-guide-heading h2 { font-size: 21px; }
+        .paralysis-home__field-guide-heading p,
+        .paralysis-home__field-note p { font-size: 12px; line-height: 1.8; }
+        .paralysis-home__field-note { grid-template-columns: 29px minmax(0, 1fr); gap: 16px; }
+        .paralysis-home__field-note h3 { font-size: 15px; }
+        .paralysis-home__field-note-index { width: 25px; height: 25px; border-width: 4px; font-size: 8px; }
+        .paralysis-home__field-reminder { margin-left: 45px; padding: 11px 12px; }
+    }
 </style>
 <a href="tel:7668066607" id="callnowbutton"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNjAgNjAiPjxwYXRoIGQ9Ik03LjEwNCAxNC4wMzJsMTUuNTg2IDEuOTg0YzAgMC0wLjAxOSAwLjUgMCAwLjk1M2MwLjAyOSAwLjc1Ni0wLjI2IDEuNTM0LTAuODA5IDIuMSBsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDE2LjUgMTcuNCAxOS44IDE5LjhsMTYuODEzIDEuMTQxYzAgMCAwIDAuNCAwIDEuMSBjLTAuMDAyIDAuNDc5LTAuMTc2IDAuOTUzLTAuNTQ5IDEuMzI3bC02LjUwNCA2LjUwNWMwIDAtMTEuMjYxIDAuOTg4LTI1LjkyNS0xMy42NzRDNi4xMTcgMjUuMyA3LjEgMTQgNy4xIDE0IiBmaWxsPSIjMDA2NzAwIi8+PHBhdGggZD0iTTcuMTA0IDEzLjAzMmw2LjUwNC02LjUwNWMwLjg5Ni0wLjg5NSAyLjMzNC0wLjY3OCAzLjEgMC4zNWw1ijtggYzAuNzM4IDEgMC41IDIuNTMxLTAuMzYgMy40MjZsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDUuMyA2LjkgOS4xIDEwLjY5OWMzLjg0MiAzLjggNy40IDYuNyAxMC43IDkuMSBsNC43NC00Ljc0MmMwLjg5Ny0wLjg5NSAyLjQ3MS0xLjAyNiAzLjQ5OC0wLjI4OWw3LjY0NiA1LjQ1NWMxLjAyNSAwLjcgMS4zIDIuMiAwLjQgMy4xMDVsLTYuNTA0IDYuNSBjMCAwLTExLjI2MiAwLjk4OC0yNS45MjUtMTMuNjc0QzYuMTE3IDI0LjMgNy4xIDEzIDcuMSAxMyIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg=="width="40"> Click To Call +91 7668066607 </a>
 	 <style>
@@ -199,6 +302,47 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
                 <h3>Practical access planning</h3>
                 <p>Consider clear routes, frequently used items, room layout, and any equipment or access requirements for daily support.</p>
             </article>
+        </section>
+
+        <section class="paralysis-home__field-guide" aria-labelledby="paralysis-home-field-guide-title">
+            <header class="paralysis-home__field-guide-heading">
+                <span>THE HOME ROUTINE, STEP BY STEP</span>
+                <h2 id="paralysis-home-field-guide-title">A practical guide for planning support after paralysis</h2>
+                <p>Paralysis can affect movement, sensation, communication, and daily activities in different ways for different people. Home support should follow the individual's current abilities and professional guidance—not assumptions about what they can or cannot do. A clear routine gives the person, their family, and the attendant a shared starting point.</p>
+            </header>
+            <article class="paralysis-home__field-note">
+                <span class="paralysis-home__field-note-index">01</span>
+                <div>
+                    <h3>Start with the person's own abilities and choices</h3>
+                    <p>Talk with the person about the activities they want help with, what they can comfortably manage, and how they prefer an attendant to assist. Paralysis does not affect everyone in the same way, and a person's needs may differ from one part of the day to another. Allow time for the individual to explain their preferences, participate in decisions, and ask for privacy where they want it.</p>
+                    <p>Families can help by describing the familiar routine and the small practical details that make assistance more comfortable. Agree which tasks are included, what the person prefers to do independently, and how the attendant should check before helping. The aim is to support dignity and participation, not to take over activities unnecessarily.</p>
+                </div>
+            </article>
+            <article class="paralysis-home__field-note">
+                <span class="paralysis-home__field-note-index">02</span>
+                <div>
+                    <h3>Use clear professional guidance for movement and transfers</h3>
+                    <p>Moving between a bed, chair, wheelchair, or other areas of the home can require specific techniques, equipment, and assistance. Do not rely on guesswork or a general description of the person's condition. Families should ask the treating or rehabilitation professional for current, person-specific transfer and mobility instructions, then communicate only the activities that have been agreed for attendant support.</p>
+                    <p>Check that routes are clear, frequently used belongings are reachable as advised, and required equipment is available and used according to its instructions. If a transfer, exercise, or movement task has not been explained or is outside the attendant's agreed role, pause and contact the qualified professional for guidance instead of attempting it.</p>
+                </div>
+            </article>
+            <article class="paralysis-home__field-note">
+                <span class="paralysis-home__field-note-index">03</span>
+                <div>
+                    <h3>Make personal care and the home layout part of the plan</h3>
+                    <p>Personal routines can involve privacy-sensitive assistance, so discuss the person's preferences about timing, communication, and the kind of help they welcome. Families can identify which everyday tasks require an extra hand and how the individual prefers requests to be made. A calm, predictable approach can help preserve the person's sense of control while allowing enough time for tasks to be completed without rushing.</p>
+                    <p>Look at the home from the person's perspective: the route between commonly used spaces, doorway access, seating, and where essential items are kept. Follow professional guidance when considering equipment or room adjustments. Report concerns about new discomfort, changes in movement, or the person's ability to complete a familiar activity to their treating team.</p>
+                </div>
+            </article>
+            <article class="paralysis-home__field-note">
+                <span class="paralysis-home__field-note-index">04</span>
+                <div>
+                    <h3>Keep rehabilitation and day-to-day assistance distinct</h3>
+                    <p>Home assistance can help a person with agreed daily routines, but it is not a substitute for rehabilitation. Exercises, positioning plans, transfer training, and therapy goals should be set and reviewed by qualified professionals. An attendant should not start, alter, or advance exercises on their own. If the person is receiving physiotherapy, coordinate daily support with the instructions the therapist has provided and refer questions to that therapist.</p>
+                    <p>It can help to agree who in the family coordinates the schedule, how routine updates are passed on, and what to do if the established plan cannot be followed. Review the support arrangement when professional guidance or the person's preferences change so that everyone is working from current instructions.</p>
+                </div>
+            </article>
+            <p class="paralysis-home__field-reminder"><strong>Important:</strong> New symptoms, pain, skin concerns, swallowing or breathing difficulty, or a sudden change in function need advice from a qualified healthcare professional—not an attendant's assessment. For an emergency, contact local emergency services.</p>
         </section>
 
         <section class="paralysis-home__plan">

@@ -80,6 +80,87 @@
         content: "/\00a0";
         padding: 0 5px;
     }
+    .ambulance-care__trip-briefing {
+        margin-top: 29px;
+        padding: 27px 29px;
+        color: #fff;
+        background: #344f55;
+        border-radius: 3px 25px 3px 3px;
+    }
+    .ambulance-care__trip-briefing-header {
+        display: grid;
+        grid-template-columns: minmax(0, .8fr) minmax(0, 1.2fr);
+        gap: 29px;
+        align-items: end;
+        padding-bottom: 18px;
+        border-bottom: 1px solid rgba(255,255,255,.2);
+    }
+    .ambulance-care__trip-briefing-header > div > span {
+        color: #f0d1b4;
+        font-size: 9px;
+        font-weight: 700;
+        letter-spacing: 1.4px;
+    }
+    .ambulance-care__trip-briefing-header h2 {
+        margin: 8px 0 0;
+        color: #fff;
+        font-size: 25px;
+        font-weight: 700;
+        line-height: 1.3;
+    }
+    .ambulance-care__trip-briefing-header > p,
+    .ambulance-care__trip-briefing-entry p {
+        margin: 0;
+        color: #d5e0e0;
+        font-size: 11px;
+        line-height: 1.85;
+    }
+    .ambulance-care__trip-briefing-grid {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 23px;
+        padding-top: 19px;
+    }
+    .ambulance-care__trip-briefing-entry {
+        padding-left: 15px;
+        border-left: 2px solid #d5a778;
+    }
+    .ambulance-care__trip-briefing-entry > span {
+        color: #f0d1b4;
+        font-size: 8px;
+        font-weight: 700;
+        letter-spacing: 1.2px;
+    }
+    .ambulance-care__trip-briefing-entry h3 {
+        margin: 7px 0;
+        color: #fff;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 1.4;
+    }
+    .ambulance-care__trip-briefing-entry p + p { margin-top: 9px; }
+    .ambulance-care__trip-briefing-note {
+        margin: 18px 0 0;
+        padding: 12px 15px;
+        color: #3b5053;
+        background: #f1e4d2;
+        font-size: 11px;
+        line-height: 1.8;
+    }
+    @media screen and (max-width: 767px) {
+        .ambulance-care__trip-briefing { margin-top: 23px; padding: 23px 20px; }
+        .ambulance-care__trip-briefing-header { grid-template-columns: minmax(0, 1fr); gap: 10px; }
+        .ambulance-care__trip-briefing-header h2 { font-size: 23px; }
+        .ambulance-care__trip-briefing-grid { grid-template-columns: minmax(0, 1fr); gap: 17px; }
+    }
+    @media screen and (max-width: 480px) {
+        .ambulance-care__trip-briefing { padding: 19px 15px; }
+        .ambulance-care__trip-briefing-header h2 { font-size: 21px; }
+        .ambulance-care__trip-briefing-header > p,
+        .ambulance-care__trip-briefing-entry p { font-size: 12px; line-height: 1.8; }
+        .ambulance-care__trip-briefing-entry { padding-left: 12px; }
+        .ambulance-care__trip-briefing-note { padding: 11px 12px; }
+    }
 </style>
 <a href="tel:7668066607" id="callnowbutton"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNjAgNjAiPjxwYXRoIGQ9Ik03LjEwNCAxNC4wMzJsMTUuNTg2IDEuOTg0YzAgMC0wLjAxOSAwLjUgMCAwLjk1M2MwLjAyOSAwLjc1Ni0wLjI2IDEuNTM0LTAuODA5IDIuMSBsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDE2LjUgMTcuNCAxOS44IDE5LjhsMTYuODEzIDEuMTQxYzAgMCAwIDAuNCAwIDEuMSBjLTAuMDAyIDAuNDc5LTAuMTc2IDAuOTUzLTAuNTQ5IDEuMzI3bC02LjUwNCA2LjUwNWMwIDAtMTEuMjYxIDAuOTg4LTI1LjkyNS0xMy42NzRDNi4xMTcgMjUuMyA3LjEgMTQgNy4xIDE0IiBmaWxsPSIjMDA2NzAwIi8+PHBhdGggZD0iTTcuMTA0IDEzLjAzMmw2LjUwNC02LjUwNWMwLjg5Ni0wLjg5NSAyLjMzNC0wLjY3OCAzLjEgMC4zNWw1ijtggYzAuNzM4IDEgMC41IDIuNTMxLTAuMzYgMy40MjZsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDUuMyA2LjkgOS4xIDEwLjY5OWMzLjg0MiAzLjggNy40IDYuNyAxMC43IDkuMSBsNC43NC00Ljc0MmMwLjg5Ny0wLjg5NSAyLjQ3MS0xLjAyNiAzLjQ5OC0wLjI4OWw3LjY0NiA1LjQ1NWMxLjAyNSAwLjcgMS4zIDIuMiAwLjQgMy4xMDVsLTYuNTA0IDYuNSBjMCAwLTExLjI2MiAwLjk4OC0yNS45MjUtMTMuNjc0QzYuMTE3IDI0LjMgNy4xIDEzIDcuMSAxMyIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg=="width="40"> Click To Call +91 7668066607 </a>
 	 <style>
@@ -199,6 +280,37 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
                 <h3>Relevant transport guidance</h3>
                 <p>Share any transport-related instructions from the treating team and who will accompany the patient.</p>
             </article>
+        </section>
+
+        <section class="ambulance-care__trip-briefing" aria-labelledby="ambulance-care-trip-briefing-title">
+            <header class="ambulance-care__trip-briefing-header">
+                <div>
+                    <span>A PLANNED JOURNEY, CLEARLY EXPLAINED</span>
+                    <h2 id="ambulance-care-trip-briefing-title">From the first call to the destination</h2>
+                </div>
+                <p>Arranging patient transport is a coordination conversation, not an automatic dispatch. The more clearly the journey and the assistance requested are described, the easier it is to ask the right questions about vehicle suitability, timing, availability, and what the provider can confirm.</p>
+            </header>
+            <div class="ambulance-care__trip-briefing-grid">
+                <article class="ambulance-care__trip-briefing-entry">
+                    <span>THE PICKUP</span>
+                    <h3>Help the team locate the patient</h3>
+                    <p>Give the complete pickup address, including the building or facility name, entrance, floor if relevant, and a callback number. Mention stairs, lift access, parking or gate instructions, and where the vehicle may be able to stop. This practical context can help the provider discuss access and timing instead of relying on an incomplete address.</p>
+                    <p>Describe the patient's mobility in everyday terms—such as whether they can walk to the vehicle or use a wheelchair—and share any transfer-related instructions from their treating team. Do not assume a particular transfer method or level of assistance is included; ask and confirm it directly.</p>
+                </article>
+                <article class="ambulance-care__trip-briefing-entry">
+                    <span>THE JOURNEY</span>
+                    <h3>Explain what the trip is for</h3>
+                    <p>Say whether the request is for a scheduled appointment, a planned hospital discharge, or another non-emergency transfer. Share the intended date and time, the destination address, and whether the patient will be accompanied. If there are transport-related instructions from a qualified professional, communicate them to the provider so vehicle and support suitability can be discussed.</p>
+                    <p>Ask what assistance is available during travel, what the family or facility should prepare, how delays are handled, and whom to contact if plans change. Vehicle type, crew, equipment, route, and availability must be confirmed by the transport provider; do not rely on an enquiry alone as a booking.</p>
+                </article>
+                <article class="ambulance-care__trip-briefing-entry">
+                    <span>THE ARRIVAL</span>
+                    <h3>Plan the destination handover</h3>
+                    <p>Confirm the destination entrance and any access details there as well as at pickup. Let the receiving family member, clinic, or facility know the expected arrival only after the transport provider has confirmed the arrangement. Agree who will meet the patient and who the provider should contact if the receiving person cannot be reached.</p>
+                    <p>Before concluding the call, repeat the confirmed pickup time, addresses, callback details, agreed assistance, charges, and provider contact. Keep this information available to the people coordinating the trip, and contact the provider directly if anything changes.</p>
+                </article>
+            </div>
+            <p class="ambulance-care__trip-briefing-note"><strong>For emergencies:</strong> If someone needs immediate medical attention or may be in danger, call local emergency services now. Do not wait for this service enquiry, a website form, or a routine callback.</p>
         </section>
 
         <section class="ambulance-care__checklist">

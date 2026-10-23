@@ -140,6 +140,23 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
             <!--callback form div end-->
             </div>
         </div>
+        <section class="dementia-home__story">
+            <div class="dementia-home__story-copy">
+                <p>Dementia care at home works best when it is planned around the person as an individual rather than around a diagnosis alone. Familiar routines, a calm environment, and gentle communication can help reduce confusion, stress, and distress while supporting the person to maintain comfort and confidence in everyday life.</p>
+                <p>Families often tell us that small, consistent details make a big difference: the time they usually wake up, their preferred words of reassurance, the routine they follow for meals, hygiene, and rest, and the activities that feel meaningful. When those details are understood, support can feel more natural and less overwhelming for both the patient and their family.</p>
+                <p>Our role is to help create a day-to-day routine that supports independence where possible, offers companionship, and helps with activities that may be difficult or tiring. This can include practical support for personal care, mealtimes, mobility, medication reminders, or simply staying nearby and reassuring the person when they feel anxious or uncertain.</p>
+            </div>
+            <div class="dementia-home__story-points">
+                <h3>Key areas to discuss include:</h3>
+                <ul>
+                    <li>Usual routines, preferences, and triggers that help the person feel settled.</li>
+                    <li>Any support needed for personal care, meal routines, hydration, or mobility.</li>
+                    <li>Communication style, preferred names, reassurance, and family involvement.</li>
+                    <li>Family handover arrangements and updates during the day and evening.</li>
+                    <li>Any recent changes in health, behaviour, or routine that the care team should know.</li>
+                </ul>
+            </div>
+        </section>
         <section class="dementia-home__guidance">
             <i class="fa fa-heart-o" aria-hidden="true"></i>
             <div>

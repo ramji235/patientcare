@@ -195,6 +195,30 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
             </div>
         </section>
 
+        <section class="critical-care__story">
+            <div class="critical-care__story-header">
+                <span>WHY CARE NEEDS CLEAR PLANNING</span>
+                <h2>Complex medical needs are safest when every care detail is discussed early.</h2>
+            </div>
+            <div class="critical-care__story-grid">
+                <div class="critical-care__story-copy">
+                    <p>Critical patient care at home is a highly individual arrangement that depends on the patient’s condition, the treatment plan, the equipment required, and the practical realities of the home environment. In many situations, support begins only after the treating healthcare team has assessed the patient and provided instructions about what is safe and appropriate at home.</p>
+                    <p>Families often need support that is both compassionate and precise. The role is not simply to provide assistance, but to help maintain comfort, monitor the patient's condition, and coordinate routines around the medical instructions. That includes understanding medication support, mobility issues, equipment needs, and what changes should be escalated to the healthcare team.</p>
+                    <p>At Careright, we focus on clear communication from the first enquiry. We talk through the clinical plan, the home setup, and how tasks should be coordinated so families feel informed and supported rather than overwhelmed. Good planning can help reduce uncertainty while preserving the patient’s dignity, comfort, and routine.</p>
+                </div>
+                <div class="critical-care__story-points">
+                    <h3>Key care considerations include:</h3>
+                    <ul>
+                        <li>Current medical instructions and treatment goals set by the treating team.</li>
+                        <li>Equipment, monitoring needs, and any home safety adjustments required.</li>
+                        <li>Family involvement, shift coordination, and how updates are shared.</li>
+                        <li>Support for personal care, comfort, mobility, and routine activities.</li>
+                        <li>Response planning if symptoms change or emergency support becomes necessary.</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
         <section class="critical-care__checklist">
             <div class="critical-care__checklist-title">
                 <i class="fa fa-clipboard" aria-hidden="true"></i>

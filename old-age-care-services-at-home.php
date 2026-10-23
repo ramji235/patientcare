@@ -80,6 +80,84 @@
         content: "/\00a0";
         padding: 0 5px;
     }
+    .senior-home__story {
+        margin-top: 30px;
+        padding: 29px 35px;
+        background: #fff;
+        border-left: 4px solid #788c78;
+        box-shadow: 0 12px 32px rgba(63, 79, 66, .07);
+    }
+    .senior-home__story-intro {
+        max-width: 790px;
+        margin-bottom: 19px;
+    }
+    .senior-home__story-intro > span,
+    .senior-home__story-entry > span {
+        color: #738772;
+        font-size: 9px;
+        font-weight: 700;
+        letter-spacing: 1.4px;
+    }
+    .senior-home__story-intro h2 {
+        margin: 8px 0 10px;
+        color: #465b4d;
+        font-size: 27px;
+        font-weight: 700;
+        line-height: 1.3;
+    }
+    .senior-home__story-intro p,
+    .senior-home__story-entry p {
+        color: #667267;
+        font-size: 12px;
+        line-height: 1.9;
+    }
+    .senior-home__story-intro p { margin: 0; }
+    .senior-home__story-entry {
+        display: grid;
+        grid-template-columns: 86px minmax(0, 1fr);
+        gap: 18px;
+        padding: 18px 0;
+        border-top: 1px solid #e7ebe5;
+    }
+    .senior-home__story-entry > span {
+        padding-top: 4px;
+        color: #a1775e;
+        font-size: 10px;
+        letter-spacing: 1px;
+    }
+    .senior-home__story-entry h3 {
+        margin: 0 0 7px;
+        color: #465b4d;
+        font-size: 16px;
+        font-weight: 700;
+    }
+    .senior-home__story-entry p { margin: 0 0 9px; }
+    .senior-home__story-entry p:last-child { margin-bottom: 0; }
+    .senior-home__story-note {
+        margin: 3px 0 0 104px;
+        padding: 13px 17px;
+        color: #586957;
+        background: #f0f4ee;
+        border-left: 3px solid #a1775e;
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 1.75;
+    }
+    @media screen and (max-width: 767px) {
+        .senior-home__story { margin-top: 23px; padding: 23px 20px; }
+        .senior-home__story-intro h2 { font-size: 24px; }
+        .senior-home__story-entry { grid-template-columns: 64px minmax(0, 1fr); gap: 12px; padding: 15px 0; }
+        .senior-home__story-note { margin-left: 76px; }
+    }
+    @media screen and (max-width: 480px) {
+        .senior-home__story { padding: 20px 15px; }
+        .senior-home__story-intro h2 { font-size: 21px; }
+        .senior-home__story-intro p,
+        .senior-home__story-entry p { font-size: 12px; line-height: 1.8; }
+        .senior-home__story-entry { grid-template-columns: 1fr; gap: 4px; }
+        .senior-home__story-entry h3 { font-size: 15px; }
+        .senior-home__story-note { margin-left: 0; padding: 11px 13px; }
+    }
 </style>
 <a href="tel:7668066607" id="callnowbutton"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNjAgNjAiPjxwYXRoIGQ9Ik03LjEwNCAxNC4wMzJsMTUuNTg2IDEuOTg0YzAgMC0wLjAxOSAwLjUgMCAwLjk1M2MwLjAyOSAwLjc1Ni0wLjI2IDEuNTM0LTAuODA5IDIuMSBsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDE2LjUgMTcuNCAxOS44IDE5LjhsMTYuODEzIDEuMTQxYzAgMCAwIDAuNCAwIDEuMSBjLTAuMDAyIDAuNDc5LTAuMTc2IDAuOTUzLTAuNTQ5IDEuMzI3bC02LjUwNCA2LjUwNWMwIDAtMTEuMjYxIDAuOTg4LTI1LjkyNS0xMy42NzRDNi4xMTcgMjUuMyA3LjEgMTQgNy4xIDE0IiBmaWxsPSIjMDA2NzAwIi8+PHBhdGggZD0iTTcuMTA0IDEzLjAzMmw2LjUwNC02LjUwNWMwLjg5Ni0wLjg5NSAyLjMzNC0wLjY3OCAzLjEgMC4zNWw1ijtggYzAuNzM4IDEgMC41IDIuNTMxLTAuMzYgMy40MjZsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDUuMyA2LjkgOS4xIDEwLjY5OWMzLjg0MiAzLjggNy40IDYuNyAxMC43IDkuMSBsNC43NC00Ljc0MmMwLjg5Ny0wLjg5NSAyLjQ3MS0xLjAyNiAzLjQ5OC0wLjI4OWw3LjY0NiA1LjQ1NWMxLjAyNSAwLjcgMS4zIDIuMiAwLjQgMy4xMDVsLTYuNTA0IDYuNSBjMCAwLTExLjI2MiAwLjk4OC0yNS45MjUtMTMuNjc0QzYuMTE3IDI0LjMgNy4xIDEzIDcuMSAxMyIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg=="width="40"> Click To Call +91 7668066607 </a>
 	 <style>
@@ -187,6 +265,55 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
                 <article><span>03</span><div><h3>Companionship & interests</h3><p>Make room for conversation, favourite activities, and meaningful everyday connection.</p></div><i class="fa fa-comments-o" aria-hidden="true"></i></article>
                 <article><span>04</span><div><h3>Family communication</h3><p>Set a clear point of contact and agree how routine updates and handovers work.</p></div><i class="fa fa-users" aria-hidden="true"></i></article>
             </div>
+        </section>
+
+        <section class="senior-home__story" aria-labelledby="senior-home-story-title">
+            <header class="senior-home__story-intro">
+                <span>A CLOSER LOOK AT AGEING AT HOME</span>
+                <h2 id="senior-home-story-title">Good care makes room for the life already being lived.</h2>
+                <p>Old age care is not a checklist that looks the same in every home. It is a way of supporting an older person through real days: keeping familiar habits where possible, offering help without taking over, and making it easier for family members to stay involved. A good starting point is to learn what the person values, then build practical support around that—not the other way round.</p>
+            </header>
+            <article class="senior-home__story-entry">
+                <span>THE PERSON</span>
+                <div>
+                    <h3>Begin with their story, not just their needs</h3>
+                    <p>An older adult is more than the tasks they need help with. Their preferred name, favourite morning routine, language, food preferences, personal boundaries, and the activities they enjoy all help shape how support should feel. A conversation with the person can reveal which everyday tasks they want help with and which they are proud to keep doing independently.</p>
+                    <p>Families can share this context with an attendant so assistance feels less unfamiliar and more considerate. Allow time for the person to express their wishes, and check that the arrangement continues to feel comfortable as routines or preferences change. Respectful care supports choice rather than making decisions on someone's behalf whenever they can take part.</p>
+                </div>
+            </article>
+            <article class="senior-home__story-entry">
+                <span>THE DAY</span>
+                <div>
+                    <h3>Make everyday routines manageable, at their own pace</h3>
+                    <p>Getting ready, organising meals, moving around the home, or preparing for a planned activity may call for an extra hand. The family can explain what assistance is requested, how much time the older adult likes to take, and what parts of the routine they prefer to manage themselves. Familiar mealtimes, rest, conversation, and everyday interests can help the day feel more settled than a schedule built only around tasks.</p>
+                    <p>There is no single routine that suits all older adults. Some people appreciate occasional companionship or help with a specific part of the day, while others may need a more regular arrangement. The support hours and attendant responsibilities should be discussed and confirmed with the care team, then reviewed when the person's circumstances or family schedule changes.</p>
+                </div>
+            </article>
+            <article class="senior-home__story-entry">
+                <span>THE HOME</span>
+                <div>
+                    <h3>Let the familiar home remain familiar</h3>
+                    <p>Planning support at home means noticing the small practical details that make an ordinary day easier: frequently used rooms, steps or narrow doorways, preferred places to sit, and how the person likes their belongings arranged. Families can explain relevant access considerations and share any equipment or movement guidance recommended by a treating professional. Any changes to the home or daily activity should be approached with the person's agreement.</p>
+                    <p>An attendant can offer agreed day-to-day assistance and companionship, but should not improvise clinical tasks or attempt activities outside the agreed role. If there are concerns about falls, transfers, pain, or a new limitation, ask the older adult's healthcare professional for guidance before changing the routine.</p>
+                </div>
+            </article>
+            <article class="senior-home__story-entry">
+                <span>THE FAMILY</span>
+                <div>
+                    <h3>Keep communication kind, simple, and clear</h3>
+                    <p>When several relatives are involved, it helps to choose a main family contact and agree how practical updates should be shared. Before support starts, discuss the expected timings, what the attendant has been asked to do, household access, and who to contact if a routine changes. Clear expectations can reduce confusion and help relatives coordinate without overwhelming the older adult with repeated questions.</p>
+                    <p>Where possible, include the older adult in conversations about updates and family involvement. Ask how they would like information to be shared and respect their privacy. Families should use the treating professional for medical concerns; the attendant's role is not to assess symptoms or provide health advice.</p>
+                </div>
+            </article>
+            <article class="senior-home__story-entry">
+                <span>THE SUPPORT</span>
+                <div>
+                    <h3>Know when a nurse or doctor is the right person</h3>
+                    <p>Old age care attendants support agreed non-clinical daily activities and companionship. They do not diagnose, provide nursing procedures, make treatment decisions, manage clinical monitoring, or replace qualified healthcare professionals. Medication, wound care, prescribed clinical tasks, and health advice should be discussed with the older adult's treating team and handled by appropriately qualified professionals.</p>
+                    <p>When an older adult's health or ability changes, contact their doctor or care team to understand what support is appropriate. If there is a sudden emergency, contact local emergency services. Keeping this distinction clear helps families plan dependable everyday assistance while ensuring that clinical needs are directed to the right professionals.</p>
+                </div>
+            </article>
+            <p class="senior-home__story-note">The best first step is a conversation with the older adult: what would make today easier, and what would they like to continue doing for themselves?</p>
         </section>
 
         <section class="senior-home__approach">

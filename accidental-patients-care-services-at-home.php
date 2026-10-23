@@ -143,6 +143,24 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
             </article>
         </section>
 
+        <section class="accident-recovery__story">
+            <div class="accident-recovery__story-copy">
+                <p>Accidental injury recovery at home requires a careful mix of comfort, safety, and routine. After an accident, patients may need time to adjust to restricted movement, medication schedules, pain management, dressing or wound care, or help with daily tasks that feel more tiring than usual. A support plan should be built around what the treating team has advised and what the patient can realistically manage at home.</p>
+                <p>Families often play a central role in helping the patient feel secure and supported. This can include helping with meal routines, mobility assistance, hygiene support, rest periods, and practical reminders around appointments or prescribed exercises. Clear communication is important so everyone involved understands what support is required, what the patient prefers, and what should be escalated to a clinician.</p>
+                <p>An effective home care arrangement does not aim to replace medical guidance; it helps the patient recover in a familiar setting while reducing stress for the family. With realistic routines, a clear plan, and a coordinated contact point, the home environment can become a calmer and safer place for healing and rehabilitation.</p>
+            </div>
+            <div class="accident-recovery__story-points">
+                <h3>Important things to discuss include:</h3>
+                <ul>
+                    <li>Current discharge instructions, follow-up appointments, and activity restrictions.</li>
+                    <li>Any mobility, transfer, pain, dressing, or equipment needs after the accident.</li>
+                    <li>Help required with personal care, meals, hydration, and rest periods.</li>
+                    <li>Family communication, shift handovers, and who should coordinate updates.</li>
+                    <li>Signs of worsening discomfort, dizziness, confusion, or emergency concerns.</li>
+                </ul>
+            </div>
+        </section>
+
         <section class="accident-recovery__steps">
             <div class="accident-recovery__steps-heading">
                 <span>A CLEAR START</span>

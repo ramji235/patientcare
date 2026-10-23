@@ -13,6 +13,18 @@
             width: 100%;
             height: auto;
         }
+
+        .navbar .navbar-nav .nav-link {
+            cursor: pointer;
+            text-decoration: none;
+            transition: color 0.2s ease;
+        }
+
+        .navbar .navbar-nav .nav-link:hover,
+        .navbar .navbar-nav .nav-link:focus {
+            color: #0162af;
+            text-decoration: none;
+        }
     </style>
 </head>
 <body>

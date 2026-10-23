@@ -80,6 +80,95 @@
         content: "/\00a0";
         padding: 0 5px;
     }
+    .equipment-rent__rental-guide {
+        margin-top: 31px;
+        padding: 29px 31px;
+        background: #fff;
+        border: 1px solid #e0e5e2;
+        border-top: 4px solid #45676c;
+        box-shadow: 0 12px 30px rgba(39, 61, 74, .055);
+    }
+    .equipment-rent__guide-header {
+        display: grid;
+        grid-template-columns: minmax(0, .85fr) minmax(0, 1.15fr);
+        gap: 32px;
+        align-items: end;
+        padding-bottom: 20px;
+        border-bottom: 1px solid #e3e8e5;
+    }
+    .equipment-rent__guide-header > div > span {
+        color: #a06c32;
+        font-size: 9px;
+        font-weight: 700;
+        letter-spacing: 1.4px;
+    }
+    .equipment-rent__guide-header h2 {
+        margin: 8px 0 0;
+        color: #2e434c;
+        font-size: 26px;
+        font-weight: 700;
+        line-height: 1.3;
+    }
+    .equipment-rent__guide-header > p,
+    .equipment-rent__guide-entry p {
+        margin: 0;
+        color: #687478;
+        font-size: 12px;
+        line-height: 1.9;
+    }
+    .equipment-rent__guide-body {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        column-gap: 32px;
+        padding-top: 4px;
+    }
+    .equipment-rent__guide-entry {
+        padding: 18px 0;
+        border-bottom: 1px solid #e8ece9;
+    }
+    .equipment-rent__guide-entry:nth-last-child(-n+2) { border-bottom: 0; }
+    .equipment-rent__guide-entry > span {
+        display: block;
+        margin-bottom: 6px;
+        color: #a06c32;
+        font-size: 8px;
+        font-weight: 700;
+        letter-spacing: 1.2px;
+    }
+    .equipment-rent__guide-entry h3 {
+        margin: 0 0 7px;
+        color: #354e53;
+        font-size: 15px;
+        font-weight: 700;
+    }
+    .equipment-rent__guide-entry p + p { margin-top: 9px; }
+    .equipment-rent__guide-note {
+        margin-top: 5px;
+        padding: 14px 17px;
+        color: #34434a;
+        background: #f3f5f2;
+        border-left: 3px solid #a06c32;
+        font-size: 11px;
+        line-height: 1.8;
+    }
+    @media screen and (max-width: 767px) {
+        .equipment-rent__rental-guide { margin-top: 24px; padding: 23px 20px; }
+        .equipment-rent__guide-header { grid-template-columns: minmax(0, 1fr); gap: 11px; }
+        .equipment-rent__guide-header h2 { font-size: 23px; }
+        .equipment-rent__guide-body { column-gap: 22px; }
+        .equipment-rent__guide-entry { padding: 15px 0; }
+    }
+    @media screen and (max-width: 480px) {
+        .equipment-rent__rental-guide { padding: 19px 15px; }
+        .equipment-rent__guide-header h2 { font-size: 21px; }
+        .equipment-rent__guide-header > p,
+        .equipment-rent__guide-entry p { font-size: 12px; line-height: 1.8; }
+        .equipment-rent__guide-body { grid-template-columns: minmax(0, 1fr); }
+        .equipment-rent__guide-entry:nth-last-child(-n+2) { border-bottom: 1px solid #e8ece9; }
+        .equipment-rent__guide-entry:last-child { border-bottom: 0; }
+        .equipment-rent__guide-entry h3 { font-size: 15px; }
+        .equipment-rent__guide-note { padding: 12px 13px; }
+    }
 </style>
 <a href="tel:7668066607" id="callnowbutton"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNjAgNjAiPjxwYXRoIGQ9Ik03LjEwNCAxNC4wMzJsMTUuNTg2IDEuOTg0YzAgMC0wLjAxOSAwLjUgMCAwLjk1M2MwLjAyOSAwLjc1Ni0wLjI2IDEuNTM0LTAuODA5IDIuMSBsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDE2LjUgMTcuNCAxOS44IDE5LjhsMTYuODEzIDEuMTQxYzAgMCAwIDAuNCAwIDEuMSBjLTAuMDAyIDAuNDc5LTAuMTc2IDAuOTUzLTAuNTQ5IDEuMzI3bC02LjUwNCA2LjUwNWMwIDAtMTEuMjYxIDAuOTg4LTI1LjkyNS0xMy42NzRDNi4xMTcgMjUuMyA3LjEgMTQgNy4xIDE0IiBmaWxsPSIjMDA2NzAwIi8+PHBhdGggZD0iTTcuMTA0IDEzLjAzMmw2LjUwNC02LjUwNWMwLjg5Ni0wLjg5NSAyLjMzNC0wLjY3OCAzLjEgMC4zNWw1ijtggYzAuNzM4IDEgMC41IDIuNTMxLTAuMzYgMy40MjZsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDUuMyA2LjkgOS4xIDEwLjY5OWMzLjg0MiAzLjggNy40IDYuNyAxMC43IDkuMSBsNC43NC00Ljc0MmMwLjg5Ny0wLjg5NSAyLjQ3MS0xLjAyNiAzLjQ5OC0wLjI4OWw3LjY0NiA1LjQ1NWMxLjAyNSAwLjcgMS4zIDIuMiAwLjQgMy4xMDVsLTYuNTA0IDYuNSBjMCAwLTExLjI2MiAwLjk4OC0yNS45MjUtMTMuNjc0QzYuMTE3IDI0LjMgNy4xIDEzIDcuMSAxMyIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg=="width="40"> Click To Call +91 7668066607 </a>
 	 <style>
@@ -205,6 +294,43 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
                 <h3>Monitoring devices</h3>
                 <p>Check which device has been recommended and ask for clear operating and reading instructions from a professional.</p>
             </article>
+        </section>
+
+        <section class="equipment-rent__rental-guide" aria-labelledby="equipment-rent-guide-title">
+            <header class="equipment-rent__guide-header">
+                <div>
+                    <span>YOUR RENTAL, FROM FIRST QUESTION TO COLLECTION</span>
+                    <h2 id="equipment-rent-guide-title">A little preparation helps everything fit.</h2>
+                </div>
+                <p>Bringing medical equipment into a home means coordinating the recommended item with the patient, the room, the delivery arrangements, and the rental terms. Asking about these practical details before confirming can help the family understand what is included and what still needs to be arranged.</p>
+            </header>
+            <div class="equipment-rent__guide-body">
+                <article class="equipment-rent__guide-entry">
+                    <span>THE REQUEST</span>
+                    <h3>Begin with the equipment recommended</h3>
+                    <p>Start by asking the patient's doctor or other qualified healthcare professional which type of equipment is appropriate and whether any particular specification is needed. A product category alone may not identify the right size, features, or model for a specific person's needs. When you enquire, share the name and specifications the professional provided so the rental team can discuss the relevant item and check availability.</p>
+                    <p>Do not choose a clinical device, make a substitute selection, or change prescribed settings based only on a rental listing. If the recommendation is unclear, contact the treating professional before proceeding.</p>
+                </article>
+                <article class="equipment-rent__guide-entry">
+                    <span>THE HOME</span>
+                    <h3>Check space and access before delivery</h3>
+                    <p>Measure the room and think through the route the equipment would need to take from the entrance to its intended position. Doorway width, stairs, lifts, corridors, turns, floor space, and nearby power access may all affect delivery and placement. If the patient uses a wheelchair or other mobility aid, consider how much clear space will remain for everyday movement.</p>
+                    <p>Share access details with the rental team in advance and ask whether an assessment or any preparation is needed. Never assume that an item will fit through a doorway or that the delivery team can move furniture or modify the home unless those arrangements have been confirmed.</p>
+                </article>
+                <article class="equipment-rent__guide-entry">
+                    <span>DELIVERY & SETUP</span>
+                    <h3>Know what is included in the arrangement</h3>
+                    <p>Before confirming a rental, ask about the expected delivery window, who will receive the equipment, what setup or demonstration is included, and whom to contact if something is missing or does not appear to work as expected. Ask for the manufacturer's instructions and any clinician guidance needed for safe use. Make sure the person and family understand how to get help with equipment-related questions.</p>
+                    <p>For powered equipment, ask what the supplier recommends about its power requirements and what to do if the unit stops working. Do not attempt repairs or change device settings yourself; contact the supplier for equipment support and the treating team for clinical guidance.</p>
+                </article>
+                <article class="equipment-rent__guide-entry">
+                    <span>RENTAL TERMS</span>
+                    <h3>Confirm duration, costs, and collection</h3>
+                    <p>Ask for the full rental terms before agreeing: the rental period, charges and payment schedule, deposit if any, delivery or collection fees, extension process, maintenance responsibilities, cleaning expectations, and what happens if the equipment needs attention. Ask who to contact outside the usual delivery or service window. Keep the confirmed terms and contact details somewhere the family can find them.</p>
+                    <p>When the equipment is no longer needed, follow the supplier's return instructions and confirm the collection date, preparation requirements, and any final charges. If the patient's care needs or equipment recommendation changes before then, discuss the next step with the treating professional and rental provider.</p>
+                </article>
+            </div>
+            <p class="equipment-rent__guide-note"><strong>Before using any device:</strong> confirm that it is the item recommended for the patient, follow the manufacturer's instructions and qualified professional guidance, and contact the supplier about faults. For medical concerns or emergencies, contact the treating team or local emergency services as appropriate.</p>
         </section>
 
         <section class="equipment-rent__process">

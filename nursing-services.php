@@ -80,6 +80,29 @@
         content: "/\00a0";
         padding: 0 5px;
     }
+    .nursing-overview__services-panel {
+        margin-top: 18px;
+        padding: 18px 20px 8px;
+        background: #fff;
+        border: 1px solid #dfe7ec;
+        border-radius: 6px;
+        box-shadow: 0 8px 24px rgba(32, 45, 58, 0.04);
+    }
+    .nursing-overview__services-panel h3 {
+        margin: 0 0 12px;
+        color: #24384a;
+        font-size: 20px;
+        font-weight: 700;
+        font-family: 'Roboto', sans-serif;
+    }
+    .nursing-overview__services-panel ul {
+        margin: 0;
+        padding-left: 18px;
+        color: #586c7a;
+        font-size: 14px;
+        line-height: 1.9;
+    }
+    .nursing-overview__services-panel li { margin-bottom: 6px; }
 </style>
 <a href="tel:7668066607" id="callnowbutton"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNjAgNjAiPjxwYXRoIGQ9Ik03LjEwNCAxNC4wMzJsMTUuNTg2IDEuOTg0YzAgMC0wLjAxOSAwLjUgMCAwLjk1M2MwLjAyOSAwLjc1Ni0wLjI2IDEuNTM0LTAuODA5IDIuMSBsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDE2LjUgMTcuNCAxOS44IDE5LjhsMTYuODEzIDEuMTQxYzAgMCAwIDAuNCAwIDEuMSBjLTAuMDAyIDAuNDc5LTAuMTc2IDAuOTUzLTAuNTQ5IDEuMzI3bC02LjUwNCA2LjUwNWMwIDAtMTEuMjYxIDAuOTg4LTI1LjkyNS0xMy42NzRDNi4xMTcgMjUuMyA3LjEgMTQgNy4xIDE0IiBmaWxsPSIjMDA2NzAwIi8+PHBhdGggZD0iTTcuMTA0IDEzLjAzMmw2LjUwNC02LjUwNWMwLjg5Ni0wLjg5NSAyLjMzNC0wLjY3OCAzLjEgMC4zNWw1ijtggYzAuNzM4IDEgMC41IDIuNTMxLTAuMzYgMy40MjZsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDUuMyA2LjkgOS4xIDEwLjY5OWMzLjg0MiAzLjggNy40IDYuNyAxMC43IDkuMSBsNC43NC00Ljc0MmMwLjg5Ny0wLjg5NSAyLjQ3MS0xLjAyNiAzLjQ5OC0wLjI4OWw3LjY0NiA1LjQ1NWMxLjAyNSAwLjcgMS4zIDIuMiAwLjQgMy4xMDVsLTYuNTA0IDYuNSBjMCAwLTExLjI2MiAwLjk4OC0yNS45MjUtMTMuNjc0QzYuMTE3IDI0LjMgNy4xIDEzIDcuMSAxMyIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg=="width="40"> Click To Call +91 7668066607 </a>
 	 <style>
@@ -165,8 +188,8 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
             </div>
             <div class="nursing-overview__hero-copy">
                 <span class="nursing-overview__eyebrow">PROFESSIONAL SUPPORT · IN FAMILIAR SURROUNDINGS</span>
-                <h2>Nursing care, shaped around the person's care plan.</h2>
-                <p>Home nursing can support a person during recovery or with clinician-directed ongoing care. Begin with the care instructions, the person's daily routine, and the schedule your family is considering.</p>
+                <h2>Comfortable nursing care, planned around the person.</h2>
+                <p>Careright home nursing services provide compassionate support for recovery, rehabilitation, and day-to-day clinical needs in the comfort and familiarity of home. We help families create a routine that feels safe, consistent, and respectful.</p>
                 <a href="tel:7668066607" class="nursing-overview__call"><i class="fa fa-phone" aria-hidden="true"></i><span>Speak with Careright<strong>+91 7668066607</strong></span></a>
             </div>
         </section>
@@ -174,49 +197,86 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
         <section class="nursing-overview__care-map" aria-label="Home nursing care planning">
             <div class="nursing-overview__map-heading">
                 <span>CARE PLANNING</span>
-                <h2>Start with the plan. Build around the person.</h2>
-                <p>A home nursing arrangement begins with understanding the prescribed support and what matters in the person's home life.</p>
+                <h2>Personal support that fits real home life.</h2>
+                <p>Every care arrangement begins with the person's health needs, their home routine, and the guidance provided by the treating healthcare team.</p>
             </div>
             <div class="nursing-overview__map-grid">
                 <article class="nursing-overview__map-card nursing-overview__map-card--plan">
                     <span class="nursing-overview__map-icon"><i class="fa fa-file-text-o" aria-hidden="true"></i></span>
                     <small>01 / CLINICAL GUIDANCE</small>
                     <h3>Care instructions</h3>
-                    <p>Discuss the nursing tasks advised by the treating healthcare professional and share relevant discharge or care notes.</p>
+                    <p>We discuss prescribed nursing tasks, recovery support, medication reminders, and any discharge guidance shared by the treating physician or hospital team.</p>
                 </article>
                 <article class="nursing-overview__map-card nursing-overview__map-card--routine">
                     <span class="nursing-overview__map-icon"><i class="fa fa-clock-o" aria-hidden="true"></i></span>
-                    <small>02 / DAILY LIFE</small>
-                    <h3>Routine and comfort</h3>
-                    <p>Consider preferred timings, familiar routines, privacy, and the person's choices about everyday support.</p>
+                    <small>02 / DAILY NEEDS</small>
+                    <h3>Comfort and routine</h3>
+                    <p>We look at preferred timings, access needs, family routines, and how each day can feel more stable, calm, and manageable at home.</p>
                 </article>
                 <article class="nursing-overview__map-card nursing-overview__map-card--family">
                     <span class="nursing-overview__map-icon"><i class="fa fa-users" aria-hidden="true"></i></span>
-                    <small>03 / COORDINATION</small>
-                    <h3>Family communication</h3>
-                    <p>Choose a family contact and talk through handovers, practical updates, and how changes will be communicated.</p>
+                    <small>03 / FAMILY COORDINATION</small>
+                    <h3>Clear communication</h3>
+                    <p>We keep the family informed with practical updates, coordinate handovers, and make sure important care details are shared clearly.</p>
                 </article>
             </div>
         </section>
 
         <section class="nursing-overview__prepare">
             <div class="nursing-overview__prepare-heading">
-                <span>BEFORE YOU ENQUIRE</span>
-                <h2>A little preparation makes the discussion clearer.</h2>
+                <span>WHO IT SUPPORTS</span>
+                <h2>Home nursing can help with recovery, reassurance, and daily comfort.</h2>
             </div>
             <ul>
-                <li><i class="fa fa-check" aria-hidden="true"></i> Patient's location and preferred schedule</li>
-                <li><i class="fa fa-check" aria-hidden="true"></i> Relevant care-plan or discharge instructions</li>
-                <li><i class="fa fa-check" aria-hidden="true"></i> Nursing support being considered</li>
-                <li><i class="fa fa-check" aria-hidden="true"></i> Family member coordinating the enquiry</li>
+                <li><i class="fa fa-check" aria-hidden="true"></i> Post-surgery recovery or hospital discharge support</li>
+                <li><i class="fa fa-check" aria-hidden="true"></i> Elderly patients needing ongoing monitoring and help</li>
+                <li><i class="fa fa-check" aria-hidden="true"></i> Chronic health conditions requiring routine nursing attention</li>
+                <li><i class="fa fa-check" aria-hidden="true"></i> Patients needing personal care, mobility assistance, and comfort care</li>
+            </ul>
+        </section>
+
+        <section class="nursing-overview__story">
+            <div class="nursing-overview__story-header">
+                <span>WHY HOME NURSING MATTERS</span>
+                <h2>Care that supports healing in a calm, familiar setting.</h2>
+            </div>
+            <div class="nursing-overview__story-grid">
+                <div class="nursing-overview__story-copy">
+                    <p>Home nursing is often chosen when a patient is recovering from illness, surgery, or a long-term health condition and needs support that feels safe, consistent, and personal. Remaining at home can reduce stress, support rest, and make it easier for the person to follow daily routines while staying close to family and familiar surroundings.</p>
+                    <p>Each care arrangement is shaped around the individual's needs. Some people need help with bathing, dressing, mobility, and personal routines. Others need medication reminders, clinical monitoring, or reassurance during recovery. A well-planned home nursing service helps maintain dignity, confidence, and routine without placing unreasonable pressure on the family.</p>
+                    <p>For many families, the biggest concern is not only treatment but also how support can fit into a busy home schedule. This is why good home nursing begins with listening, understanding what the patient needs, and aligning care with the guidance provided by the treating doctor, hospital team, or care coordinator.</p>
+                </div>
+                <div class="nursing-overview__story-points">
+                    <h3>Our approach focuses on:</h3>
+                    <ul>
+                        <li>Comfort and dignity during recovery and daily routines.</li>
+                        <li>Clear communication with family members and care coordinators.</li>
+                        <li>Daily support that matches the patient’s condition and limitations.</li>
+                        <li>Practical assistance with hygiene, mobility, and personal care.</li>
+                        <li>Reliable follow-through with care instructions and schedules.</li>
+                        <li>Respect for privacy, routine, and the person’s preferred pace.</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section class="nursing-overview__services-panel" aria-label="Home nursing support list">
+            <h3>What home nursing services may include</h3>
+            <ul>
+                <li>Assistance with personal care, hygiene, and comfort-focused routines.</li>
+                <li>Monitoring of health conditions as advised by the treating doctor or clinical team.</li>
+                <li>Medication reminders and support with following prescribed routines.</li>
+                <li>Post-operative care and recovery guidance during the home-based phase.</li>
+                <li>Mobility support, positioning care, and help with safe daily living activities.</li>
+                <li>Regular updates to family members so care remains consistent with the plan and household routine.</li>
             </ul>
         </section>
 
         <section class="nursing-overview__scope">
             <div class="nursing-overview__scope-icon"><i class="fa fa-stethoscope" aria-hidden="true"></i></div>
             <div>
-                <h3>Clear roles support safer planning.</h3>
-                <p>Nursing duties and schedules should be discussed against the individual care plan and confirmed availability. Diagnosis and treatment decisions remain with qualified healthcare professionals.</p>
+                <h3>Safe, respectful care begins with clear planning.</h3>
+                <p>Home nursing should always be arranged around the individual's medical guidance, comfort, privacy, and family preferences. Clinical decisions, diagnosis, and treatment planning continue to rest with qualified healthcare professionals.</p>
             </div>
             <a href="home-nursing-service.php">Home nursing information <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
         </section>
@@ -224,8 +284,8 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
         <section class="nursing-overview__contact">
             <div>
                 <span>CARERIGHT HOME HEALTH CARE</span>
-                <h2>Discuss home nursing support with our team.</h2>
-                <p>Share the location, care needs, and timings you have in mind.</p>
+                <h2>Discuss the right nursing support for your family.</h2>
+                <p>Share your location, patient details, and the kind of care being considered so we can guide the next step clearly.</p>
             </div>
             <div class="nursing-overview__contact-actions">
                 <a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> +91 7668066607</a>

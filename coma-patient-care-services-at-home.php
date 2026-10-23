@@ -204,6 +204,24 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
             </article>
         </section>
 
+        <section class="coma-care__story">
+            <div class="coma-care__story-copy">
+                <p>Coma or unresponsive patient care at home is a highly sensitive form of support, and it requires a clear clinical plan, careful communication, and a steady routine. In these situations, the primary goal is to help the patient remain comfortable, safe, and supported while following the recommendations of the treating medical team.</p>
+                <p>Families often need support not only with bedside tasks but also with understanding what is expected from home care, how equipment should be used, and what information should be communicated to healthcare professionals. A consistent plan helps reduce confusion, supports continuity of care, and allows the family to feel more confident in the day-to-day routine.</p>
+                <p>At home, this may involve positioning, hygiene, feeding support, pressure care, observation, medication coordination, and tracking changes in comfort or responsiveness. Every task must remain aligned with the clinical instructions, safety guidance, and emergency arrangements agreed by the medical team.</p>
+            </div>
+            <div class="coma-care__story-points">
+                <h3>Key areas to discuss include:</h3>
+                <ul>
+                    <li>Current clinical instructions, monitoring requirements, and any medication or feeding plan.</li>
+                    <li>Equipment, pressure care needs, hygiene routines, and positioning support.</li>
+                    <li>Family communication, handovers, and who will coordinate with the treating team.</li>
+                    <li>Daily observations, comfort needs, and when concerns should be escalated clinically.</li>
+                    <li>Emergency protocols for sudden changes in condition or urgent concerns.</li>
+                </ul>
+            </div>
+        </section>
+
         <section class="coma-care__steps">
             <div class="coma-care__steps-heading">
                 <span>PREPARING FOR COMPLEX CARE</span>

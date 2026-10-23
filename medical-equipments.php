@@ -1,14 +1,14 @@
 <!doctype html>
 <html>
 <head>
-<title>About Us | Careright Home Health Care Pvt. Ltd.</title>
+<title>Medical Equipment for Home Care | Careright Home Health Care Pvt. Ltd.</title>
 
 <!-- Mirrored from carerighthomehealthcares.com/about-us by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Aug 2025 10:04:00 GMT -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Learn more about Careright Home Health Care Pvt. Ltd., our mission, and our commitment to providing quality home nursing, attendant services, and patient care." />
-<meta name="keywords" content="about us, home health care, nursing services, patient care, elder care" />
-<link rel="canonical" href="about-us.html" />
+<meta name="description" content="Explore medical equipment categories for home care and learn what to discuss about clinical guidance, room setup, delivery, and rental availability." />
+<meta name="keywords" content="medical equipment for home care, home care equipment, hospital bed, wheelchair, oxygen equipment, monitoring device" />
+<link rel="canonical" href="medical-equipments.php" />
 <meta name="google-site-verification" content="FxrmckzPcTYaL7gXPNcvhWAGROvqhvdqNZlgs4IRA2k" />
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <meta charset="utf-8">
@@ -18,6 +18,19 @@
 <link href="style/media_screen.css" rel="stylesheet">
 <script src="use.fontawesome.com/c5be872b61.html"></script>
 <link rel="stylesheet" href="../maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" type="text/css">
+<style>
+    .equipment-rent__copy > p,.equipment-rent__intro > p,.equipment-rent__process-heading > p,.equipment-rent__contact > div > p { font-size:14px; }
+    .equipment-rent__actions a,.equipment-rent__process-heading > a,.equipment-rent__contact > div:last-child a { font-size:14px; }
+    .equipment-rent__note { font-size:12px; }
+    .equipment-rent__visual img { width:100%; max-width:390px; max-height:370px; object-fit:contain; }
+    .equipment-rent__categories article > span { font-size:10px; }
+    .equipment-rent__categories h3 { font-size:17px; }
+    .equipment-rent__categories p { font-size:13px; }
+    .equipment-rent__checklist h3 { font-size:15px; }
+    .equipment-rent__checklist p { font-size:13px; }
+    .equipment-rent__safety strong { font-size:14px; }
+    .equipment-rent__safety p { font-size:13px; }
+</style>
 </head>
 <body>
 <style type="text/css">
@@ -142,93 +155,79 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
 <!--header div end-->
 
 
-<!--breadcump div start-->     
-<section class="page-title-section">
+<section class="equipment-rent-title" aria-label="Page heading">
     <div class="container">
-        <h1>Medical Equipment</h1>
+        <span>CARERIGHT HOME HEALTH CARE</span>
+        <h1>Medical Equipment for Home Care</h1>
         <ol class="breadcrumb">
           <li><a href="index.php">Home</a></li>
           <li class="active">Medical Equipment</li>
         </ol>
     </div>
 </section>
-<!--breadcump div end-->
-
-
-<a name="about"></a>
-<!-- welcome div start -->
-<div class="content">
+<main class="equipment-rent">
     <div class="container">
-        <div class="row">
-        	<div class="col-md-8 col-sm-8 col-xs-12">
-            <!--weldiv start-->
-            <div class="wel">
-                <h1 style="font-size:25px;"><strong style="color:#0066CC;">Medical Equipment for Home Care</strong><span></span></h1>
-                <div class="text"><p>The right medical equipment can help families organise day-to-day care at home. Tell us what item is needed and where it will be used so our team can discuss availability and practical arrangements. Please confirm equipment selection and use with the patient's healthcare professional.</p></div>
-            
-                <div class="page-detail-content">
-                    <h2>Understanding the support</h2>
-                    <p>Families considering medical equipment for home care can begin by describing equipment suitability and practical home setup. The suitable arrangement depends on the individual, the household routine, confirmed availability, and any relevant professional guidance.</p>
-                    <h2>Planning daily routines</h2>
-                    <p>A useful discussion identifies the clinician-recommended item, delivery, setup, and rental requirements. Explain which activities are most important, when help is needed, and what the person receiving care prefers to do independently.</p>
-                    <h2>Preparing for care</h2>
-                    <p>Before support begins, gather the prescribed equipment details and supplier or clinician contact information. Keeping current information together makes family handovers clearer and helps the care team understand the arrangements already in place.</p>
-                    <h2>Home and access arrangements</h2>
-                    <p>Planning should also take account of room dimensions, doorways, stairs, and suitable power access. Mention practical constraints early, including access, timing, the household's daily routine, and any equipment that affects the service.</p>
-                    <h2>Family communication</h2>
-                    <p>Agree with family members on who will receive delivery and keep the instructions available. A clear point of contact and consistent handover can reduce confusion when schedules change or practical questions arise.</p>
-                    <h2>Respectful, personal support</h2>
-                    <p>Support should respect the person's dignity, privacy, and choices. Discuss communication preferences, familiar routines, and how assistance can be offered without taking away independence.</p>
-                    <h2>Working with healthcare professionals</h2>
-                    <p>Keep clinical responsibilities clear: equipment must be chosen and used according to professional guidance. If health needs change or new symptoms appear, contact the treating professional rather than relying on a routine service discussion.</p>
-                    <h2>Reviewing the care arrangement</h2>
-                    <p>Review the arrangement regularly, especially whether the equipment still suits the patient's care plan. Families can share practical feedback with the coordinator and consult the relevant professional when care instructions need reassessment.</p>
-                    <h2>Questions to discuss</h2>
-                    <p>Before confirming a service, ask about availability, dimensions, rental period, delivery, and servicing. Discussing duties, hours, communication, and availability in advance helps everyone understand what is and is not included.</p>
-                    <h2>Getting started</h2>
-                    <p>To get started with medical equipment for home care, share the recommended item, delivery location, rental period, and callback number. The team can use those details to discuss the request, explain possible availability, and outline the next step without assuming a booking.</p>
+        <section class="equipment-rent__hero" aria-labelledby="equipment-overview-title">
+            <div class="equipment-rent__copy">
+                <span class="equipment-rent__eyebrow">EQUIPMENT FOR HOME CARE</span>
+                <h2 id="equipment-overview-title">The right setup starts with the right guidance.</h2>
+                <p>Medical equipment can support care at home when it suits the person's needs and home environment. Discuss equipment recommendations with the treating healthcare professional, then confirm size, setup, instructions, and availability before arranging delivery or rental.</p>
+                <div class="equipment-rent__actions">
+                    <a href="medical-equipment-on-rent.php">Explore rental details <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                    <a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> Ask about availability</a>
                 </div>
-</div>
+                <div class="equipment-rent__note"><i class="fa fa-info-circle" aria-hidden="true"></i>Equipment selection and use should follow professional guidance.</div>
             </div>
-            <div class="col-md-4 col-sm-4 col-xs-12">
-            <!--callback form div start-->
-            <div class="callback">
-                <img src="images/abo.jpg" style="width:91%;">
-            </div>	
-            <!--callback form div end-->
+            <div class="equipment-rent__visual">
+                <img src="images/med.png" alt="A selection of medical equipment including a care bed, wheelchair, monitor, and respiratory devices">
+                <span class="equipment-rent__visual-stamp"><i class="fa fa-medkit" aria-hidden="true"></i> HOME CARE<br>EQUIPMENT</span>
             </div>
-        </div>
-    </div>
-</div>
+        </section>
 
-<!-- Statistics Section Start -->
-<div class="content">
-    <div class="container">
-        <div class="row">
-        	<div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-handshake-o" aria-hidden="true"></i> 1000+</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Services Delivered<br><br></p>
-                </div>
+        <section class="equipment-rent__intro" aria-labelledby="equipment-overview-intro-title">
+            <div>
+                <span>AN OVERVIEW OF EQUIPMENT TYPES</span>
+                <h2 id="equipment-overview-intro-title">Start with the need, the space, and professional advice</h2>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-thumbs-up" aria-hidden="true"></i> 10+ Yrs</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Of Exeperience In Nursing Care<br><br></p>
-                </div>
+            <p>Different items serve different purposes. A healthcare professional can advise what may be suitable, while room dimensions, access, power requirements, and caregiver instructions help determine whether it will work at home. Availability and rental arrangements should be confirmed directly before making plans.</p>
+        </section>
+
+        <section class="equipment-rent__categories" aria-label="Medical equipment categories">
+            <article><div class="equipment-rent__category-mark equipment-rent__category-mark--mobility"><i class="fa fa-wheelchair" aria-hidden="true"></i></div><span>MOBILITY &amp; ACCESS</span><h3>Mobility aids</h3><p>Ask about aids that may support movement around the home, based on the person's needs and professional guidance.</p></article>
+            <article><div class="equipment-rent__category-mark"><i class="fa fa-bed" aria-hidden="true"></i></div><span>POSITIONING &amp; REST</span><h3>Care beds</h3><p>Discuss room size, access, positioning requirements, and caregiver instructions before selecting a bed.</p></article>
+            <article><div class="equipment-rent__category-mark equipment-rent__category-mark--respiratory"><i class="fa fa-medkit" aria-hidden="true"></i></div><span>RESPIRATORY SUPPORT</span><h3>Respiratory equipment</h3><p>Confirm device selection, setup, and use with the treating healthcare professional and supplier.</p></article>
+            <article><div class="equipment-rent__category-mark equipment-rent__category-mark--monitor"><i class="fa fa-heartbeat" aria-hidden="true"></i></div><span>OBSERVATION &amp; CHECKS</span><h3>Monitoring devices</h3><p>Ask which device is appropriate, how readings should be interpreted, and who to contact with concerns.</p></article>
+        </section>
+
+        <section class="equipment-rent__process" aria-labelledby="equipment-overview-process-title">
+            <div class="equipment-rent__process-heading">
+                <span>BEFORE YOU ARRANGE EQUIPMENT</span>
+                <h2 id="equipment-overview-process-title">Check the practical details first</h2>
+                <p>These details can make it easier to discuss whether an item fits the care plan and the home.</p>
+                <a href="medical-equipment-on-rent.php">See rental information <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
             </div>
-            
-            <div class="col-md-4 col-sm-4 col-xs-12">
-                <div class="boxesnow"><br>
-                    <h2 style="text-align:center; color:#093; font-family: fantasy;"><i class="fa fa-star" aria-hidden="true"></i> 100%</h2><br>
-                    <p style="font-size: 14px; text-align: center; margin: 13px 0px 0px 0px;">Satisfaction Rate<br><br></p>
-                </div>
+            <div class="equipment-rent__checklist">
+                <article><b>01</b><div><h3>Confirm the recommendation</h3><p>Note the item or specifications discussed with the treating professional.</p></div></article>
+                <article><b>02</b><div><h3>Measure the space and access</h3><p>Check room dimensions, doorways, stairs, power access, and delivery route.</p></div></article>
+                <article><b>03</b><div><h3>Ask about setup and terms</h3><p>Confirm instructions, maintenance, delivery timing, rental period, and availability.</p></div></article>
             </div>
-        </div>
+        </section>
+
+        <aside class="equipment-rent__safety" aria-label="Important equipment safety information">
+            <span><i class="fa fa-exclamation" aria-hidden="true"></i></span>
+            <div><strong>Important safety information</strong><p>Equipment is not a substitute for clinical advice. Use devices only as instructed by the healthcare professional or supplier, and ask them about setup, servicing, and what to do if the equipment stops working.</p></div>
+        </aside>
+
+        <section class="equipment-rent__contact" aria-labelledby="equipment-overview-contact-title">
+            <div>
+                <span>DISCUSS YOUR EQUIPMENT NEED</span>
+                <h2 id="equipment-overview-contact-title">Looking for equipment for home care?</h2>
+                <p>Share the recommended item, delivery locality, preferred timing, and whether you are considering a rental. The team can discuss availability and next steps.</p>
+            </div>
+            <div><a href="tel:7668066607"><i class="fa fa-phone" aria-hidden="true"></i> Call +91 76680 66607</a><a href="enquiry.php">Send an enquiry</a></div>
+        </section>
     </div>
-</div>
-<!-- Statistics Section End -->
+</main>
 
 
 <!--bot links div start-->  

@@ -80,6 +80,79 @@
         content: "/\00a0";
         padding: 0 5px;
     }
+    .newborn-page__field-notes {
+        display: grid;
+        grid-template-columns: minmax(0, .85fr) minmax(0, 1.15fr);
+        gap: 27px;
+        margin-top: 31px;
+        padding: 26px 29px;
+        background: #fff;
+        border: 1px solid #efe4df;
+        border-radius: 3px 22px 3px 3px;
+        box-shadow: 0 11px 30px rgba(85, 68, 95, .07);
+    }
+    .newborn-page__field-intro {
+        position: sticky;
+        top: 24px;
+        align-self: start;
+        padding: 20px;
+        background: #f7eef0;
+        border-top: 3px solid #c28481;
+    }
+    .newborn-page__field-intro > span {
+        color: #a36e76;
+        font-size: 9px;
+        font-weight: 700;
+        letter-spacing: 1.4px;
+    }
+    .newborn-page__field-intro h2 {
+        margin: 9px 0;
+        color: #55445f;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 1.3;
+    }
+    .newborn-page__field-intro p,
+    .newborn-page__field-copy p {
+        color: #706774;
+        font-size: 12px;
+        line-height: 1.9;
+    }
+    .newborn-page__field-intro p { margin: 0; }
+    .newborn-page__field-copy > p {
+        margin: 0 0 13px;
+    }
+    .newborn-page__field-copy > p:first-child {
+        color: #55445f;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 1.8;
+    }
+    .newborn-page__field-copy > p:last-child { margin-bottom: 0; }
+    .newborn-page__field-copy blockquote {
+        margin: 19px 0;
+        padding: 15px 18px;
+        color: #66525f;
+        background: #fbf6f3;
+        border-left: 3px solid #c28481;
+        font-size: 12px;
+        font-style: italic;
+        line-height: 1.85;
+    }
+    @media screen and (max-width: 767px) {
+        .newborn-page__field-notes { grid-template-columns: minmax(0, 1fr); gap: 17px; margin-top: 24px; padding: 21px; }
+        .newborn-page__field-intro { position: static; }
+        .newborn-page__field-intro h2 { font-size: 22px; }
+    }
+    @media screen and (max-width: 480px) {
+        .newborn-page__field-notes { padding: 15px; }
+        .newborn-page__field-intro { padding: 16px; }
+        .newborn-page__field-intro h2 { font-size: 20px; }
+        .newborn-page__field-intro p,
+        .newborn-page__field-copy p { font-size: 12px; line-height: 1.8; }
+        .newborn-page__field-copy > p:first-child { font-size: 13px; }
+        .newborn-page__field-copy blockquote { margin: 15px 0; padding: 12px 14px; }
+    }
 </style>
 <a href="tel:7668066607" id="callnowbutton"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNjAgNjAiPjxwYXRoIGQ9Ik03LjEwNCAxNC4wMzJsMTUuNTg2IDEuOTg0YzAgMC0wLjAxOSAwLjUgMCAwLjk1M2MwLjAyOSAwLjc1Ni0wLjI2IDEuNTM0LTAuODA5IDIuMSBsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDE2LjUgMTcuNCAxOS44IDE5LjhsMTYuODEzIDEuMTQxYzAgMCAwIDAuNCAwIDEuMSBjLTAuMDAyIDAuNDc5LTAuMTc2IDAuOTUzLTAuNTQ5IDEuMzI3bC02LjUwNCA2LjUwNWMwIDAtMTEuMjYxIDAuOTg4LTI1LjkyNS0xMy42NzRDNi4xMTcgMjUuMyA3LjEgMTQgNy4xIDE0IiBmaWxsPSIjMDA2NzAwIi8+PHBhdGggZD0iTTcuMTA0IDEzLjAzMmw2LjUwNC02LjUwNWMwLjg5Ni0wLjg5NSAyLjMzNC0wLjY3OCAzLjEgMC4zNWw1ijtggYzAuNzM4IDEgMC41IDIuNTMxLTAuMzYgMy40MjZsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDUuMyA2LjkgOS4xIDEwLjY5OWMzLjg0MiAzLjggNy40IDYuNyAxMC43IDkuMSBsNC43NC00Ljc0MmMwLjg5Ny0wLjg5NSAyLjQ3MS0xLjAyNiAzLjQ5OC0wLjI4OWw3LjY0NiA1LjQ1NWMxLjAyNSAwLjcgMS4zIDIuMiAwLjQgMy4xMDVsLTYuNTA0IDYuNSBjMCAwLTExLjI2MiAwLjk4OC0yNS45MjUtMTMuNjc0QzYuMTE3IDI0LjMgNy4xIDEzIDcuMSAxMyIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg=="width="40"> Click To Call +91 7668066607 </a>
 	 <style>
@@ -199,6 +272,22 @@ provides male and female nurses, Home nursing, Home Attendants, Patient Care, De
                 <h3>Parent-led handovers</h3>
                 <p>Agree how routine updates are shared, who is the family contact, and how schedule changes are handled.</p>
             </article>
+        </section>
+
+        <section class="newborn-page__field-notes" aria-labelledby="newborn-field-notes-title">
+            <header class="newborn-page__field-intro">
+                <span>NOTES FROM THE EARLY DAYS</span>
+                <h2 id="newborn-field-notes-title">A family's rhythm takes time to find.</h2>
+                <p>Life with a newborn rarely follows a perfect timetable. Parents can take the lead, one day and one routine at a time, and decide which practical help feels right for their home.</p>
+            </header>
+            <div class="newborn-page__field-copy">
+                <p>There is no single way to settle into life with a baby. Some families already have a routine that works for them; others are still learning the baby's cues and figuring out what support would make the day feel more manageable. Baby care at home should start with the parents' preferences and the baby's established routine, not with assumptions about what every family needs.</p>
+                <p>Parents can talk through ordinary, agreed baby-care tasks such as helping keep the baby's space and essentials organised, following the parents' lead around changing and settling, or lending a hand during a busy part of the day. The exact tasks and timing should be discussed in advance, with parents clear about supervision, when they want to be involved, and how they would like updates. A caregiver can support a family's routine, but should never replace a parent or disregard the family's instructions.</p>
+                <blockquote>Small details can matter: where parents keep the baby's essentials, which settling cues they have noticed, and how they prefer the caregiver to check in before helping.</blockquote>
+                <p>Feeding and sleep can bring many questions for new parents, but recommendations depend on the baby and current professional guidance. Follow the baby's healthcare provider for advice about feeding, sleep position, safe sleep arrangements, medicines, and any health concern. A baby-care attendant should follow the parents' instructions within the agreed role and should not diagnose a concern, recommend treatment, or make independent changes to clinical guidance.</p>
+                <p>Parents also deserve practical support as they adjust to a new household rhythm. It may help to agree on the parts of the day when another pair of hands would be most useful, how the caregiver will communicate, and what parents want to handle themselves. A clear handover—covering relevant routine updates, supplies that need attention, and any changes requested by the parents—can make it easier for everyone to stay on the same page without creating pressure to follow a rigid schedule.</p>
+                <p>Every baby's cues and every family's circumstances are different, and a routine may change from one week to the next. Keep instructions simple, let parents remain closely involved, and revisit the arrangement if a task or schedule no longer feels helpful. If the baby seems unwell, parents have a concern about feeding or sleep, or anything about the baby's condition changes, contact the baby's healthcare provider; for an emergency, contact local emergency services.</p>
+            </div>
         </section>
 
         <section class="newborn-page__plan">
